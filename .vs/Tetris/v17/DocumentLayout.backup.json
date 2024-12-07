@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\unity\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|c:\\unity\\tetris\\assets\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\unity\\Tetris\\assets\\scrips\\tetriminocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\tetriminocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\unity\\Tetris\\assets\\scrips\\girdmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\girdmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|C:\\unity\\Tetris\\assets\\scrips\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\unity\\Tetris\\Assets\\Scrips\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\GameManager.cs",
+              "ToolTip": "C:\\unity\\Tetris\\Assets\\Scrips\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\GameManager.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwI4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:25:33.905Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\unity\\Tetris\\Assets\\Scrips\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\SoundManager.cs",
+              "ToolTip": "C:\\unity\\Tetris\\Assets\\Scrips\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\SoundManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:32:40.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TetriminoController.cs",
+              "DocumentMoniker": "C:\\unity\\Tetris\\Assets\\Scrips\\TetriminoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\TetriminoController.cs",
+              "ToolTip": "C:\\unity\\Tetris\\Assets\\Scrips\\TetriminoController.cs",
+              "RelativeToolTip": "Assets\\Scrips\\TetriminoController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:47:30.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Girdmanager.cs",
+              "DocumentMoniker": "C:\\unity\\Tetris\\Assets\\Scrips\\Girdmanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Girdmanager.cs",
+              "ToolTip": "C:\\unity\\Tetris\\Assets\\Scrips\\Girdmanager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Girdmanager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:37:20.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
