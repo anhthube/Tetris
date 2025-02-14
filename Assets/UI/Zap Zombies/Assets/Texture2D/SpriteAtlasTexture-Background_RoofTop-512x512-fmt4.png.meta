@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: e1dd587faab08c249bd374d212db658e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: rooftop_barricade_L03
+  - first:
+      213: 21300002
+    second: rooftop_barricade_L02
+  - first:
+      213: 21300004
+    second: rooftop_barricade_L01
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rooftop_barricade_L03
+      rect:
+        serializedVersion: 2
+        x: 0.02674866
+        y: 0.07612038
+        width: 492.9465
+        height: 134.8477
+      alignment: 9
+      pivot: {x: 0.5213005, y: 0.4110108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.5, y: 0.5000076}
+        - {x: 134.5, y: -18.49999}
+        - {x: 98.5, y: -67.49999}
+        - {x: 91.5, y: -67.49999}
+        - {x: 6.5, y: 2.500008}
+        - {x: 2.5, y: -49.49999}
+        - {x: -16.5, y: -67.49999}
+        - {x: -185.5, y: -67.49999}
+        - {x: -238.5, y: -55.49999}
+        - {x: -246.5, y: -32.49999}
+        - {x: -246.5, y: 67.50001}
+        - {x: 228.5, y: 67.50001}
+        - {x: 246.5, y: 25.50001}
+        - {x: 246.5, y: -22.49999}
+        - {x: 199.5, y: -43.49999}
+        - {x: 169.5, y: -47.49999}
+        - {x: 137.5, y: -21.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e594f214950ecbb4f998ff8db85d5135
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rooftop_barricade_L02
+      rect:
+        serializedVersion: 2
+        x: 0.02674866
+        y: 137
+        width: 447.8972
+        height: 155.9239
+      alignment: 9
+      pivot: {x: 0.4286101, y: 0.5419311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -203.9753, y: -65.96194}
+        - {x: -223.9753, y: -47.96194}
+        - {x: -223.9753, y: 0.03805542}
+        - {x: -218.9753, y: 11.03806}
+        - {x: -198.9753, y: 33.03806}
+        - {x: -176.9753, y: 33.03806}
+        - {x: -146.9753, y: 20.03806}
+        - {x: -133.9753, y: 7.038055}
+        - {x: -133.9753, y: -27.96194}
+        - {x: -160.9753, y: -65.96194}
+      - - {x: -106.9753, y: 8.038055}
+        - {x: -111.9753, y: 36.03806}
+        - {x: -111.9753, y: 78.03806}
+        - {x: 44.02467, y: 78.03806}
+        - {x: 129.0247, y: 63.03806}
+        - {x: 140.0247, y: 44.03806}
+        - {x: 201.0247, y: 26.03806}
+        - {x: 224.0247, y: -4.961945}
+        - {x: 224.0247, y: -48.96194}
+        - {x: 209.0247, y: -77.96194}
+        - {x: 146.0247, y: -77.96194}
+        - {x: 61.02467, y: -61.96194}
+        - {x: 27.02467, y: -77.96194}
+        - {x: -9.975327, y: -77.96194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8da345e58fdde4091e3ef4b263ec50
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rooftop_barricade_L01
+      rect:
+        serializedVersion: 2
+        x: 0.02674866
+        y: 295.0268
+        width: 319.8972
+        height: 136.8971
+      alignment: 9
+      pivot: {x: 0.9158358, y: 0.5147899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.9753, y: -68.47531}
+        - {x: -159.9753, y: -38.47531}
+        - {x: -159.9753, y: 68.52469}
+        - {x: 79.02469, y: 68.52469}
+        - {x: 150.0247, y: 18.52469}
+        - {x: 160.0247, y: -4.475311}
+        - {x: 160.0247, y: -39.47531}
+        - {x: 137.0247, y: -68.47531}
+        - {x: 92.02469, y: -68.47531}
+        - {x: -23.97531, y: -28.47531}
+        - {x: -80.97533, y: -68.47531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37991e1717d4e0b43aa536fd2ad35a9a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      rooftop_barricade_L01: 21300004
+      rooftop_barricade_L02: 21300002
+      rooftop_barricade_L03: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

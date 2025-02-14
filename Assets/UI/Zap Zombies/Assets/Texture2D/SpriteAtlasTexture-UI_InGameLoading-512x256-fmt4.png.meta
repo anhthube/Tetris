@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 2a2c2fd8bf9dd9b49b3ed61e4eeb6258
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_12
+  - first:
+      213: 21300002
+    second: zombie_08
+  - first:
+      213: 21300004
+    second: zombie_01
+  - first:
+      213: 21300006
+    second: zombie_02
+  - first:
+      213: 21300008
+    second: zombie_03
+  - first:
+      213: 21300010
+    second: zombie_04
+  - first:
+      213: 21300012
+    second: zombie_05
+  - first:
+      213: 21300014
+    second: zombie_06
+  - first:
+      213: 21300016
+    second: zombie_07
+  - first:
+      213: 21300018
+    second: zombie_09
+  - first:
+      213: 21300020
+    second: zombie_10
+  - first:
+      213: 21300022
+    second: zombie_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_12
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 0
+        width: 74.97325
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4264621, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.48662, y: -59}
+        - {x: -37.51337, y: -59}
+        - {x: -37.51337, y: 57}
+        - {x: -36.51337, y: 59}
+        - {x: 13.48662, y: 59}
+        - {x: 37.48663, y: 34}
+        - {x: 37.48663, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6a2965d56c4b643ac97572d18c9a59
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_08
+      rect:
+        serializedVersion: 2
+        x: 77.03629
+        y: 0
+        width: 80.96371
+        height: 117.9957
+      alignment: 9
+      pivot: {x: 0.4688979, y: 0.5000182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.51814, y: -58.99785}
+        - {x: -40.51814, y: 12.00214}
+        - {x: -40.51814, y: 38.00214}
+        - {x: -24.51814, y: 59.00214}
+        - {x: 13.48186, y: 59.00214}
+        - {x: 40.48186, y: 4.002144}
+        - {x: 40.48186, y: -41.99786}
+        - {x: 23.48186, y: -58.99785}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff02f9ea988e4a643b6a506458219273
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_01
+      rect:
+        serializedVersion: 2
+        x: 0.0362854
+        y: 120
+        width: 75.96371
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4339403, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.01814, y: -59}
+        - {x: -38.01814, y: -46}
+        - {x: -38.01814, y: 48}
+        - {x: -26.01814, y: 59}
+        - {x: 13.98186, y: 59}
+        - {x: 37.98186, y: 22}
+        - {x: 37.98186, y: -43}
+        - {x: 29.98186, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2abe7fe4f52724db87ae02c56f5356
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_02
+      rect:
+        serializedVersion: 2
+        x: 78.00597
+        y: 120
+        width: 78.96728
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4558094, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.48961, y: -59}
+        - {x: -39.48961, y: -46}
+        - {x: -39.48961, y: 59}
+        - {x: 8.510391, y: 59}
+        - {x: 39.51039, y: 28}
+        - {x: 39.51039, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d6b262fc928344ac4bcc9782a4635
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_03
+      rect:
+        serializedVersion: 2
+        x: 160.0267
+        y: 0
+        width: 80.9465
+        height: 118
+      alignment: 9
+      pivot: {x: 0.493823, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.50001, y: -59}
+        - {x: -40.5, y: -14}
+        - {x: -40.5, y: 56}
+        - {x: -36.5, y: 59}
+        - {x: 11.5, y: 59}
+        - {x: 40.5, y: 14}
+        - {x: 40.5, y: -26}
+        - {x: 27.5, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c5800117f248649ab9e476c50bbbf7
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_04
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 82.97325
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5182393, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.48663, y: -59}
+        - {x: -41.48663, y: -5}
+        - {x: -41.48663, y: 52}
+        - {x: -33.48663, y: 59}
+        - {x: 38.51337, y: 59}
+        - {x: 41.51337, y: 31}
+        - {x: 41.51337, y: -53}
+        - {x: 24.51337, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6a5e91f5c2d8944859bd3507c2de9c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_05
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 120
+        width: 82.94868
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5183928, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.47434, y: -59}
+        - {x: -41.47434, y: -2}
+        - {x: -41.47434, y: 51}
+        - {x: -30.47434, y: 59}
+        - {x: 3.525658, y: 59}
+        - {x: 41.52566, y: 5}
+        - {x: 41.52566, y: -30}
+        - {x: 29.52566, y: -58}
+        - {x: 25.52566, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408550ae2855e2a499ebe26eeb30f769
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_06
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 84.97325
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5060416, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.48663, y: -59}
+        - {x: -42.48663, y: 2}
+        - {x: -42.48663, y: 50}
+        - {x: -25.48663, y: 59}
+        - {x: 1.513374, y: 59}
+        - {x: 10.51337, y: 54}
+        - {x: 42.51337, y: 10}
+        - {x: 42.51337, y: -46}
+        - {x: 31.51337, y: -59}
+        - {x: 1.513374, y: -59}
+        - {x: -4.486626, y: -52}
+        - {x: -8.486626, y: -57}
+        - {x: -11.48663, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3fc82a98a1b344ca6422f5c50c39af
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_07
+      rect:
+        serializedVersion: 2
+        x: 244.0267
+        y: 120
+        width: 83.97325
+        height: 117.9487
+      alignment: 9
+      pivot: {x: 0.4879321, y: 0.5002176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.98662, y: -58.97433}
+        - {x: -42.01338, y: -58.97433}
+        - {x: -42.01338, y: 59.02566}
+        - {x: -2.013378, y: 59.02566}
+        - {x: 19.98662, y: 52.02566}
+        - {x: 41.98662, y: -0.9743385}
+        - {x: 41.98662, y: -37.97434}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d847a6f2bbcdd14382cb7394c0003ef
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_09
+      rect:
+        serializedVersion: 2
+        x: 415.0477
+        y: 0
+        width: 75.95229
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4338551, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.02385, y: -53}
+        - {x: -38.02385, y: 7}
+        - {x: -38.02385, y: 49}
+        - {x: -27.02385, y: 59}
+        - {x: 1.976147, y: 59}
+        - {x: 25.97615, y: 46}
+        - {x: 37.97615, y: 9}
+        - {x: 37.97615, y: -42}
+        - {x: 22.97615, y: -59}
+        - {x: -24.02385, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b9654067e0f74595620cab9ae6f63
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_10
+      rect:
+        serializedVersion: 2
+        x: 330.0363
+        y: 120
+        width: 76.96371
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4412951, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.51814, y: -59}
+        - {x: -38.51814, y: 3}
+        - {x: -38.51814, y: 41}
+        - {x: -21.51814, y: 59}
+        - {x: 3.481857, y: 59}
+        - {x: 25.48186, y: 43}
+        - {x: 38.48186, y: -7}
+        - {x: 38.48186, y: -36}
+        - {x: 25.48186, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c11ebedc2af440b38fe034f416962
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_11
+      rect:
+        serializedVersion: 2
+        x: 409.0564
+        y: 120
+        width: 74.94363
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4262354, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.47182, y: -59}
+        - {x: -37.52818, y: -59}
+        - {x: -37.52818, y: 44}
+        - {x: -21.52818, y: 59}
+        - {x: 9.471818, y: 59}
+        - {x: 15.47182, y: 58}
+        - {x: 37.47182, y: 4}
+        - {x: 37.47182, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6722898d94f8e740b7f14a66060ae45
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_01: 21300004
+      zombie_02: 21300006
+      zombie_03: 21300008
+      zombie_04: 21300010
+      zombie_05: 21300012
+      zombie_06: 21300014
+      zombie_07: 21300016
+      zombie_08: 21300002
+      zombie_09: 21300018
+      zombie_10: 21300020
+      zombie_11: 21300022
+      zombie_12: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

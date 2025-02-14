@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 8e88923ba28448b4eb954823fef93694
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: policeman_damage_02
+  - first:
+      213: 21300002
+    second: policeman_damage_01
+  - first:
+      213: 21300004
+    second: policeman_damage_03
+  - first:
+      213: 21300006
+    second: policeman_damage_04
+  - first:
+      213: 21300008
+    second: policeman_damage_05
+  - first:
+      213: 21300010
+    second: policeman_walk_07
+  - first:
+      213: 21300012
+    second: policeman_walk_05
+  - first:
+      213: 21300014
+    second: policeman_walk_06
+  - first:
+      213: 21300016
+    second: policeman_walk_03
+  - first:
+      213: 21300018
+    second: policeman_walk_01
+  - first:
+      213: 21300020
+    second: policeman_walk_09
+  - first:
+      213: 21300022
+    second: policeman_walk_04
+  - first:
+      213: 21300024
+    second: policeman_walk_02
+  - first:
+      213: 21300026
+    second: policeman_walk_08
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: policeman_damage_02
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.02675247
+        width: 208.8971
+        height: 242.9465
+      alignment: 9
+      pivot: {x: 0.6363126, y: 0.4464903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.52469, y: -45.49999}
+        - {x: -34.52469, y: -34.49999}
+        - {x: -34.52469, y: -32.49999}
+        - {x: -31.52469, y: -24.49999}
+        - {x: -42.52469, y: -42.49999}
+        - {x: -97.52469, y: -78.49999}
+        - {x: -104.5247, y: -69.49999}
+        - {x: -104.5247, y: -39.49999}
+        - {x: -43.52469, y: 74.50001}
+        - {x: 2.475311, y: 121.5}
+        - {x: 85.47531, y: 121.5}
+        - {x: 104.4753, y: 74.50001}
+        - {x: 104.4753, y: -67.49999}
+        - {x: 86.47531, y: -121.5}
+        - {x: 30.47531, y: -121.5}
+        - {x: -0.5246887, y: -106.5}
+        - {x: -20.52469, y: -53.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839e5bc673223694f9b83dc9395c73a6
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_damage_01
+      rect:
+        serializedVersion: 2
+        x: 211.0564
+        y: 232.0267
+        width: 153.8943
+        height: 212.9219
+      alignment: 9
+      pivot: {x: 0.5129732, y: 0.5986854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.99649, y: -106.4877}
+        - {x: -77.0035, y: -106.4877}
+        - {x: -77.0035, y: 40.51228}
+        - {x: -21.0035, y: 106.5123}
+        - {x: 4.996498, y: 106.5123}
+        - {x: 59.9965, y: 97.51228}
+        - {x: 76.9965, y: 89.51228}
+        - {x: 76.9965, y: -71.48772}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8b22d81470ce4a8034414f3643723
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_damage_03
+      rect:
+        serializedVersion: 2
+        x: 532.0761
+        y: 0.02675247
+        width: 215.8971
+        height: 238.9465
+      alignment: 9
+      pivot: {x: 0.6434726, y: 0.4497796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.02469, y: -119.5}
+        - {x: -83.02469, y: -101.5}
+        - {x: -31.02469, y: -31.49999}
+        - {x: -28.02468, y: -18.49999}
+        - {x: -29.02469, y: -22.49999}
+        - {x: -48.02469, y: -41.49999}
+        - {x: -96.02469, y: -76.49999}
+        - {x: -108.0247, y: -70.49998}
+        - {x: -108.0247, y: -25.49999}
+        - {x: -6.024689, y: 119.5}
+        - {x: 72.97531, y: 119.5}
+        - {x: 107.9753, y: 11.50001}
+        - {x: 107.9753, y: -119.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8927d662012a2914cb2ce6ce3b7e3f9d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_damage_04
+      rect:
+        serializedVersion: 2
+        x: 329.0268
+        y: 456.0268
+        width: 200.9542
+        height: 227.8971
+      alignment: 9
+      pivot: {x: 0.6119465, y: 0.4540349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.4961319, y: -113.9753}
+        - {x: -100.5039, y: -113.9753}
+        - {x: -100.5039, y: -37.97532}
+        - {x: -38.50387, y: 114.0247}
+        - {x: 51.49613, y: 114.0247}
+        - {x: 100.4961, y: 17.02468}
+        - {x: 100.4961, y: -9.975319}
+        - {x: 94.49613, y: -101.9753}
+        - {x: 78.49613, y: -113.9753}
+        - {x: 67.49613, y: -113.9753}
+        - {x: 63.49613, y: -111.9753}
+        - {x: 46.49613, y: -61.97532}
+        - {x: 41.49613, y: -71.97532}
+        - {x: 14.49613, y: -111.9753}
+        - {x: 11.49613, y: -112.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237467e3f9687d744bce081067e4f322
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_damage_05
+      rect:
+        serializedVersion: 2
+        x: 0.0362854
+        y: 245.0267
+        width: 170.9208
+        height: 228.9465
+      alignment: 9
+      pivot: {x: 0.5556006, y: 0.5131035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.4967, y: -114.5}
+        - {x: -85.4967, y: -109.5}
+        - {x: -85.4967, y: 37.5}
+        - {x: -15.4967, y: 114.5}
+        - {x: 27.5033, y: 114.5}
+        - {x: 85.5033, y: 45.5}
+        - {x: 85.5033, y: -69.5}
+        - {x: 79.5033, y: -103.5}
+        - {x: 16.5033, y: -114.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e129684ca6ec4582796f4fb7e5855
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_walk_07
+      rect:
+        serializedVersion: 2
+        x: 211.1242
+        y: 0.04290771
+        width: 160.8217
+        height: 229.9094
+      alignment: 9
+      pivot: {x: 0.5215453, y: 0.5848265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.46495, y: -18.9976}
+        - {x: 32.46495, y: -47.9976}
+        - {x: 1.464951, y: -81.9976}
+        - {x: -50.53505, y: -114.9976}
+        - {x: -80.53505, y: -114.9976}
+        - {x: -80.53505, y: 60.0024}
+        - {x: -51.53505, y: 115.0024}
+        - {x: 19.46495, y: 115.0024}
+        - {x: 80.46495, y: 80.0024}
+        - {x: 80.46495, y: -72.9976}
+        - {x: 50.46495, y: -72.9976}
+        - {x: 41.46495, y: -25.9976}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ebb26edab4ba34eb14f9db45e00672
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_walk_05
+      rect:
+        serializedVersion: 2
+        x: 374.0761
+        y: 0.0477047
+        width: 155.8971
+        height: 223.929
+      alignment: 9
+      pivot: {x: 0.5254996, y: 0.5914924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.97532, y: -13.01221}
+        - {x: 40.97532, y: -12.01221}
+        - {x: 40.97532, y: -13.01221}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65fa54d7212f1a48a917c6afa46aa53
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_walk_06
+      rect:
+        serializedVersion: 2
+        x: 750.0761
+        y: 0.02675056
+        width: 157.8971
+        height: 226.9256
+      alignment: 9
+      pivot: {x: 0.5251766, y: 0.5881808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.02469, y: -113.4895}
+        - {x: -79.02469, y: -112.4895}
+        - {x: -79.02469, y: 33.51048}
+        - {x: -33.02469, y: 113.5105}
+        - {x: 26.97531, y: 113.5105}
+        - {x: 78.97531, y: 77.51048}
+        - {x: 78.97531, y: -65.48952}
+        - {x: 67.97531, y: -82.48952}
+        - {x: -30.02469, y: -113.4895}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ced486467eb88418356c8da673c8e2
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_walk_03
+      rect:
+        serializedVersion: 2
+        x: 367.0582
+        y: 232.0144
+        width: 153.915
+        height: 216.8768
+      alignment: 9
+      pivot: {x: 0.5193891, y: 0.5970471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.98428, y: -15.45274}
+        - {x: 40.98428, y: -16.45274}
+        - {x: 39.98428, y: -22.45274}
+        - {x: -3.015724, y: -89.45274}
+        - {x: -55.01572, y: -104.4527}
+        - {x: -63.01572, y: -108.4527}
+        - {x: -73.01572, y: -108.4527}
+        - {x: -77.01572, y: -104.4527}
+        - {x: -77.01572, y: 47.54726}
+        - {x: -28.01572, y: 108.5473}
+        - {x: 10.98428, y: 108.5473}
+        - {x: 55.98427, y: 95.54726}
+        - {x: 74.98428, y: 70.54726}
+        - {x: 76.98428, y: 59.54726}
+        - {x: 76.98428, y: -68.45274}
+        - {x: 64.98428, y: -81.45274}
+        - {x: 45.98428, y: -75.45274}
+        - {x: 40.98428, y: -23.45274}
+        - {x: 42.98428, y: -17.45274}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1fbcc68d978a84696d5dbba203efd1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_walk_01
+      rect:
+        serializedVersion: 2
+        x: 523.0564
+        y: 241.0267
+        width: 153.8943
+        height: 212.9219
+      alignment: 9
+      pivot: {x: 0.5129732, y: 0.5986854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.0035, y: -106.4877}
+        - {x: -77.0035, y: -102.4877}
+        - {x: -77.0035, y: 40.51228}
+        - {x: -21.0035, y: 106.5123}
+        - {x: 4.996498, y: 106.5123}
+        - {x: 59.9965, y: 97.51228}
+        - {x: 76.9965, y: 66.51228}
+        - {x: 76.9965, y: -71.48772}
+        - {x: 50.9965, y: -88.48772}
+        - {x: -4.003502, y: -94.48772}
+        - {x: -53.0035, y: -105.4877}
+        - {x: -57.0035, y: -106.4877}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d62d0bcbd3b4745a5a453299c66320
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_walk_09
+      rect:
+        serializedVersion: 2
+        x: 750.0761
+        y: 229.0367
+        width: 162.8971
+        height: 232.9156
+      alignment: 9
+      pivot: {x: 0.5213344, y: 0.5773048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.47531, y: -23.4945}
+        - {x: 28.47531, y: -63.4945}
+        - {x: -49.52468, y: -116.4945}
+        - {x: -81.52469, y: -116.4945}
+        - {x: -81.52469, y: 65.5055}
+        - {x: -29.52469, y: 116.5055}
+        - {x: 8.475311, y: 116.5055}
+        - {x: 45.47531, y: 100.5055}
+        - {x: 73.47531, y: 52.5055}
+        - {x: 81.47531, y: -5.494499}
+        - {x: 81.47531, y: -73.4945}
+        - {x: 60.47531, y: -76.4945}
+        - {x: 53.47531, y: -64.4945}
+        - {x: 49.47531, y: -33.4945}
+        - {x: 41.47531, y: -12.4945}
+        - {x: 41.47531, y: -14.4945}
+        - {x: 42.47531, y: -15.4945}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518dca3ff2c9db4b845c13665cae4aa
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_walk_04
+      rect:
+        serializedVersion: 2
+        x: 0.07440948
+        y: 476.0597
+        width: 153.8988
+        height: 218.8642
+      alignment: 9
+      pivot: {x: 0.5258363, y: 0.5959874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.97617, y: -109.4918}
+        - {x: -77.02383, y: -109.4918}
+        - {x: -77.02383, y: 48.5082}
+        - {x: -27.02383, y: 109.5082}
+        - {x: 5.976173, y: 109.5082}
+        - {x: 57.97618, y: 97.5082}
+        - {x: 76.97617, y: 58.5082}
+        - {x: 76.97617, y: -59.4918}
+        - {x: 70.97617, y: -76.4918}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce21bbfb23d30498eb543a24c4aa92
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_walk_02
+      rect:
+        serializedVersion: 2
+        x: 173.0761
+        y: 447.0143
+        width: 153.8745
+        height: 213.9095
+      alignment: 9
+      pivot: {x: 0.5129107, y: 0.6006542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.98663, y: -19.96912}
+        - {x: 37.98663, y: -30.96911}
+        - {x: -3.013374, y: -86.96912}
+        - {x: -48.01337, y: -106.9691}
+        - {x: -77.01337, y: -106.9691}
+        - {x: -77.01337, y: 46.03088}
+        - {x: -21.01337, y: 107.0309}
+        - {x: 71.98663, y: 107.0309}
+        - {x: 76.98663, y: 69.03088}
+        - {x: 76.98663, y: -78.96912}
+        - {x: 52.98663, y: -80.96912}
+        - {x: 46.98663, y: -60.96912}
+        - {x: 41.98663, y: -22.96912}
+        - {x: 41.98663, y: -17.96912}
+        - {x: 38.98663, y: -15.96912}
+        - {x: 39.98663, y: -16.96912}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801e7bf801b2ef4dad7b0e3806085d6
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policeman_walk_08
+      rect:
+        serializedVersion: 2
+        x: 532.1142
+        y: 456.0477
+        width: 162.8097
+        height: 230.8762
+      alignment: 9
+      pivot: {x: 0.5213805, y: 0.5823568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.48095, y: -74.48579}
+        - {x: 41.48095, y: -12.48579}
+        - {x: 41.48095, y: -18.48579}
+        - {x: 38.48095, y: -52.48579}
+        - {x: -39.51905, y: -115.4858}
+        - {x: -78.51905, y: -115.4858}
+        - {x: -81.51905, y: -114.4858}
+        - {x: -81.51905, y: 29.51421}
+        - {x: -36.51905, y: 106.5142}
+        - {x: -29.51905, y: 115.5142}
+        - {x: -9.519051, y: 115.5142}
+        - {x: 52.48095, y: 105.5142}
+        - {x: 81.48095, y: 77.51421}
+        - {x: 81.48095, y: -98.48578}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ebc0a0ae1448747821d9fd9ad70ac9
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      policeman_damage_01: 21300002
+      policeman_damage_02: 21300000
+      policeman_damage_03: 21300004
+      policeman_damage_04: 21300006
+      policeman_damage_05: 21300008
+      policeman_walk_01: 21300018
+      policeman_walk_02: 21300024
+      policeman_walk_03: 21300016
+      policeman_walk_04: 21300022
+      policeman_walk_05: 21300012
+      policeman_walk_06: 21300014
+      policeman_walk_07: 21300010
+      policeman_walk_08: 21300026
+      policeman_walk_09: 21300020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

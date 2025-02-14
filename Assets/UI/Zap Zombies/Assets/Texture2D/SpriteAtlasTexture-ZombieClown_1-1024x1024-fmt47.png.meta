@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: bc394a96552f3d347bb38173065ef4e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_Clown_walk_06
+  - first:
+      213: 21300002
+    second: zombie_Clown_walk_05
+  - first:
+      213: 21300004
+    second: zombie_Clown_damage_07
+  - first:
+      213: 21300006
+    second: zombie_Clown_damage_08
+  - first:
+      213: 21300008
+    second: zombie_Clown_walk_01
+  - first:
+      213: 21300010
+    second: zombie_Clown_walk_08
+  - first:
+      213: 21300012
+    second: zombie_Clown_walk_10
+  - first:
+      213: 21300014
+    second: zombie_Clown_walk_07
+  - first:
+      213: 21300016
+    second: zombie_Clown_walk_04
+  - first:
+      213: 21300018
+    second: zombie_Clown_walk_02
+  - first:
+      213: 21300020
+    second: zombie_Clown_walk_03
+  - first:
+      213: 21300022
+    second: zombie_Clown_walk_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_Clown_walk_06
+      rect:
+        serializedVersion: 2
+        x: 0.05637169
+        y: 0.07611847
+        width: 192.8873
+        height: 268.8971
+      alignment: 9
+      pivot: {x: 0.6503469, y: 0.59474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -121.5247}
+        - {x: -96.5, y: -73.52467}
+        - {x: -96.5, y: 9.475327}
+        - {x: -91.50001, y: 29.47533}
+        - {x: -8.5, y: 134.4753}
+        - {x: 48.5, y: 134.4753}
+        - {x: 63.5, y: 129.4753}
+        - {x: 80.5, y: 71.47533}
+        - {x: 96.5, y: 55.47533}
+        - {x: 96.5, y: 22.47533}
+        - {x: 22.5, y: -134.5247}
+        - {x: -18.5, y: -134.5247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaa16b7b1aa20348a88ede70ed63985
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_walk_05
+      rect:
+        serializedVersion: 2
+        x: 195.0564
+        y: 0.07611847
+        width: 198.8675
+        height: 272.8478
+      alignment: 9
+      pivot: {x: 0.6358184, y: 0.5861286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.49013, y: -136.5}
+        - {x: -99.49013, y: -85.5}
+        - {x: -99.49013, y: 40.5}
+        - {x: -17.49013, y: 136.5}
+        - {x: 42.50987, y: 136.5}
+        - {x: 64.50987, y: 127.5}
+        - {x: 99.50987, y: 70.5}
+        - {x: 99.50987, y: 28.5}
+        - {x: 18.50987, y: -134.5}
+        - {x: 17.50987, y: -136.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff0011353be5340a6354e786b6c6f4
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_damage_07
+      rect:
+        serializedVersion: 2
+        x: 470.0761
+        y: 281.0267
+        width: 272.911
+        height: 357.8972
+      alignment: 9
+      pivot: {x: 0.4888915, y: 0.4190401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.53162, y: -178.9753}
+        - {x: -136.5316, y: -36.97533}
+        - {x: -136.5316, y: 84.02467}
+        - {x: 32.46838, y: 179.0247}
+        - {x: 87.46838, y: 179.0247}
+        - {x: 97.46838, y: 175.0247}
+        - {x: 108.4684, y: 147.0247}
+        - {x: 104.4684, y: 118.0247}
+        - {x: 116.4684, y: 117.0247}
+        - {x: 130.4684, y: 113.0247}
+        - {x: 136.4684, y: 97.02467}
+        - {x: 136.4684, y: 74.02467}
+        - {x: 75.46838, y: -2.975327}
+        - {x: -2.531616, y: -178.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a023f758ea7944686e0a0c3942c4ba
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_damage_08
+      rect:
+        serializedVersion: 2
+        x: 209.0564
+        y: 281.0761
+        width: 258.8815
+        height: 290.8726
+      alignment: 9
+      pivot: {x: 0.5618154, y: 0.5394936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.49713, y: -145.5124}
+        - {x: -129.4971, y: -24.51239}
+        - {x: -129.4971, y: 7.48761}
+        - {x: -77.49713, y: 67.48761}
+        - {x: -16.49713, y: 80.48761}
+        - {x: 24.50287, y: 52.48761}
+        - {x: 39.50287, y: 50.48761}
+        - {x: 23.50287, y: 53.48761}
+        - {x: 10.50287, y: 63.48761}
+        - {x: 0.5028687, y: 95.48761}
+        - {x: 21.50287, y: 145.4876}
+        - {x: 129.5029, y: 145.4876}
+        - {x: 129.5029, y: -132.5124}
+        - {x: 33.50287, y: -145.5124}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f80edc6ed9fd44a3884002b758a43
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_walk_01
+      rect:
+        serializedVersion: 2
+        x: 396.0363
+        y: 0.07611847
+        width: 230.9208
+        height: 278.8971
+      alignment: 9
+      pivot: {x: 0.5606412, y: 0.5626587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.49669, y: -6.524673}
+        - {x: -74.49669, y: -5.524673}
+        - {x: -76.49669, y: -4.524673}
+        - {x: -81.49669, y: -9.524675}
+        - {x: -106.4967, y: 11.47533}
+        - {x: -115.4967, y: 40.47533}
+        - {x: -115.4967, y: 61.47533}
+        - {x: -0.4966888, y: 139.4753}
+        - {x: 103.5033, y: 139.4753}
+        - {x: 115.5033, y: 112.4753}
+        - {x: 115.5033, y: 0.4753265}
+        - {x: -3.496689, y: -139.5247}
+        - {x: -42.49669, y: -139.5247}
+        - {x: -115.4967, y: -69.52467}
+        - {x: -115.4967, y: -56.52467}
+        - {x: -79.49669, y: -10.52467}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bf3051aca0b564d85fb171d988d2b6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_walk_08
+      rect:
+        serializedVersion: 2
+        x: 629.0564
+        y: 0.07611847
+        width: 183.8895
+        height: 254.8971
+      alignment: 9
+      pivot: {x: 0.6767304, y: 0.6195593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.00114, y: -81.52467}
+        - {x: -92.00114, y: -67.52467}
+        - {x: -92.00114, y: -26.52467}
+        - {x: -90.00114, y: 14.47533}
+        - {x: -92.00114, y: 25.47533}
+        - {x: -92.00114, y: 78.47533}
+        - {x: -21.00114, y: 127.4753}
+        - {x: 76.99886, y: 127.4753}
+        - {x: 91.99887, y: 74.47533}
+        - {x: 91.99887, y: 2.475327}
+        - {x: 20.99886, y: -126.5247}
+        - {x: 17.99886, y: -127.5247}
+        - {x: -16.00114, y: -127.5247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c13fc137044549868c6167dc7b637
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_walk_10
+      rect:
+        serializedVersion: 2
+        x: 815.0513
+        y: 0.05131531
+        width: 184.8726
+        height: 249.9219
+      alignment: 9
+      pivot: {x: 0.6677502, y: 0.6279908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.48759, y: -125.0123}
+        - {x: -92.48759, y: -80.01228}
+        - {x: -92.48759, y: -3.012276}
+        - {x: -91.48759, y: 3.987724}
+        - {x: -78.48759, y: 42.98772}
+        - {x: -8.487595, y: 114.9877}
+        - {x: 13.51241, y: 124.9877}
+        - {x: 59.51241, y: 124.9877}
+        - {x: 92.51241, y: 87.98772}
+        - {x: 92.51241, y: -54.01228}
+        - {x: 25.51241, y: -125.0123}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c01029f99aab48b0564bb6ce9b57f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_walk_07
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 271.0761
+        width: 187.8477
+        height: 261.8971
+      alignment: 9
+      pivot: {x: 0.667689, y: 0.606818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.99999, y: -131.0247}
+        - {x: -65.99999, y: -91.02468}
+        - {x: -59.99999, y: -70.02467}
+        - {x: -79.99999, y: -76.02467}
+        - {x: -93.99999, y: -77.02467}
+        - {x: -93.99999, y: 57.97533}
+        - {x: -4.999992, y: 130.9753}
+        - {x: 75.00001, y: 130.9753}
+        - {x: 94.00001, y: 88.97533}
+        - {x: 94.00001, y: 6.975327}
+        - {x: 24.00001, y: -131.0247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17db6a8d7f4e0c4996e08e978dc5fe4
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_walk_04
+      rect:
+        serializedVersion: 2
+        x: 0.05131721
+        y: 535.0513
+        width: 206.9219
+        height: 277.9219
+      alignment: 9
+      pivot: {x: 0.6110936, y: 0.5791147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.51229, y: -139.0123}
+        - {x: -103.5123, y: -85.01229}
+        - {x: -103.5123, y: -27.01228}
+        - {x: -92.51229, y: 3.987717}
+        - {x: -85.51229, y: 37.98772}
+        - {x: -17.51229, y: 118.9877}
+        - {x: 5.487709, y: 138.9877}
+        - {x: 69.48771, y: 138.9877}
+        - {x: 103.4877, y: 104.9877}
+        - {x: 103.4877, y: -1.012283}
+        - {x: 19.48771, y: -139.0123}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ff3a83fa34374393c5b57169f4077
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_walk_02
+      rect:
+        serializedVersion: 2
+        x: 745.0761
+        y: 257.0915
+        width: 228.8971
+        height: 280.8656
+      alignment: 9
+      pivot: {x: 0.5654238, y: 0.5622209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.52469, y: -7.524292}
+        - {x: -73.52469, y: -6.524292}
+        - {x: -75.52469, y: -5.524292}
+        - {x: -114.5247, y: -6.524292}
+        - {x: -114.5247, y: 24.47571}
+        - {x: 2.475311, y: 140.4757}
+        - {x: 74.47531, y: 140.4757}
+        - {x: 78.47531, y: 110.4757}
+        - {x: 75.47531, y: 92.47571}
+        - {x: 69.47531, y: 82.47571}
+        - {x: 70.47531, y: 83.47571}
+        - {x: 80.47531, y: 89.47571}
+        - {x: 114.4753, y: 77.47571}
+        - {x: 114.4753, y: 0.475708}
+        - {x: -2.524689, y: -140.5243}
+        - {x: -64.52469, y: -140.5243}
+        - {x: -111.5247, y: -97.52429}
+        - {x: -114.5247, y: -82.52429}
+        - {x: -114.5247, y: -52.52429}
+        - {x: -78.52469, y: -12.52429}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5169ce02b9bda794e87f045691c8aa80
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_walk_03
+      rect:
+        serializedVersion: 2
+        x: 395.0429
+        y: 641.0761
+        width: 219.9094
+        height: 280.881
+      alignment: 9
+      pivot: {x: 0.5841364, y: 0.5693653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.9976, y: -91.5166}
+        - {x: -109.9976, y: -79.5166}
+        - {x: -109.9976, y: 50.4834}
+        - {x: -107.9976, y: 59.4834}
+        - {x: -20.9976, y: 109.4834}
+        - {x: 17.0024, y: 140.4834}
+        - {x: 59.0024, y: 140.4834}
+        - {x: 98.0024, y: 95.4834}
+        - {x: 110.0024, y: 78.4834}
+        - {x: 110.0024, y: 18.4834}
+        - {x: 68.0024, y: -36.5166}
+        - {x: 6.002396, y: -138.5166}
+        - {x: -2.997604, y: -140.5166}
+        - {x: -18.9976, y: -140.5166}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a1dbe908c5584588ce279bd9fcd0b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_walk_09
+      rect:
+        serializedVersion: 2
+        x: 209.0267
+        y: 574.0598
+        width: 183.8971
+        height: 250.8642
+      alignment: 9
+      pivot: {x: 0.6768635, y: 0.6255986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.97531, y: -110.4918}
+        - {x: -91.97531, y: -75.49181}
+        - {x: -91.97531, y: -18.49181}
+        - {x: -89.97531, y: 10.50819}
+        - {x: -67.97531, y: 44.50819}
+        - {x: -15.97531, y: 116.5082}
+        - {x: 14.02469, y: 125.5082}
+        - {x: 67.02469, y: 125.5082}
+        - {x: 92.02469, y: 101.5082}
+        - {x: 92.02469, y: -42.49181}
+        - {x: 49.02469, y: -125.4918}
+        - {x: -32.97531, y: -125.4918}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158bc425735cd34c802364073b7f2de
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_Clown_damage_07: 21300004
+      zombie_Clown_damage_08: 21300006
+      zombie_Clown_walk_01: 21300008
+      zombie_Clown_walk_02: 21300018
+      zombie_Clown_walk_03: 21300020
+      zombie_Clown_walk_04: 21300016
+      zombie_Clown_walk_05: 21300002
+      zombie_Clown_walk_06: 21300000
+      zombie_Clown_walk_07: 21300014
+      zombie_Clown_walk_08: 21300010
+      zombie_Clown_walk_09: 21300022
+      zombie_Clown_walk_10: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: a5b104f95416f9649b1c40ddfeb2ded2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_SWAT_walk_07
+  - first:
+      213: 21300002
+    second: Zombie_SWAT_walk_15
+  - first:
+      213: 21300004
+    second: Zombie_SWAT_walk_19
+  - first:
+      213: 21300006
+    second: Zombie_SWAT_walk_10
+  - first:
+      213: 21300008
+    second: Zombie_SWAT_walk_17
+  - first:
+      213: 21300010
+    second: Zombie_SWAT_walk_12
+  - first:
+      213: 21300012
+    second: Zombie_SWAT_walk_20
+  - first:
+      213: 21300014
+    second: Zombie_SWAT_walk_09
+  - first:
+      213: 21300016
+    second: Zombie_SWAT_walk_14
+  - first:
+      213: 21300018
+    second: Zombie_SWAT_walk_13
+  - first:
+      213: 21300020
+    second: Zombie_SWAT_walk_16
+  - first:
+      213: 21300022
+    second: Zombie_SWAT_walk_11
+  - first:
+      213: 21300024
+    second: Zombie_SWAT_walk_18
+  - first:
+      213: 21300026
+    second: Zombie_SWAT_walk_08
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_07
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.07612038
+        width: 181.8971
+        height: 188.8971
+      alignment: 9
+      pivot: {x: 0.4888691, y: 0.6216288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.02468, y: -88.52467}
+        - {x: -91.02468, y: -46.52467}
+        - {x: -91.02468, y: 12.47533}
+        - {x: -60.02468, y: 75.47533}
+        - {x: -11.02468, y: 94.47533}
+        - {x: 40.97532, y: 94.47533}
+        - {x: 80.97532, y: 65.47533}
+        - {x: 90.97532, y: 42.47533}
+        - {x: 90.97532, y: -75.52467}
+        - {x: 36.97532, y: -94.52467}
+        - {x: -65.02468, y: -94.52467}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c5637b5f9b3e946b13ebbf60681b12
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_15
+      rect:
+        serializedVersion: 2
+        x: 184.0761
+        y: 0.04290771
+        width: 181.8971
+        height: 205.881
+      alignment: 9
+      pivot: {x: 0.5548404, y: 0.5170808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.02468, y: -77.98339}
+        - {x: -91.02468, y: -67.98339}
+        - {x: -91.02468, y: 6.016609}
+        - {x: -64.02468, y: 64.01661}
+        - {x: -1.024681, y: 103.0166}
+        - {x: 56.97532, y: 103.0166}
+        - {x: 76.97532, y: 92.01661}
+        - {x: 90.97532, y: 33.01661}
+        - {x: 90.97532, y: -81.98339}
+        - {x: 73.97532, y: -102.9834}
+        - {x: -70.02468, y: -102.9834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7963fee675f0f624b92dfc43ae61938a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_19
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 208.0429
+        width: 185.881
+        height: 221.9208
+      alignment: 9
+      pivot: {x: 0.5052904, y: 0.5247687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.01661, y: -111.0033}
+        - {x: -93.01661, y: -104.0033}
+        - {x: -93.01661, y: 107.9967}
+        - {x: -84.01661, y: 110.9967}
+        - {x: 54.98339, y: 110.9967}
+        - {x: 86.98339, y: 73.99669}
+        - {x: 88.98339, y: -16.00331}
+        - {x: 92.98339, y: -23.00331}
+        - {x: 92.98339, y: -48.00331}
+        - {x: 39.98339, y: -109.0033}
+        - {x: 35.98339, y: -111.0033}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a72c887cb07be4ab466dbdf77b2365
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_10
+      rect:
+        serializedVersion: 2
+        x: 188.0761
+        y: 208.0761
+        width: 185.8971
+        height: 195.8477
+      alignment: 9
+      pivot: {x: 0.5052466, y: 0.5791432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.02467, y: -97.99999}
+        - {x: -93.02467, y: -84.99999}
+        - {x: -93.02467, y: 52.00001}
+        - {x: -37.02467, y: 98.00001}
+        - {x: 54.97533, y: 98.00001}
+        - {x: 80.97533, y: 66.00001}
+        - {x: 92.97533, y: 12.00001}
+        - {x: 92.97533, y: -50.99999}
+        - {x: 70.97533, y: -78.99999}
+        - {x: 40.97533, y: -97.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61f639a3a446144a341d737269d6ad
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_17
+      rect:
+        serializedVersion: 2
+        x: 376.0761
+        y: 0.04290771
+        width: 184.8971
+        height: 208.9303
+      alignment: 9
+      pivot: {x: 0.5350212, y: 0.5095339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.52468, y: -92.50808}
+        - {x: -92.52468, y: -60.50808}
+        - {x: -92.52468, y: -17.50808}
+        - {x: -72.52468, y: 63.49192}
+        - {x: -39.52468, y: 96.49192}
+        - {x: -12.52468, y: 104.4919}
+        - {x: 68.47532, y: 104.4919}
+        - {x: 91.47532, y: 75.49192}
+        - {x: 92.47532, y: 70.49192}
+        - {x: 92.47532, y: -62.50808}
+        - {x: 69.47532, y: -104.5081}
+        - {x: -6.524681, y: -104.5081}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85883857ab6bca045ba43b7e8e0dcd16
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_12
+      rect:
+        serializedVersion: 2
+        x: 563.0363
+        y: 0.04290771
+        width: 186.8876
+        height: 200.9303
+      alignment: 9
+      pivot: {x: 0.5241852, y: 0.5497283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.48008, y: -100.5081}
+        - {x: -93.48008, y: -60.50808}
+        - {x: -93.48008, y: 46.49192}
+        - {x: -75.48008, y: 81.49192}
+        - {x: -25.48008, y: 100.4919}
+        - {x: 58.51992, y: 100.4919}
+        - {x: 77.51992, y: 70.49192}
+        - {x: 93.51992, y: -0.5080795}
+        - {x: 93.51992, y: -67.50808}
+        - {x: 78.51992, y: -100.5081}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae053663e1276b54190525a0dc1626ad
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_20
+      rect:
+        serializedVersion: 2
+        x: 376.0268
+        y: 211.0513
+        width: 183.9465
+        height: 226.9487
+      alignment: 9
+      pivot: {x: 0.4945636, y: 0.5307309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: -113.5257}
+        - {x: -92, y: -57.52567}
+        - {x: -92, y: 39.47433}
+        - {x: -48, y: 113.4743}
+        - {x: 56, y: 113.4743}
+        - {x: 92, y: 89.47433}
+        - {x: 92, y: -45.52566}
+        - {x: 44, y: -113.5257}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a304eeddba548b44bea4a907356c685
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_09
+      rect:
+        serializedVersion: 2
+        x: 562.0761
+        y: 211.0915
+        width: 183.881
+        height: 191.8324
+      alignment: 9
+      pivot: {x: 0.4944714, y: 0.5963983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.0166, y: -96.00768}
+        - {x: -92.0166, y: -48.00768}
+        - {x: -92.0166, y: -10.00768}
+        - {x: -76.0166, y: 62.99232}
+        - {x: 0.9833984, y: 95.99232}
+        - {x: 26.9834, y: 95.99232}
+        - {x: 81.9834, y: 73.99232}
+        - {x: 91.9834, y: 32.99232}
+        - {x: 91.9834, y: -49.00768}
+        - {x: 85.9834, y: -54.00768}
+        - {x: 33.9834, y: -92.00768}
+        - {x: 23.9834, y: -96.00768}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f163465c896ea4695a121b67387df1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_14
+      rect:
+        serializedVersion: 2
+        x: 752.0761
+        y: 0.02675056
+        width: 184.8971
+        height: 203.9465
+      alignment: 9
+      pivot: {x: 0.545838, y: 0.5269679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.52469, y: -89.99999}
+        - {x: -92.52469, y: -59.99999}
+        - {x: -92.52469, y: -12.99999}
+        - {x: -69.52469, y: 71.00001}
+        - {x: 4.475311, y: 102}
+        - {x: 40.47531, y: 102}
+        - {x: 90.47531, y: 72.00001}
+        - {x: 92.47531, y: 29.00001}
+        - {x: 92.47531, y: -102}
+        - {x: -47.52469, y: -102}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca79c7722580e9d42ae7c64f19d3af0d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_13
+      rect:
+        serializedVersion: 2
+        x: 748.0761
+        y: 206.0761
+        width: 185.8477
+        height: 203.881
+      alignment: 9
+      pivot: {x: 0.5376653, y: 0.5367047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.99998, y: -97.0166}
+        - {x: -92.99998, y: -56.01661}
+        - {x: -92.99998, y: -12.01661}
+        - {x: -66.99998, y: 64.98339}
+        - {x: -19.99999, y: 101.9834}
+        - {x: 51.00002, y: 101.9834}
+        - {x: 58.00002, y: 100.9834}
+        - {x: 80.00002, y: 74.98339}
+        - {x: 93.00002, y: 40.98339}
+        - {x: 93.00002, y: -70.01661}
+        - {x: 70.00002, y: -102.0166}
+        - {x: -49.99998, y: -102.0166}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3bdcca965e0bc4e9ace8f634688c74
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_16
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 432.0429
+        width: 183.8971
+        height: 207.9058
+      alignment: 9
+      pivot: {x: 0.5433684, y: 0.5120449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.02467, y: -103.9958}
+        - {x: -92.02467, y: -61.9958}
+        - {x: -92.02467, y: -10.9958}
+        - {x: -70.02467, y: 71.0042}
+        - {x: -30.02467, y: 75.0042}
+        - {x: 6.975327, y: 104.0042}
+        - {x: 45.97533, y: 104.0042}
+        - {x: 86.97533, y: 67.0042}
+        - {x: 91.97533, y: 16.0042}
+        - {x: 91.97533, y: -56.9958}
+        - {x: 43.97533, y: -103.9958}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4abb9383bd74f46b4565a38fb38150
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_11
+      rect:
+        serializedVersion: 2
+        x: 186.0363
+        y: 432.0399
+        width: 186.8876
+        height: 197.9334
+      alignment: 9
+      pivot: {x: 0.5134836, y: 0.5631194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.48007, y: -90.00658}
+        - {x: -93.48007, y: -49.00658}
+        - {x: -93.48007, y: -14.00657}
+        - {x: -64.48007, y: 74.99342}
+        - {x: -10.48007, y: 98.99342}
+        - {x: 56.51993, y: 98.99342}
+        - {x: 93.51993, y: 90.99342}
+        - {x: 93.51993, y: -84.00658}
+        - {x: 56.51993, y: -99.00658}
+        - {x: -42.48007, y: -99.00658}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d95c76599350b345a3663f78395be50
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_18
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 642.0429
+        width: 185.8971
+        height: 215.8482
+      alignment: 9
+      pivot: {x: 0.5213845, y: 0.5163679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.02467, y: -93.96702}
+        - {x: -93.02467, y: -51.96702}
+        - {x: -93.02467, y: 60.03298}
+        - {x: -55.02467, y: 108.033}
+        - {x: 34.97533, y: 108.033}
+        - {x: 86.97533, y: 74.03298}
+        - {x: 92.97533, y: 56.03298}
+        - {x: 92.97533, y: -86.96702}
+        - {x: 69.97533, y: -107.967}
+        - {x: -38.02467, y: -107.967}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11fff8179916a24b9b984390fd2f362
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_SWAT_walk_08
+      rect:
+        serializedVersion: 2
+        x: 188.0267
+        y: 632.0761
+        width: 182.9465
+        height: 189.9179
+      alignment: 9
+      pivot: {x: 0.4918009, y: 0.6130221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.5, y: -95.03507}
+        - {x: -91.5, y: -95.03507}
+        - {x: -91.5, y: 45.96493}
+        - {x: -73.5, y: 84.96493}
+        - {x: -16.5, y: 92.96493}
+        - {x: -4.5, y: 94.96493}
+        - {x: 48.5, y: 94.96493}
+        - {x: 91.5, y: 78.96493}
+        - {x: 91.5, y: -92.03507}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0216756fcd9c9469dfb526ead4a411
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_SWAT_walk_07: 21300000
+      Zombie_SWAT_walk_08: 21300026
+      Zombie_SWAT_walk_09: 21300014
+      Zombie_SWAT_walk_10: 21300006
+      Zombie_SWAT_walk_11: 21300022
+      Zombie_SWAT_walk_12: 21300010
+      Zombie_SWAT_walk_13: 21300018
+      Zombie_SWAT_walk_14: 21300016
+      Zombie_SWAT_walk_15: 21300002
+      Zombie_SWAT_walk_16: 21300020
+      Zombie_SWAT_walk_17: 21300008
+      Zombie_SWAT_walk_18: 21300024
+      Zombie_SWAT_walk_19: 21300004
+      Zombie_SWAT_walk_20: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

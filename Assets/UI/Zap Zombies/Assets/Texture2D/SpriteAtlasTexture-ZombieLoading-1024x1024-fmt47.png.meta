@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 697b5222911c2ca47a7b02e496dadc79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_football_walk_marketing_05
+  - first:
+      213: 21300002
+    second: zombie_football_walk_marketing_01
+  - first:
+      213: 21300004
+    second: zombie_football_walk_marketing_02
+  - first:
+      213: 21300006
+    second: zombie_football_walk_marketing_15
+  - first:
+      213: 21300008
+    second: zombie_football_walk_marketing_11
+  - first:
+      213: 21300010
+    second: zombie_football_walk_marketing_09
+  - first:
+      213: 21300012
+    second: zombie_football_walk_marketing_04
+  - first:
+      213: 21300014
+    second: zombie_football_walk_marketing_10
+  - first:
+      213: 21300016
+    second: zombie_football_walk_marketing_07
+  - first:
+      213: 21300018
+    second: zombie_football_walk_marketing_08
+  - first:
+      213: 21300020
+    second: zombie_football_walk_marketing_03
+  - first:
+      213: 21300022
+    second: zombie_football_walk_marketing_14
+  - first:
+      213: 21300024
+    second: zombie_football_walk_marketing_13
+  - first:
+      213: 21300026
+    second: zombie_football_walk_marketing_06
+  - first:
+      213: 21300028
+    second: zombie_football_walk_marketing_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_05
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 175.0129
+        width: 261
+        height: 173.9871
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4884678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.5, y: -71.00645}
+        - {x: -130.5, y: -37.00645}
+        - {x: -130.5, y: 77.99355}
+        - {x: -119.5, y: 86.99355}
+        - {x: 115.5, y: 86.99355}
+        - {x: 130.5, y: 75.99355}
+        - {x: 130.5, y: -39.00645}
+        - {x: 122.5, y: -51.00645}
+        - {x: 64.5, y: -68.00645}
+        - {x: 15.5, y: -84.00645}
+        - {x: 5.5, y: -87.00645}
+        - {x: -22.5, y: -87.00645}
+        - {x: -36.5, y: -83.00645}
+        - {x: -45.5, y: -82.00645}
+        - {x: -101.5, y: -74.00645}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe75b57c77250b74284092cae1fbf554
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526.0284
+        width: 261
+        height: 175.9715
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4942364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: -81.01423}
+        - {x: -130.5, y: -36.01423}
+        - {x: -130.5, y: 69.98577}
+        - {x: -123.5, y: 78.98577}
+        - {x: -105.5, y: 87.98577}
+        - {x: 110.5, y: 87.98577}
+        - {x: 130.5, y: 77.98577}
+        - {x: 130.5, y: -47.01423}
+        - {x: 96.5, y: -66.01423}
+        - {x: 35.5, y: -65.01423}
+        - {x: 24.5, y: -78.01423}
+        - {x: 5.5, y: -88.01423}
+        - {x: -33.5, y: -88.01423}
+        - {x: -73.5, y: -77.01423}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bdfaeb2798b804f8552816d44e4729
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.02675104
+        width: 261
+        height: 175.9733
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4942413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: -53.01337}
+        - {x: -130.5, y: -35.01337}
+        - {x: -130.5, y: 74.98663}
+        - {x: -110.5, y: 87.98663}
+        - {x: 116.5, y: 87.98663}
+        - {x: 130.5, y: 75.98663}
+        - {x: 130.5, y: -38.01337}
+        - {x: 120.5, y: -50.01337}
+        - {x: 65.5, y: -67.01337}
+        - {x: 23.5, y: -77.01337}
+        - {x: 1.5, y: -88.01337}
+        - {x: -30.5, y: -88.01337}
+        - {x: -46.5, y: -84.01337}
+        - {x: -110.5, y: -77.01337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bab85bde517f954488ede5af0edf9b8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_15
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 175.0761
+        width: 261
+        height: 171.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4823291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.5, y: -70.03806}
+        - {x: -130.5, y: -33.03806}
+        - {x: -130.5, y: 73.96194}
+        - {x: -116.5, y: 85.96194}
+        - {x: 115.5, y: 85.96194}
+        - {x: 130.5, y: 76.96194}
+        - {x: 130.5, y: -42.03806}
+        - {x: 123.5, y: -51.03806}
+        - {x: 89.5, y: -64.03806}
+        - {x: 60.5, y: -64.03806}
+        - {x: 41.5, y: -53.03806}
+        - {x: 24.5, y: -81.03806}
+        - {x: 8.5, y: -86.03806}
+        - {x: -35.5, y: -86.03806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed535c5d1cf09f499877f3a6d2b3920
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_11
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 349.0268
+        width: 261
+        height: 172.9733
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4854696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.5, y: -60.51337}
+        - {x: -130.5, y: -42.51337}
+        - {x: -130.5, y: 77.48663}
+        - {x: -110.5, y: 86.48663}
+        - {x: 106.5, y: 86.48663}
+        - {x: 127.5, y: 79.48663}
+        - {x: 130.5, y: 76.48663}
+        - {x: 130.5, y: -49.51337}
+        - {x: 98.5, y: -62.51338}
+        - {x: 40.5, y: -72.51337}
+        - {x: 20.5, y: -86.51337}
+        - {x: -23.5, y: -86.51337}
+        - {x: -46.5, y: -79.51337}
+        - {x: -100.5, y: -76.51337}
+        - {x: -110.5, y: -71.51337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b80d47480c0ec47ad454dae8f4e40d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_09
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0.03628492
+        width: 261
+        height: 172.9637
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4854412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: -78.51814}
+        - {x: -130.5, y: -43.51814}
+        - {x: -130.5, y: 84.48186}
+        - {x: -121.5, y: 86.48186}
+        - {x: 99.5, y: 86.48186}
+        - {x: 114.5, y: 83.48186}
+        - {x: 130.5, y: 74.48186}
+        - {x: 130.5, y: -49.51814}
+        - {x: 94.5, y: -63.51814}
+        - {x: 43.5, y: -67.51814}
+        - {x: 23.5, y: -86.51814}
+        - {x: -20.5, y: -86.51814}
+        - {x: -36.5, y: -81.51814}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6859d61a9cf4b4b95c3b564ffc7cc6
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_04
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 526.0267
+        width: 261
+        height: 174.9733
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4913508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118.5, y: -73.51337}
+        - {x: -130.5, y: -43.51337}
+        - {x: -130.5, y: 79.48663}
+        - {x: -117.5, y: 85.48663}
+        - {x: -112.5, y: 87.48663}
+        - {x: 111.5, y: 87.48663}
+        - {x: 120.5, y: 85.48663}
+        - {x: 130.5, y: 76.48663}
+        - {x: 130.5, y: -39.51337}
+        - {x: 120.5, y: -51.51337}
+        - {x: 59.5, y: -72.51337}
+        - {x: 12.5, y: -87.51337}
+        - {x: -15.5, y: -87.51337}
+        - {x: -82.5, y: -74.51337}
+        - {x: -99.5, y: -73.51337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e24236de339a4188fdbd4143b49d1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 351.0268
+        width: 261
+        height: 172.9733
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4854696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123.5, y: -38.51337}
+        - {x: -130.5, y: -31.51337}
+        - {x: -130.5, y: 75.48663}
+        - {x: -116.5, y: 86.48663}
+        - {x: 106.5, y: 86.48663}
+        - {x: 130.5, y: 76.48663}
+        - {x: 130.5, y: -52.51337}
+        - {x: 74.5, y: -68.51337}
+        - {x: 36.5, y: -73.51337}
+        - {x: 22.5, y: -82.51337}
+        - {x: 16.5, y: -86.51337}
+        - {x: -19.5, y: -86.51337}
+        - {x: -50.5, y: -79.51337}
+        - {x: -103.5, y: -76.51337}
+        - {x: -113.5, y: -72.51337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f838111a8d3888042ab87268ec36128c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_07
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 703.0761
+        width: 261
+        height: 170.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4793004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.5, y: -73.53806}
+        - {x: -130.5, y: -38.53806}
+        - {x: -130.5, y: 80.46194}
+        - {x: -122.5, y: 85.46194}
+        - {x: 106.5, y: 85.46194}
+        - {x: 126.5, y: 77.46194}
+        - {x: 130.5, y: 72.46194}
+        - {x: 130.5, y: -45.53806}
+        - {x: 104.5, y: -61.53806}
+        - {x: 43.5, y: -65.53806}
+        - {x: 22.5, y: -79.53806}
+        - {x: 15.5, y: -85.53806}
+        - {x: -25.5, y: -85.53806}
+        - {x: -37.5, y: -84.53806}
+        - {x: -68.5, y: -66.53806}
+        - {x: -104.5, y: -77.53806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe04b8c876ddbe40887480731509274
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178.0761
+        width: 261
+        height: 171.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4823291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119.5, y: -76.03806}
+        - {x: -130.5, y: -41.03806}
+        - {x: -130.5, y: 80.96194}
+        - {x: -123.5, y: 85.96194}
+        - {x: 105.5, y: 85.96194}
+        - {x: 122.5, y: 78.96194}
+        - {x: 130.5, y: 73.96194}
+        - {x: 130.5, y: -44.03806}
+        - {x: 114.5, y: -58.03806}
+        - {x: 70.5, y: -66.03806}
+        - {x: 23.5, y: -82.03806}
+        - {x: 17.5, y: -86.03806}
+        - {x: -25.5, y: -86.03806}
+        - {x: -77.5, y: -73.03806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca5841a3f058344a0a6187951c0712
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_03
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 524.0267
+        width: 261
+        height: 174.9733
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4913508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -60.51337}
+        - {x: 24.5, y: -77.51337}
+        - {x: 3.5, y: -87.51337}
+        - {x: -40.5, y: -87.51337}
+        - {x: -110.5, y: -73.51337}
+        - {x: -130.5, y: -45.51337}
+        - {x: -130.5, y: 83.48663}
+        - {x: -113.5, y: 87.48663}
+        - {x: 114.5, y: 87.48663}
+        - {x: 130.5, y: 77.48663}
+        - {x: 130.5, y: -41.51337}
+        - {x: 103.5, y: -58.51337}
+        - {x: 60.5, y: -63.51337}
+        - {x: 33.5, y: -52.51337}
+        - {x: 34.5, y: -56.51337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b86f20a13c07474687589b4b4d00d8d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_14
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 701.0267
+        width: 261
+        height: 170.9733
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4794507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118.5, y: -59.51337}
+        - {x: -130.5, y: -31.51337}
+        - {x: -130.5, y: 70.48663}
+        - {x: -115.5, y: 85.48663}
+        - {x: 117.5, y: 85.48663}
+        - {x: 130.5, y: 77.48663}
+        - {x: 130.5, y: -46.51337}
+        - {x: 106.5, y: -62.51337}
+        - {x: 56.5, y: -63.51338}
+        - {x: 41.5, y: -71.51337}
+        - {x: 24.5, y: -85.51337}
+        - {x: -26.5, y: -85.51337}
+        - {x: -47.5, y: -81.51337}
+        - {x: -60.5, y: -73.51337}
+        - {x: -112.5, y: -81.51337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa432af1e13da4cac7ac77a883351e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352.0429
+        width: 261
+        height: 171.9571
+      alignment: 9
+      pivot: {x: 0.5, y: 0.482429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.5, y: -76.02145}
+        - {x: -130.5, y: -33.02145}
+        - {x: -130.5, y: 70.97855}
+        - {x: -115.5, y: 85.97855}
+        - {x: 114.5, y: 85.97855}
+        - {x: 130.5, y: 77.97855}
+        - {x: 130.5, y: -50.02145}
+        - {x: 69.5, y: -72.02145}
+        - {x: 47.5, y: -62.02145}
+        - {x: 22.5, y: -86.02145}
+        - {x: -37.5, y: -86.02145}
+        - {x: -42.5, y: -85.02145}
+        - {x: -60.5, y: -71.02145}
+        - {x: -84.5, y: -69.02145}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba7a64d90c1354ca351c7f4d4a45f9
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_06
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0.01291275
+        width: 261
+        height: 172.9871
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4855107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: -72.50645}
+        - {x: -130.5, y: -38.50645}
+        - {x: -130.5, y: 80.49355}
+        - {x: -121.5, y: 86.49355}
+        - {x: 107.5, y: 86.49355}
+        - {x: 117.5, y: 82.49355}
+        - {x: 124.5, y: 79.49355}
+        - {x: 130.5, y: 75.49355}
+        - {x: 130.5, y: -42.50645}
+        - {x: 125.5, y: -51.50645}
+        - {x: 74.5, y: -67.50645}
+        - {x: 23.5, y: -78.50645}
+        - {x: 6.5, y: -86.50645}
+        - {x: -14.5, y: -86.50645}
+        - {x: -80.5, y: -72.50645}
+        - {x: -109.5, y: -81.50645}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c9689fab75d754d8c717cbd12656ee
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_football_walk_marketing_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704.0267
+        width: 261
+        height: 171.9733
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4824777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: -76.01337}
+        - {x: -130.5, y: -35.01337}
+        - {x: -130.5, y: 70.98663}
+        - {x: -111.5, y: 85.98663}
+        - {x: 107.5, y: 85.98663}
+        - {x: 125.5, y: 80.98663}
+        - {x: 130.5, y: 74.98663}
+        - {x: 130.5, y: -47.01337}
+        - {x: 96.5, y: -68.01337}
+        - {x: 50.5, y: -65.01337}
+        - {x: 29.5, y: -86.01337}
+        - {x: -54.5, y: -86.01337}
+        - {x: -96.5, y: -70.01337}
+        - {x: -100.5, y: -73.01337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab661dd25018e04580e249aba9bc729
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_football_walk_marketing_01: 21300002
+      zombie_football_walk_marketing_02: 21300004
+      zombie_football_walk_marketing_03: 21300020
+      zombie_football_walk_marketing_04: 21300012
+      zombie_football_walk_marketing_05: 21300000
+      zombie_football_walk_marketing_06: 21300026
+      zombie_football_walk_marketing_07: 21300016
+      zombie_football_walk_marketing_08: 21300018
+      zombie_football_walk_marketing_09: 21300010
+      zombie_football_walk_marketing_10: 21300014
+      zombie_football_walk_marketing_11: 21300008
+      zombie_football_walk_marketing_12: 21300028
+      zombie_football_walk_marketing_13: 21300024
+      zombie_football_walk_marketing_14: 21300022
+      zombie_football_walk_marketing_15: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

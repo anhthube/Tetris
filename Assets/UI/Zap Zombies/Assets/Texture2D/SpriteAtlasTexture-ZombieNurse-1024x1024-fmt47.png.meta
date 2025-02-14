@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: c2e304df0f5df034e873b6faf73d0d23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: nurse_walk_04
+  - first:
+      213: 21300002
+    second: nurse_walk_09
+  - first:
+      213: 21300004
+    second: nurse_damage_01
+  - first:
+      213: 21300006
+    second: nurse_damage_05
+  - first:
+      213: 21300008
+    second: nurse_walk_05
+  - first:
+      213: 21300010
+    second: nurse_walk_10
+  - first:
+      213: 21300012
+    second: nurse_walk_03
+  - first:
+      213: 21300014
+    second: nurse_damage_03
+  - first:
+      213: 21300016
+    second: nurse_walk_12
+  - first:
+      213: 21300018
+    second: nurse_walk_01
+  - first:
+      213: 21300020
+    second: nurse_walk_07
+  - first:
+      213: 21300022
+    second: nurse_damage_04
+  - first:
+      213: 21300024
+    second: nurse_walk_02
+  - first:
+      213: 21300026
+    second: nurse_damage_02
+  - first:
+      213: 21300028
+    second: nurse_walk_08
+  - first:
+      213: 21300030
+    second: nurse_walk_06
+  - first:
+      213: 21300032
+    second: nurse_walk_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nurse_walk_04
+      rect:
+        serializedVersion: 2
+        x: 0.05412674
+        y: 0.07612038
+        width: 174.8698
+        height: 215.8971
+      alignment: 9
+      pivot: {x: 0.5315149, y: 0.5369404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.489, y: -108.0247}
+        - {x: -87.489, y: -6.024673}
+        - {x: -87.489, y: 15.97533}
+        - {x: -55.489, y: 46.97533}
+        - {x: -66.489, y: 89.97533}
+        - {x: -20.489, y: 107.9753}
+        - {x: 39.511, y: 107.9753}
+        - {x: 87.511, y: 57.97533}
+        - {x: 87.511, y: -12.02467}
+        - {x: 39.511, y: -100.0247}
+        - {x: 26.511, y: -108.0247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e4e3254004e9a40bf6a66c267aaf28
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_09
+      rect:
+        serializedVersion: 2
+        x: 177.0267
+        y: 0.02675104
+        width: 178.8971
+        height: 212.8971
+      alignment: 9
+      pivot: {x: 0.5085227, y: 0.5494356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.47532, y: -93.47531}
+        - {x: -89.47532, y: -28.47531}
+        - {x: -89.47532, y: 106.5247}
+        - {x: 89.52468, y: 106.5247}
+        - {x: 89.52468, y: -19.47531}
+        - {x: 23.52468, y: -100.4753}
+        - {x: 15.52468, y: -106.4753}
+        - {x: 3.524681, y: -106.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8090f98c7cd72e4ab086d5f6a76ec25
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_damage_01
+      rect:
+        serializedVersion: 2
+        x: 0.03350067
+        y: 218.0267
+        width: 173.8904
+        height: 216.9303
+      alignment: 9
+      pivot: {x: 0.5231255, y: 0.5484399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.97869, y: -108.4919}
+        - {x: -86.97869, y: -14.49193}
+        - {x: -86.97869, y: 39.50807}
+        - {x: -59.97869, y: 88.50807}
+        - {x: -19.97869, y: 108.5081}
+        - {x: 26.02131, y: 108.5081}
+        - {x: 86.02131, y: 62.50807}
+        - {x: 87.02131, y: 58.50807}
+        - {x: 87.02131, y: -3.491928}
+        - {x: 34.02131, y: -87.49193}
+        - {x: 20.02131, y: -108.4919}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb63577c0ea1c3043bc47e2ff87b7e92
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_damage_05
+      rect:
+        serializedVersion: 2
+        x: 177.0363
+        y: 215.0267
+        width: 167.8876
+        height: 223.9465
+      alignment: 9
+      pivot: {x: 0.5418132, y: 0.5267921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.980087, y: -112}
+        - {x: -11.98009, y: -102}
+        - {x: -9.980087, y: -92}
+        - {x: -9.980087, y: -80}
+        - {x: -15.98009, y: -84}
+        - {x: -17.98009, y: -84}
+        - {x: -25.98009, y: -77}
+        - {x: -32.98009, y: -68}
+        - {x: -83.98009, y: 2}
+        - {x: -83.98009, y: 19}
+        - {x: -58.98009, y: 86}
+        - {x: -37.98009, y: 112}
+        - {x: 14.01991, y: 112}
+        - {x: 54.01991, y: 105}
+        - {x: 84.01991, y: 55}
+        - {x: 84.01991, y: 4}
+        - {x: 60.01991, y: -59}
+        - {x: 18.01991, y: -112}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09e80bf34322484da84c9183ec4880d
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_05
+      rect:
+        serializedVersion: 2
+        x: 358.0268
+        y: 0.07612038
+        width: 174.8971
+        height: 213.8971
+      alignment: 9
+      pivot: {x: 0.5315882, y: 0.5326106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.47532, y: -85.02469}
+        - {x: -87.47532, y: -42.02469}
+        - {x: -87.47532, y: 54.97531}
+        - {x: -47.47532, y: 106.9753}
+        - {x: 54.52468, y: 106.9753}
+        - {x: 67.52468, y: 96.97531}
+        - {x: 87.52468, y: 50.97531}
+        - {x: 87.52468, y: -44.02469}
+        - {x: 30.52468, y: -107.0247}
+        - {x: -7.475319, y: -107.0247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aab17df62483e64f8ea1d1ef127da98
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_10
+      rect:
+        serializedVersion: 2
+        x: 535.0363
+        y: 0.09148693
+        width: 179.8876
+        height: 213.8324
+      alignment: 9
+      pivot: {x: 0.5056698, y: 0.5560828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.9800797, y: -106.0077}
+        - {x: -89.98008, y: -34.00768}
+        - {x: -89.98008, y: 59.99232}
+        - {x: -40.98008, y: 106.9923}
+        - {x: 63.01992, y: 106.9923}
+        - {x: 90.01992, y: 70.99232}
+        - {x: 90.01992, y: -11.00768}
+        - {x: 27.01992, y: -93.00767}
+        - {x: 17.01992, y: -107.0077}
+        - {x: 9.01992, y: -107.0077}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b4ebe07bf89cc46b3194f8a86345ed
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_03
+      rect:
+        serializedVersion: 2
+        x: 717.0541
+        y: 0.02675104
+        width: 173.8698
+        height: 215.9465
+      alignment: 9
+      pivot: {x: 0.5288205, y: 0.541677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.989, y: -104}
+        - {x: -12.989, y: -93}
+        - {x: -10.989, y: -93}
+        - {x: -11.989, y: -74}
+        - {x: -11.989, y: -77}
+        - {x: -12.989, y: -80}
+        - {x: -21.989, y: -93}
+        - {x: -86.989, y: -8}
+        - {x: -86.989, y: 31}
+        - {x: -58.989, y: 85}
+        - {x: -29.989, y: 108}
+        - {x: 21.011, y: 108}
+        - {x: 87.011, y: 59}
+        - {x: 87.011, y: -9}
+        - {x: 29.011, y: -93}
+        - {x: 6.011002, y: -108}
+        - {x: -3.988998, y: -108}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd66778c14bf9441917584987b1172c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_damage_03
+      rect:
+        serializedVersion: 2
+        x: 347.0513
+        y: 216.0267
+        width: 150.8726
+        height: 232.8971
+      alignment: 9
+      pivot: {x: 0.609446, y: 0.4850779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.487595, y: -81.47531}
+        - {x: -10.4876, y: -84.47531}
+        - {x: -14.48759, y: -91.47531}
+        - {x: -75.48759, y: -19.47531}
+        - {x: -75.48759, y: 41.52469}
+        - {x: -58.48759, y: 75.52469}
+        - {x: -37.4876, y: 100.5247}
+        - {x: -22.48759, y: 116.5247}
+        - {x: 9.512405, y: 116.5247}
+        - {x: 49.51241, y: 109.5247}
+        - {x: 75.51241, y: 78.52469}
+        - {x: 75.51241, y: -37.47531}
+        - {x: 72.51241, y: -70.47531}
+        - {x: 25.51241, y: -116.4753}
+        - {x: 2.512405, y: -116.4753}
+        - {x: -5.487595, y: -104.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a3a4e854694d448b3ab1026dc08a9
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_12
+      rect:
+        serializedVersion: 2
+        x: 500.0268
+        y: 216.0267
+        width: 179.8971
+        height: 213.8971
+      alignment: 9
+      pivot: {x: 0.5001372, y: 0.5562171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.97532, y: -86.97532}
+        - {x: -89.97532, y: -13.97532}
+        - {x: -89.97532, y: 35.02468}
+        - {x: -36.97532, y: 107.0247}
+        - {x: 34.02468, y: 107.0247}
+        - {x: 90.02468, y: 58.02468}
+        - {x: 90.02468, y: -17.97532}
+        - {x: 88.02468, y: -25.97532}
+        - {x: 26.02468, y: -95.97533}
+        - {x: 16.02468, y: -106.9753}
+        - {x: 9.024681, y: -106.9753}
+        - {x: 4.024681, y: -100.9753}
+        - {x: 2.024681, y: -87.97532}
+        - {x: -2.975319, y: -93.97531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eae3d934ef8fc4fa63469b9a349ac4
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_01
+      rect:
+        serializedVersion: 2
+        x: 682.0335
+        y: 218.0267
+        width: 173.8904
+        height: 216.9303
+      alignment: 9
+      pivot: {x: 0.5231255, y: 0.5484399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.97869, y: -108.4919}
+        - {x: -86.97869, y: -14.49193}
+        - {x: -86.97869, y: 39.50807}
+        - {x: -59.97869, y: 88.50807}
+        - {x: -19.97869, y: 108.5081}
+        - {x: 26.02131, y: 108.5081}
+        - {x: 86.02131, y: 62.50807}
+        - {x: 87.02131, y: 58.50807}
+        - {x: 87.02131, y: -3.491928}
+        - {x: 34.02131, y: -87.49193}
+        - {x: 20.02131, y: -108.4919}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd659fea157a2b04db78c81db83b4800
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_07
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 441.0761
+        width: 177.8477
+        height: 209.881
+      alignment: 9
+      pivot: {x: 0.5168684, y: 0.5332732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.99999, y: -105.0166}
+        - {x: -88.99999, y: -26.01659}
+        - {x: -88.99999, y: 66.98341}
+        - {x: -71.99999, y: 104.9834}
+        - {x: 34.00001, y: 104.9834}
+        - {x: 65.00001, y: 93.98341}
+        - {x: 89.00001, y: 38.98341}
+        - {x: 89.00001, y: -37.01659}
+        - {x: 33.00001, y: -105.0166}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c4c38c22009b4eac470c716ca459d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_damage_04
+      rect:
+        serializedVersion: 2
+        x: 180.0363
+        y: 441
+        width: 158.8876
+        height: 232.9733
+      alignment: 9
+      pivot: {x: 0.5787973, y: 0.4979112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.48008, y: -81.48663}
+        - {x: -13.48008, y: -86.48663}
+        - {x: -15.48008, y: -89.48663}
+        - {x: -79.48008, y: -23.48663}
+        - {x: -79.48008, y: 47.51337}
+        - {x: -46.48008, y: 116.5134}
+        - {x: 68.51992, y: 116.5134}
+        - {x: 79.51992, y: 113.5134}
+        - {x: 79.51992, y: -99.48663}
+        - {x: 44.51992, y: -116.4866}
+        - {x: -3.48008, y: -116.4866}
+        - {x: -5.48008, y: -109.4866}
+        - {x: -7.48008, y: -99.48663}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9734303388f034f498418e76c0306f99
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_02
+      rect:
+        serializedVersion: 2
+        x: 341.0363
+        y: 451.0761
+        width: 173.8876
+        height: 216.9239
+      alignment: 9
+      pivot: {x: 0.5231179, y: 0.5436187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.98009, y: -105.5381}
+        - {x: -13.98009, y: -96.53805}
+        - {x: -12.98009, y: -92.53806}
+        - {x: -12.98009, y: -77.53806}
+        - {x: -16.98009, y: -84.53806}
+        - {x: -30.98009, y: -75.53806}
+        - {x: -73.98009, y: -3.538055}
+        - {x: -86.98009, y: 5.461945}
+        - {x: -86.98009, y: 17.46194}
+        - {x: -63.98009, y: 84.46194}
+        - {x: -32.98009, y: 108.4619}
+        - {x: 44.01991, y: 108.4619}
+        - {x: 87.01991, y: 64.46194}
+        - {x: 87.01991, y: -16.53806}
+        - {x: 14.01991, y: -108.538}
+        - {x: -7.980087, y: -108.538}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad24c992a1fd5a64da8344bcd8ddfe84
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_damage_02
+      rect:
+        serializedVersion: 2
+        x: 697.0761
+        y: 437.0268
+        width: 150.8477
+        height: 230.8971
+      alignment: 9
+      pivot: {x: 0.6160111, y: 0.4849487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.499992, y: -114.4753}
+        - {x: -75.49999, y: -8.475311}
+        - {x: -75.49999, y: 88.52469}
+        - {x: -20.49999, y: 115.5247}
+        - {x: 42.50001, y: 115.5247}
+        - {x: 74.50001, y: 97.52469}
+        - {x: 75.50001, y: 94.52469}
+        - {x: 75.50001, y: -70.47531}
+        - {x: 33.50001, y: -115.4753}
+        - {x: 19.50001, y: -115.4753}
+        - {x: 13.50001, y: -111.4753}
+        - {x: 11.50001, y: -115.4753}
+        - {x: 0.5000076, y: -115.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e070376a72b77f48a8972a662e0c56c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_08
+      rect:
+        serializedVersion: 2
+        x: 517.0267
+        y: 437.0915
+        width: 177.8971
+        height: 211.8324
+      alignment: 9
+      pivot: {x: 0.5113812, y: 0.5424502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.97532, y: -13.00768}
+        - {x: -88.97532, y: 2.992325}
+        - {x: -88.97532, y: 11.99232}
+        - {x: -59.97532, y: 88.99232}
+        - {x: -17.97532, y: 105.9923}
+        - {x: 29.02468, y: 105.9923}
+        - {x: 53.02468, y: 84.99232}
+        - {x: 89.02468, y: 46.99232}
+        - {x: 89.02468, y: -4.007675}
+        - {x: 87.02468, y: -17.00768}
+        - {x: 27.02468, y: -92.00768}
+        - {x: 18.02468, y: -106.0077}
+        - {x: -5.975319, y: -106.0077}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732fe4fb81606d44ba763d388f81559e
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_06
+      rect:
+        serializedVersion: 2
+        x: 0.05131674
+        y: 653.0267
+        width: 176.8726
+        height: 209.9303
+      alignment: 9
+      pivot: {x: 0.5255122, y: 0.5286194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.4876, y: -104.9919}
+        - {x: -88.4876, y: -49.99192}
+        - {x: -88.4876, y: 35.00808}
+        - {x: -51.4876, y: 95.00808}
+        - {x: -29.4876, y: 105.0081}
+        - {x: 34.5124, y: 105.0081}
+        - {x: 88.5124, y: 60.00808}
+        - {x: 88.5124, y: -4.99192}
+        - {x: 48.5124, y: -104.9919}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf429dac39b68014f829c226e6b62708
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nurse_walk_11
+      rect:
+        serializedVersion: 2
+        x: 179.0267
+        y: 676.0564
+        width: 178.8971
+        height: 213.8675
+      alignment: 9
+      pivot: {x: 0.5029329, y: 0.5561557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.47531, y: -81.99013}
+        - {x: -89.47531, y: -8.990128}
+        - {x: -89.47531, y: 20.00987}
+        - {x: -51.47531, y: 84.00987}
+        - {x: -11.47531, y: 107.0099}
+        - {x: 23.52469, y: 107.0099}
+        - {x: 89.52469, y: 53.00987}
+        - {x: 89.52469, y: -6.990128}
+        - {x: 83.52469, y: -23.99013}
+        - {x: 27.52469, y: -106.9901}
+        - {x: -2.475311, y: -106.9901}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46debccef49ffc64b8272cd0e7ac5bba
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nurse_damage_01: 21300004
+      nurse_damage_02: 21300026
+      nurse_damage_03: 21300014
+      nurse_damage_04: 21300022
+      nurse_damage_05: 21300006
+      nurse_walk_01: 21300018
+      nurse_walk_02: 21300024
+      nurse_walk_03: 21300012
+      nurse_walk_04: 21300000
+      nurse_walk_05: 21300008
+      nurse_walk_06: 21300030
+      nurse_walk_07: 21300020
+      nurse_walk_08: 21300028
+      nurse_walk_09: 21300002
+      nurse_walk_10: 21300010
+      nurse_walk_11: 21300032
+      nurse_walk_12: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

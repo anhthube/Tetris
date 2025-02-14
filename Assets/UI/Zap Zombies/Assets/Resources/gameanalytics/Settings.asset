@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fe03d08792443649b50578d450cc2a3, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier:
+  TotalMessagesSubmitted: 0
+  TotalMessagesFailed: 0
+  DesignMessagesSubmitted: 0
+  DesignMessagesFailed: 0
+  QualityMessagesSubmitted: 0
+  QualityMessagesFailed: 0
+  ErrorMessagesSubmitted: 0
+  ErrorMessagesFailed: 0
+  BusinessMessagesSubmitted: 0
+  BusinessMessagesFailed: 0
+  UserMessagesSubmitted: 0
+  UserMessagesFailed: 0
+  CustomArea:
+  gameKey:
+  - f68aeeba8f49e254f2982b03fa256d91
+  secretKey:
+  - b5b9419e5a56b0dafa079777e2c4b23e42e8dd20
+  Build:
+  - 0.1
+  SelectedPlatformStudio:
+  - Yomob
+  SelectedPlatformGame:
+  - Zap Zombies_GP
+  SelectedPlatformGameID: c6d50000
+  SelectedStudio: 01000000
+  SelectedGame: 05000000
+  NewVersion:
+  Changes:
+  SignUpOpen: 0
+  StudioName:
+  GameName:
+  EmailGA: tangz@yomob.com
+  IntroScreen: 0
+  InfoLogEditor: 1
+  InfoLogBuild: 1
+  VerboseLogBuild: 0
+  UseManualSessionHandling: 0
+  SendExampleGameDataToMyGame: 0
+  InternetConnectivity: 0
+  CustomDimensions01: []
+  CustomDimensions02: []
+  CustomDimensions03: []
+  ResourceItemTypes: []
+  ResourceCurrencies: []
+  LastCreatedGamePlatform: -1
+  Platforms: 0b000000
+  CurrentInspectorState: 1
+  ClosedHints:
+  DisplayHints: 0
+  DisplayHintsScrollState: {x: 0, y: 0}
+  Logo: {fileID: 2800000, guid: 7e8a30e70148abe42af7de169c942802, type: 3}
+  UpdateIcon: {fileID: 2800000, guid: 1187b1da01bf4e845b587b59379da008, type: 3}
+  InfoIcon: {fileID: 2800000, guid: c83f5635e69de65449728018e8ef177d, type: 3}
+  DeleteIcon: {fileID: 2800000, guid: a77ca8f20eec5a24da2ea40a66dcdb4c, type: 3}
+  GameIcon: {fileID: 2800000, guid: c91feaad604b7134a950f761aa2422c0, type: 3}
+  HomeIcon: {fileID: 2800000, guid: 5ed04f09505a9a54eb2a4c1bd11b1f8e, type: 3}
+  InstrumentIcon: {fileID: 2800000, guid: 8fb929f93f0551e41919bb82a1b1e2a7, type: 3}
+  QuestionIcon: {fileID: 2800000, guid: 95fb0dbc55b2c5e4285980ba5ea61625, type: 3}
+  UserIcon: {fileID: 2800000, guid: 7d7697309d93f3045ba5985400d00074, type: 3}
+  AmazonIcon: {fileID: 0}
+  GooglePlayIcon: {fileID: 0}
+  iosIcon: {fileID: 0}
+  macIcon: {fileID: 0}
+  windowsPhoneIcon: {fileID: 0}
+  UsePlayerSettingsBuildNumber: 0
+  SubmitErrors: 1
+  MaxErrorCount: 10
+  SubmitFpsAverage: 1
+  SubmitFpsCritical: 1
+  IncludeGooglePlay: 1
+  FpsCriticalThreshold: 20
+  FpsCirticalSubmitInterval: 1
+  PlatformFoldOut: 01
+  CustomDimensions01FoldOut: 0
+  CustomDimensions02FoldOut: 0
+  CustomDimensions03FoldOut: 0
+  ResourceItemTypesFoldOut: 0
+  ResourceCurrenciesFoldOut: 0

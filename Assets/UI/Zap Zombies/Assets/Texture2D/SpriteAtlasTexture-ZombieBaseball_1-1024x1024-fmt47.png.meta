@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 0432ee54a4cfb8540831495230515f05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_baseball_damage_02
+  - first:
+      213: 21300002
+    second: zombie_baseball_damage_08
+  - first:
+      213: 21300004
+    second: zombie_baseball_walk_01
+  - first:
+      213: 21300006
+    second: zombie_baseball_walk_02
+  - first:
+      213: 21300008
+    second: zombie_baseball_walk_03
+  - first:
+      213: 21300010
+    second: zombie_baseball_walk_04
+  - first:
+      213: 21300012
+    second: zombie_baseball_walk_05
+  - first:
+      213: 21300014
+    second: zombie_baseball_walk_06
+  - first:
+      213: 21300016
+    second: zombie_baseball_walk_07
+  - first:
+      213: 21300018
+    second: zombie_baseball_damage_05
+  - first:
+      213: 21300020
+    second: zombie_baseball_damage_07
+  - first:
+      213: 21300022
+    second: zombie_baseball_damage_01
+  - first:
+      213: 21300024
+    second: zombie_baseball_damage_04
+  - first:
+      213: 21300026
+    second: zombie_baseball_damage_03
+  - first:
+      213: 21300028
+    second: zombie_baseball_damage_06
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_baseball_damage_02
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 0.07612038
+        width: 189.9303
+        height: 201.8876
+      alignment: 9
+      pivot: {x: 0.5895491, y: 0.5940132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.99191, y: -88.01992}
+        - {x: -94.99191, y: -29.01991}
+        - {x: -94.99191, y: 34.98009}
+        - {x: -51.99191, y: 84.98009}
+        - {x: -9.991915, y: 100.9801}
+        - {x: 29.00809, y: 100.9801}
+        - {x: 78.00809, y: 56.98009}
+        - {x: 95.00809, y: 10.98009}
+        - {x: 95.00809, y: -57.01991}
+        - {x: 81.00809, y: -60.01991}
+        - {x: 40.00809, y: -62.01991}
+        - {x: 42.00809, y: -98.01991}
+        - {x: 28.00809, y: -101.0199}
+        - {x: 14.00809, y: -101.0199}
+        - {x: 8.008087, y: -73.01991}
+        - {x: 1.008087, y: -60.01991}
+        - {x: -7.991913, y: -80.01991}
+        - {x: -32.99191, y: -101.0199}
+        - {x: -41.99191, y: -101.0199}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783953a7f9c60e9498d129b7d476de35
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_damage_08
+      rect:
+        serializedVersion: 2
+        x: 192.0129
+        y: 0.02675056
+        width: 197.911
+        height: 237.9219
+      alignment: 9
+      pivot: {x: 0.5708986, y: 0.5084578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.96839, y: -73.98771}
+        - {x: -98.96839, y: -48.98771}
+        - {x: -98.96839, y: 90.01229}
+        - {x: -86.96839, y: 119.0123}
+        - {x: -6.968391, y: 119.0123}
+        - {x: 99.03161, y: 37.01229}
+        - {x: 99.03161, y: -43.98771}
+        - {x: 57.03161, y: -118.9877}
+        - {x: 4.031609, y: -118.9877}
+        - {x: -16.96839, y: -115.9877}
+        - {x: -28.96839, y: -89.98771}
+        - {x: -32.96839, y: -50.98771}
+        - {x: -34.96839, y: -73.98771}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd373a4ebab14244ba1beee342883fc
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_walk_01
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 204.0429
+        width: 177.8876
+        height: 229.9303
+      alignment: 9
+      pivot: {x: 0.6572908, y: 0.5260597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.01991, y: -67.00807}
+        - {x: -11.01991, y: -28.00807}
+        - {x: -16.01991, y: -53.00807}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc2df680564414baf5569583da0397
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_walk_02
+      rect:
+        serializedVersion: 2
+        x: 412.0761
+        y: 461.0761
+        width: 182.8477
+        height: 226.881
+      alignment: 9
+      pivot: {x: 0.6503984, y: 0.5506142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.49999, y: -53.51661}
+        - {x: -11.49999, y: -62.51661}
+        - {x: -7.499992, y: -51.51661}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb5c67f09140c14696327f0ec4facb0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_walk_03
+      rect:
+        serializedVersion: 2
+        x: 628.0129
+        y: 0.07612038
+        width: 178.911
+        height: 218.8642
+      alignment: 9
+      pivot: {x: 0.6538844, y: 0.5890589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.46839, y: -76.5082}
+        - {x: -13.46839, y: -65.5082}
+        - {x: -13.46839, y: -62.5082}
+        - {x: -12.46839, y: -61.5082}
+        - {x: -17.46839, y: -63.5082}
+        - {x: -26.4684, y: -63.5082}
+        - {x: -38.46839, y: -51.5082}
+        - {x: -87.46839, y: -0.5082016}
+        - {x: -89.46838, y: 3.491798}
+        - {x: -89.46838, y: 7.491798}
+        - {x: -85.46839, y: 15.4918}
+        - {x: -61.46839, y: 30.4918}
+        - {x: -77.46838, y: 54.4918}
+        - {x: -43.46839, y: 97.4918}
+        - {x: -13.46839, y: 109.4918}
+        - {x: 16.53161, y: 109.4918}
+        - {x: 89.53161, y: 37.4918}
+        - {x: 89.53161, y: -33.5082}
+        - {x: 51.53161, y: -109.5082}
+        - {x: 32.53161, y: -109.5082}
+        - {x: 19.53161, y: -99.50821}
+        - {x: 5.531609, y: -77.5082}
+        - {x: 3.531609, y: -82.5082}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2c2ca0ada2c44c8b207e416e1f8ed
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_walk_04
+      rect:
+        serializedVersion: 2
+        x: 396.0129
+        y: 690.0429
+        width: 180.9742
+        height: 211.881
+      alignment: 9
+      pivot: {x: 0.6464297, y: 0.6133496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: -22.98339}
+        - {x: 71.5, y: -68.98339}
+        - {x: 54.5, y: -105.9834}
+        - {x: -0.5000019, y: -105.9834}
+        - {x: -90.49999, y: -19.98339}
+        - {x: -90.49999, y: 14.01661}
+        - {x: -86.5, y: 21.01661}
+        - {x: -75.5, y: 38.01661}
+        - {x: -76.5, y: 45.01661}
+        - {x: -56.5, y: 98.01661}
+        - {x: -20.5, y: 106.0166}
+        - {x: 26.5, y: 106.0166}
+        - {x: 49.5, y: 93.01661}
+        - {x: 90.5, y: 20.01661}
+        - {x: 90.5, y: -29.98339}
+        - {x: 62.5, y: -31.98339}
+        - {x: 55.5, y: -17.98339}
+        - {x: 55.5, y: -16.98339}
+        - {x: 60.5, y: -11.98339}
+        - {x: 57.5, y: -11.98339}
+        - {x: 55.5, y: -13.98339}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc0011d6b82caa469e971f4e8c0f9fb
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_walk_05
+      rect:
+        serializedVersion: 2
+        x: 784.0267
+        y: 221.0267
+        width: 184.9465
+        height: 206.9465
+      alignment: 9
+      pivot: {x: 0.6378777, y: 0.6135559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -92.5}
+        - {x: -92.49999, y: -23.5}
+        - {x: -92.49999, y: 103.5}
+        - {x: 42.5, y: 103.5}
+        - {x: 79.5, y: 91.5}
+        - {x: 92.5, y: 49.5}
+        - {x: 92.5, y: -29.5}
+        - {x: 60.5, y: -103.5}
+        - {x: 23.5, y: -103.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3466ae7ebd6b81a4c9bb186d17c45154
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_walk_06
+      rect:
+        serializedVersion: 2
+        x: 0.05972862
+        y: 492.0268
+        width: 187.9135
+        height: 206.9303
+      alignment: 9
+      pivot: {x: 0.6276305, y: 0.5894411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.01649, y: -103.4919}
+        - {x: -94.01649, y: -45.49192}
+        - {x: -94.01649, y: 103.5081}
+        - {x: 61.98351, y: 103.5081}
+        - {x: 93.98351, y: 85.50808}
+        - {x: 93.98351, y: -88.49193}
+        - {x: 86.98351, y: -103.4919}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1323245be7b060f4590f78e304f4a91a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_walk_07
+      rect:
+        serializedVersion: 2
+        x: 412.0268
+        y: 249.0267
+        width: 189.8971
+        height: 209.8971
+      alignment: 9
+      pivot: {x: 0.6212482, y: 0.5572885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.9753, y: -104.9753}
+        - {x: -94.9753, y: -32.97532}
+        - {x: -94.9753, y: 27.02468}
+        - {x: -85.9753, y: 44.02468}
+        - {x: -36.97531, y: 105.0247}
+        - {x: 47.0247, y: 105.0247}
+        - {x: 68.0247, y: 102.0247}
+        - {x: 95.0247, y: 22.02468}
+        - {x: 95.0247, y: -91.97532}
+        - {x: 77.0247, y: -104.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d719c180952b17347a29314bb3a7b85f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_damage_05
+      rect:
+        serializedVersion: 2
+        x: 180.0267
+        y: 240.0267
+        width: 229.8971
+        height: 249.9303
+      alignment: 9
+      pivot: {x: 0.4566097, y: 0.4680234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.97531, y: -107.9919}
+        - {x: -114.9753, y: -63.99192}
+        - {x: -114.9753, y: -4.99192}
+        - {x: -103.9753, y: 38.00808}
+        - {x: -43.97531, y: 110.0081}
+        - {x: -10.97531, y: 125.0081}
+        - {x: 31.02469, y: 125.0081}
+        - {x: 115.0247, y: 48.00808}
+        - {x: 115.0247, y: -10.99192}
+        - {x: 11.02469, y: -121.9919}
+        - {x: 1.024689, y: -124.9919}
+        - {x: -6.975311, y: -124.9919}
+        - {x: -14.97531, y: -113.9919}
+        - {x: -26.97531, y: -85.99192}
+        - {x: -41.97531, y: -104.9919}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5e512176ddef4288a71d475559ddf
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_damage_07
+      rect:
+        serializedVersion: 2
+        x: 412.0268
+        y: 0.04290771
+        width: 213.8971
+        height: 246.881
+      alignment: 9
+      pivot: {x: 0.4767397, y: 0.4818398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.9753, y: -76.4834}
+        - {x: -106.9753, y: -56.4834}
+        - {x: -106.9753, y: 7.516602}
+        - {x: -90.97531, y: 95.5166}
+        - {x: -46.97531, y: 123.5166}
+        - {x: 24.02469, y: 123.5166}
+        - {x: 107.0247, y: 43.5166}
+        - {x: 107.0247, y: 16.5166}
+        - {x: 27.02469, y: -123.4834}
+        - {x: -5.975311, y: -123.4834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a082a3daf486a1c4e9f183f4aacbf2e3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_damage_01
+      rect:
+        serializedVersion: 2
+        x: 604.0761
+        y: 249.0429
+        width: 177.8876
+        height: 229.9303
+      alignment: 9
+      pivot: {x: 0.6572908, y: 0.5260597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.01991, y: -67.00807}
+        - {x: -11.01991, y: -28.00807}
+        - {x: -16.01991, y: -53.00807}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d404a0032e14e41b41b4a096f69302
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_damage_04
+      rect:
+        serializedVersion: 2
+        x: 190.0597
+        y: 492.0761
+        width: 203.8642
+        height: 241.8478
+      alignment: 9
+      pivot: {x: 0.4804193, y: 0.4875955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.99181, y: -120}
+        - {x: -53.99181, y: -7}
+        - {x: -70.99181, y: -14}
+        - {x: -95.99181, y: -8}
+        - {x: -101.9918, y: -3}
+        - {x: -101.9918, y: 39}
+        - {x: -73.99181, y: 88}
+        - {x: -56.9918, y: 80}
+        - {x: -52.99181, y: 79}
+        - {x: -56.9918, y: 81}
+        - {x: -54.99181, y: 95}
+        - {x: -11.99181, y: 121}
+        - {x: 41.00819, y: 121}
+        - {x: 64.00819, y: 113}
+        - {x: 102.0082, y: -6}
+        - {x: 102.0082, y: -31}
+        - {x: 21.00819, y: -75}
+        - {x: 16.00819, y: -121}
+        - {x: -42.99181, y: -121}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2cda42a82a56741a6a0478cf1bfe40
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_damage_03
+      rect:
+        serializedVersion: 2
+        x: 597.0761
+        y: 481.0761
+        width: 196.9128
+        height: 184.8971
+      alignment: 9
+      pivot: {x: 0.5683933, y: 0.637781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.53249, y: -53.52468}
+        - {x: -98.53249, y: -62.52468}
+        - {x: -98.53249, y: 61.47532}
+        - {x: -27.53249, y: 92.47532}
+        - {x: 36.46751, y: 92.47532}
+        - {x: 98.46751, y: 6.475319}
+        - {x: 98.46751, y: -92.52467}
+        - {x: -24.53249, y: -92.52467}
+        - {x: -35.53249, y: -76.52468}
+        - {x: -39.53248, y: -47.52468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c365a68319bde418b8c900bc77fb7f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_baseball_damage_06
+      rect:
+        serializedVersion: 2
+        x: 597.0267
+        y: 668.0111
+        width: 224.937
+        height: 256.946
+      alignment: 9
+      pivot: {x: 0.4622328, y: 0.4591972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.4952, y: -38.48411}
+        - {x: -112.4952, y: -27.48411}
+        - {x: -112.4952, y: -5.484108}
+        - {x: -80.49523, y: 32.51589}
+        - {x: -65.49523, y: 99.51589}
+        - {x: -39.49523, y: 114.5159}
+        - {x: -9.495232, y: 123.5159}
+        - {x: 9.504768, y: 128.5159}
+        - {x: 18.50477, y: 128.5159}
+        - {x: 40.50477, y: 120.5159}
+        - {x: 45.50477, y: 47.51589}
+        - {x: 40.50477, y: 33.51589}
+        - {x: 37.50477, y: 21.51589}
+        - {x: 32.50477, y: 19.51589}
+        - {x: 35.50477, y: 19.51589}
+        - {x: 81.50477, y: 33.51589}
+        - {x: 103.5048, y: 35.51589}
+        - {x: 112.5048, y: 31.51589}
+        - {x: 112.5048, y: 8.515892}
+        - {x: 14.50477, y: -127.4841}
+        - {x: 13.50477, y: -128.4841}
+        - {x: -45.49523, y: -128.4841}
+        - {x: -78.49523, y: -103.4841}
+        - {x: -92.49523, y: -31.48411}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d198147e070b49a4ee41a1de40de6
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_baseball_damage_01: 21300022
+      zombie_baseball_damage_02: 21300000
+      zombie_baseball_damage_03: 21300026
+      zombie_baseball_damage_04: 21300024
+      zombie_baseball_damage_05: 21300018
+      zombie_baseball_damage_06: 21300028
+      zombie_baseball_damage_07: 21300020
+      zombie_baseball_damage_08: 21300002
+      zombie_baseball_walk_01: 21300004
+      zombie_baseball_walk_02: 21300006
+      zombie_baseball_walk_03: 21300008
+      zombie_baseball_walk_04: 21300010
+      zombie_baseball_walk_05: 21300012
+      zombie_baseball_walk_06: 21300014
+      zombie_baseball_walk_07: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

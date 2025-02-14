@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 3d0ddf3a1b21f9c46adf343a07735ea6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_Prisoner_damage_08
+  - first:
+      213: 21300002
+    second: Zombie_Prisoner_damage_03
+  - first:
+      213: 21300004
+    second: Zombie_Prisoner_damage_07
+  - first:
+      213: 21300006
+    second: Zombie_Prisoner_walk_04
+  - first:
+      213: 21300008
+    second: Zombie_Prisoner_damage_01
+  - first:
+      213: 21300010
+    second: Zombie_Prisoner_damage_02
+  - first:
+      213: 21300012
+    second: Zombie_Prisoner_damage_04
+  - first:
+      213: 21300014
+    second: Zombie_Prisoner_damage_05
+  - first:
+      213: 21300016
+    second: Zombie_Prisoner_damage_06
+  - first:
+      213: 21300018
+    second: Zombie_Prisoner_walk_01
+  - first:
+      213: 21300020
+    second: Zombie_Prisoner_walk_02
+  - first:
+      213: 21300022
+    second: Zombie_Prisoner_walk_03
+  - first:
+      213: 21300024
+    second: Zombie_Prisoner_walk_05
+  - first:
+      213: 21300026
+    second: Zombie_Prisoner_walk_06
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_Prisoner_damage_08
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.07612038
+        width: 202.911
+        height: 230.8477
+      alignment: 9
+      pivot: {x: 0.4850594, y: 0.6061305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5316, y: -115.5}
+        - {x: -101.5316, y: -92.49999}
+        - {x: -101.5316, y: 41.5}
+        - {x: -88.5316, y: 68.5}
+        - {x: -59.5316, y: 94.5}
+        - {x: -12.5316, y: 115.5}
+        - {x: -4.531601, y: 115.5}
+        - {x: 9.468399, y: 110.5}
+        - {x: 52.4684, y: 92.5}
+        - {x: 101.4684, y: 45.5}
+        - {x: 101.4684, y: -27.5}
+        - {x: 91.4684, y: -54.5}
+        - {x: 6.468399, y: -115.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e300810f39d4e7c4dbc57ad252c10dbb
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_damage_03
+      rect:
+        serializedVersion: 2
+        x: 205.0761
+        y: 0.07612038
+        width: 161.8477
+        height: 209.8477
+      alignment: 9
+      pivot: {x: 0.299194, y: 0.685849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.99999, y: -105}
+        - {x: -80.99999, y: -57}
+        - {x: -80.99999, y: 67}
+        - {x: -20.99999, y: 105}
+        - {x: 63.00001, y: 105}
+        - {x: 81.00001, y: 64}
+        - {x: 81.00001, y: -58}
+        - {x: -9.999992, y: -105}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be45838bbf8f6046bf75e83d652cbf2
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_damage_07
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 233.0513
+        width: 208.8477
+        height: 258.8726
+      alignment: 9
+      pivot: {x: 0.55267, y: 0.5328826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.5, y: -74.48759}
+        - {x: 60.50001, y: -100.4876}
+        - {x: 11.50001, y: -127.4876}
+        - {x: 10.50001, y: -129.4876}
+        - {x: 2.500008, y: -129.4876}
+        - {x: -4.499992, y: -127.4876}
+        - {x: -103.5, y: -67.48759}
+        - {x: -104.5, y: -59.48759}
+        - {x: -104.5, y: 124.5124}
+        - {x: -86.49999, y: 129.5124}
+        - {x: 36.50001, y: 129.5124}
+        - {x: 54.50001, y: 120.5124}
+        - {x: 104.5, y: 78.51241}
+        - {x: 104.5, y: 21.51241}
+        - {x: 70.50002, y: -9.487595}
+        - {x: 84.50001, y: -7.487595}
+        - {x: 104.5, y: -11.48759}
+        - {x: 104.5, y: -56.48759}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4193fe5aa1c7b4e818a6ebc0094e62
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_walk_04
+      rect:
+        serializedVersion: 2
+        x: 211.0761
+        y: 212.0761
+        width: 204.8477
+        height: 209.881
+      alignment: 9
+      pivot: {x: 0.514645, y: 0.6571528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: -105.0166}
+        - {x: -102.5, y: -33.01661}
+        - {x: -102.5, y: 57.98339}
+        - {x: -36.5, y: 104.9834}
+        - {x: 12.5, y: 104.9834}
+        - {x: 96.5, y: 35.98339}
+        - {x: 102.5, y: 23.98339}
+        - {x: 102.5, y: -30.01661}
+        - {x: 70.5, y: -69.01661}
+        - {x: 20.5, y: -78.01661}
+        - {x: 11.5, y: -105.0166}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a1f0c3b2fd58f4e83211764a9155af
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_damage_01
+      rect:
+        serializedVersion: 2
+        x: 402.0761
+        y: 645.0761
+        width: 197.8642
+        height: 212.881
+      alignment: 9
+      pivot: {x: 0.4468919, y: 0.6572869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.00819, y: -36.51661}
+        - {x: -99.00819, y: -16.51661}
+        - {x: -99.00819, y: 66.48339}
+        - {x: -31.00819, y: 106.4834}
+        - {x: 25.99181, y: 106.4834}
+        - {x: 58.99181, y: 84.48339}
+        - {x: 98.99181, y: 28.48339}
+        - {x: 98.99181, y: -39.51661}
+        - {x: 16.99181, y: -106.5166}
+        - {x: -42.00819, y: -106.5166}
+        - {x: -74.00819, y: -87.51661}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e97172ebec29d44bc939c8610e3acd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_damage_02
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 494.0268
+        width: 180.8477
+        height: 213.8971
+      alignment: 9
+      pivot: {x: 0.3894098, y: 0.6637455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: -86.97531}
+        - {x: -90.5, y: -44.97531}
+        - {x: -90.5, y: 76.02469}
+        - {x: -19.5, y: 107.0247}
+        - {x: 34.5, y: 107.0247}
+        - {x: 90.5, y: 32.02469}
+        - {x: 90.5, y: -27.97531}
+        - {x: -6.499999, y: -106.9753}
+        - {x: -33.5, y: -106.9753}
+        - {x: -36.5, y: -105.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1c71cd0bb689142afcd57e0c5171d3
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_damage_04
+      rect:
+        serializedVersion: 2
+        x: 633.0761
+        y: 0.07612038
+        width: 197.8642
+        height: 235.8642
+      alignment: 9
+      pivot: {x: 0.4721617, y: 0.6059585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.00819, y: -118.0082}
+        - {x: -99.00819, y: -50.0082}
+        - {x: -99.00819, y: -3.008202}
+        - {x: -57.00819, y: 117.9918}
+        - {x: 53.99181, y: 117.9918}
+        - {x: 98.9918, y: 105.9918}
+        - {x: 98.9918, y: -0.008201599}
+        - {x: 76.99181, y: -67.0082}
+        - {x: -1.008194, y: -118.0082}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93184cba2c5811748a30e5e1d48d4da5
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_damage_05
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 632.0761
+        width: 216.9239
+        height: 276.9239
+      alignment: 9
+      pivot: {x: 0.5508845, y: 0.461946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.53806, y: 138.4619}
+        - {x: 108.5381, y: 95.46192}
+        - {x: 108.5381, y: -0.5380707}
+        - {x: 84.53806, y: -27.53807}
+        - {x: 101.5381, y: -36.53807}
+        - {x: 108.5381, y: -44.53807}
+        - {x: 108.5381, y: -81.53807}
+        - {x: 47.53806, y: -138.5381}
+        - {x: -1.461937, y: -138.5381}
+        - {x: -4.461937, y: -135.5381}
+        - {x: -38.46194, y: -43.53807}
+        - {x: -95.46194, y: -75.53807}
+        - {x: -103.4619, y: -55.53807}
+        - {x: -108.4619, y: -1.538071}
+        - {x: -108.4619, y: 118.4619}
+        - {x: -92.46194, y: 138.4619}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891142f4d2cc9c448253594c742b6c1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_damage_06
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0.05131721
+        width: 212.9239
+        height: 279.8726
+      alignment: 9
+      pivot: {x: 0.5612335, y: 0.4678868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106.5381, y: -82.98759}
+        - {x: 81.53806, y: -114.9876}
+        - {x: 14.53806, y: -139.9876}
+        - {x: -3.461937, y: -139.9876}
+        - {x: -15.46194, y: -66.98759}
+        - {x: -106.4619, y: -75.98759}
+        - {x: -106.4619, y: 115.0124}
+        - {x: -86.46194, y: 140.0124}
+        - {x: 28.53806, y: 140.0124}
+        - {x: 106.5381, y: 86.01241}
+        - {x: 106.5381, y: 22.01241}
+        - {x: 93.53806, y: -14.98759}
+        - {x: 106.5381, y: -38.98759}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26806d8cca737843a9063f41f9b12ea
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_walk_01
+      rect:
+        serializedVersion: 2
+        x: 633.0761
+        y: 238.0761
+        width: 206.8477
+        height: 229.8876
+      alignment: 9
+      pivot: {x: 0.4806621, y: 0.6086621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.49999, y: -105.0199}
+        - {x: -103.5, y: -39.01992}
+        - {x: -103.5, y: 45.98008}
+        - {x: -99.49999, y: 73.98008}
+        - {x: -67.49999, y: 95.98008}
+        - {x: -16.49999, y: 114.9801}
+        - {x: 5.500008, y: 114.9801}
+        - {x: 35.50001, y: 95.98008}
+        - {x: 100.5, y: 24.98008}
+        - {x: 103.5, y: 9.980079}
+        - {x: 103.5, y: -20.01992}
+        - {x: 86.50001, y: -57.01992}
+        - {x: 7.500008, y: -115.0199}
+        - {x: -35.49999, y: -115.0199}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ebc05f09b9ef5488ec033345b688b1
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_walk_02
+      rect:
+        serializedVersion: 2
+        x: 602.0761
+        y: 678.0761
+        width: 205.8477
+        height: 224.8971
+      alignment: 9
+      pivot: {x: 0.502429, y: 0.6266148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.99999, y: -33.52469}
+        - {x: -103, y: -6.524689}
+        - {x: -103, y: 66.47531}
+        - {x: -33.99999, y: 112.4753}
+        - {x: 12.00001, y: 112.4753}
+        - {x: 47.00001, y: 90.47531}
+        - {x: 103, y: 30.47531}
+        - {x: 103, y: -21.52469}
+        - {x: 76.00001, y: -80.52469}
+        - {x: 9.000008, y: -112.5247}
+        - {x: -12.99999, y: -112.5247}
+        - {x: -22.99999, y: -92.52469}
+        - {x: -55.99999, y: -106.5247}
+        - {x: -61.99999, y: -91.5247}
+        - {x: -68.99999, y: -55.52469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939ceb72a269e8c4a913558833d996cb
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_walk_03
+      rect:
+        serializedVersion: 2
+        x: 416.0761
+        y: 424.0761
+        width: 206.8477
+        height: 218.8477
+      alignment: 9
+      pivot: {x: 0.519338, y: 0.6485051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: -51.5}
+        - {x: -103.5, y: -36.5}
+        - {x: -103.5, y: 60.5}
+        - {x: -76.49998, y: 83.5}
+        - {x: -19.49998, y: 109.5}
+        - {x: 6.500015, y: 109.5}
+        - {x: 90.50002, y: 41.5}
+        - {x: 103.5, y: 15.5}
+        - {x: 103.5, y: -31.5}
+        - {x: 75.50002, y: -73.49999}
+        - {x: 25.50002, y: -76.5}
+        - {x: 12.50002, y: -109.5}
+        - {x: -49.49999, y: -109.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a91ab1378777654f94dd76e272a9323
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_walk_05
+      rect:
+        serializedVersion: 2
+        x: 211.0761
+        y: 424.0761
+        width: 202.8477
+        height: 205.8971
+      alignment: 9
+      pivot: {x: 0.5197192, y: 0.6504407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.49999, y: -103.0247}
+        - {x: -101.5, y: -42.02469}
+        - {x: -101.5, y: 32.97531}
+        - {x: -91.49999, y: 58.97531}
+        - {x: -49.5, y: 88.97531}
+        - {x: -22.49999, y: 102.9753}
+        - {x: 22.50001, y: 102.9753}
+        - {x: 101.5, y: 42.97531}
+        - {x: 101.5, y: -52.02469}
+        - {x: 100.5, y: -56.02469}
+        - {x: 57.50001, y: -82.02469}
+        - {x: 9.500008, y: -103.0247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4067c18d2ef2fa44b65f3f71975c1d6
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Prisoner_walk_06
+      rect:
+        serializedVersion: 2
+        x: 625.0761
+        y: 470.0761
+        width: 201.8971
+        height: 205.8477
+      alignment: 9
+      pivot: {x: 0.5320724, y: 0.6311649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.02468, y: -100}
+        - {x: -101.0247, y: -35}
+        - {x: -101.0247, y: 32}
+        - {x: -81.02468, y: 91}
+        - {x: -44.02468, y: 103}
+        - {x: 43.97532, y: 103}
+        - {x: 100.9753, y: 28}
+        - {x: 100.9753, y: -49}
+        - {x: 61.97532, y: -95}
+        - {x: 14.97532, y: -103}
+        - {x: -37.02468, y: -103}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9c433560a13344195ac56d33be8261
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_Prisoner_damage_01: 21300008
+      Zombie_Prisoner_damage_02: 21300010
+      Zombie_Prisoner_damage_03: 21300002
+      Zombie_Prisoner_damage_04: 21300012
+      Zombie_Prisoner_damage_05: 21300014
+      Zombie_Prisoner_damage_06: 21300016
+      Zombie_Prisoner_damage_07: 21300004
+      Zombie_Prisoner_damage_08: 21300000
+      Zombie_Prisoner_walk_01: 21300018
+      Zombie_Prisoner_walk_02: 21300020
+      Zombie_Prisoner_walk_03: 21300022
+      Zombie_Prisoner_walk_04: 21300006
+      Zombie_Prisoner_walk_05: 21300024
+      Zombie_Prisoner_walk_06: 21300026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

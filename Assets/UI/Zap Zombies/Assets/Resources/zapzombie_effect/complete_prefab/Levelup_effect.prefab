@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1678991146439914}
+  m_IsPrefabParent: 1
+--- !u!1 &1678991146439914
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224556628103384446}
+  - component: {fileID: 114914854684556089}
+  m_Layer: 0
+  m_Name: Levelup_effect
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &224556628103384446
+RectTransform:
+  m_GameObject: {fileID: 1678991146439914}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &114914854684556089
+MonoBehaviour:
+  m_GameObject: {fileID: 1678991146439914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82ea335c713f9d24eb50e2dbdcd30881, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  duration: 0
+  looping: 1
+  startDelay: 0
+  gravity: {x: 0, y: -400}
+  spriteArray:
+  - {fileID: 0}
+  emissionLife:
+    lifeTimeMin: 0.4
+    lifeTimeMax: 0.6
+  emissionGenerationCondition:
+    emitTimeIntervalMin: 1
+    emitTimeIntervalMax: 1
+    emitCountPerEmissionMin: 15
+    emitCountPerEmissionMax: 20
+    emitTotalCountLimitMin: 0
+    emitTotalCountLimitMax: 0
+  emissionTransform:
+    positionMin: {x: -20, y: -10}
+    positionMax: {x: 20, y: 10}
+    scaleWithFixedAspectRatio: 1
+    scaleMin: {x: 0.3, y: 0.3}
+    scaleMax: {x: 0.7, y: 0.7}
+    rotationMin: {x: 0, y: 0, z: 720}
+    rotationMax: {x: 0, y: 0, z: -720}
+  emissionOpacity:
+    opacityMin: 0.5
+    opacityMax: 1
+  transformOverLifeTime:
+    scaleWithFixedAspectRatio: 1
+    scaleSpeedValueMin: {x: -1, y: -1}
+    scaleSpeedValueMax: {x: 0, y: 0}
+    rotationSpeedMin: {x: 0, y: 0, z: 720}
+    rotationSpeedMax: {x: 0, y: 0, z: -720}
+  physicsOverLifeTime:
+    velocityMin: {x: -150, y: 200}
+    velocityMax: {x: 150, y: 400}
+    accelerationMin: {x: 0, y: 0}
+    accelerationMax: {x: 0, y: 0}
+  opacityOverLifeTime:
+    changeOpacityWith: 1
+    opacityChangeValueMin: 0
+    opacityChangeValueMax: -0.5

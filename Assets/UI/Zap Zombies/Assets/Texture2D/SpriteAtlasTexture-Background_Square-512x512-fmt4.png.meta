@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 5d8b110c08d35da47861a3c0f505bd14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: square_barricade_L03
+  - first:
+      213: 21300002
+    second: square_barricade_L01
+  - first:
+      213: 21300004
+    second: square_barricade_L02
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: square_barricade_L03
+      rect:
+        serializedVersion: 2
+        x: 0.005981445
+        y: 0.02675056
+        width: 445.994
+        height: 161.9465
+      alignment: 9
+      pivot: {x: 0.1928143, y: 0.4753005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -217.003, y: -80}
+        - {x: -223.003, y: -69}
+        - {x: -223.003, y: -6}
+        - {x: -222.003, y: 4}
+        - {x: -177.003, y: 18}
+        - {x: -135.003, y: 18}
+        - {x: -40.00299, y: -28}
+        - {x: -40.00299, y: -80}
+      - - {x: 14.99701, y: -67}
+        - {x: -29.00298, y: -21}
+        - {x: -29.00298, y: 45}
+        - {x: 40.99701, y: 81}
+        - {x: 136.997, y: 81}
+        - {x: 219.997, y: 57}
+        - {x: 222.997, y: 46}
+        - {x: 222.997, y: -57}
+        - {x: 201.997, y: -81}
+        - {x: 75.99702, y: -81}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413d82dff7576a41b2ae79a2db9ebe8
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_barricade_L01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164.0004
+        width: 499.9871
+        height: 155.9936
+      alignment: 9
+      pivot: {x: 0.7200186, y: 0.6282281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143.9935, y: 29.00276}
+        - {x: -143.9935, y: 35.00276}
+        - {x: -144.9935, y: 43.00276}
+        - {x: -125.9935, y: 69.00276}
+        - {x: -117.9935, y: 78.00276}
+        - {x: 14.00645, y: 78.00276}
+        - {x: 65.00645, y: 70.00276}
+        - {x: 193.0065, y: 74.00276}
+        - {x: 248.0065, y: 60.00276}
+        - {x: 250.0065, y: 55.00276}
+        - {x: 250.0065, y: -24.99724}
+        - {x: 138.0065, y: -77.99724}
+        - {x: -145.9935, y: -77.99724}
+        - {x: -194.9935, y: -52.99724}
+        - {x: -197.9935, y: -61.99724}
+        - {x: -207.9935, y: -75.99724}
+        - {x: -212.9935, y: -77.99724}
+        - {x: -221.9935, y: -77.99724}
+        - {x: -234.9935, y: -57.99724}
+        - {x: -249.9935, y: -19.99724}
+        - {x: -249.9935, y: 70.00276}
+        - {x: -230.9935, y: 78.00276}
+        - {x: -177.9935, y: 78.00276}
+        - {x: -152.9935, y: 58.00276}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a5853c28d54f439aa8dd2510b9b9e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_barricade_L02
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 322.0761
+        width: 453.8972
+        height: 160.911
+      alignment: 9
+      pivot: {x: 0.6431499, y: 0.4904817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.0247, y: -68.5316}
+        - {x: -227.0247, y: 3.468399}
+        - {x: -227.0247, y: 80.4684}
+        - {x: 12.97531, y: 80.4684}
+        - {x: 63.97531, y: 78.4684}
+        - {x: 80.97531, y: 49.4684}
+        - {x: 92.97531, y: -12.5316}
+        - {x: 92.97531, y: -21.5316}
+        - {x: 89.97531, y: -24.5316}
+        - {x: 76.97531, y: -27.5316}
+        - {x: 47.97531, y: -20.5316}
+        - {x: 63.97531, y: -57.5316}
+        - {x: 54.97531, y: -69.5316}
+        - {x: -179.0247, y: -69.5316}
+        - {x: -188.0247, y: -68.5316}
+      - - {x: 102.9753, y: -18.5316}
+        - {x: 101.9753, y: -9.531601}
+        - {x: 101.9753, y: 12.4684}
+        - {x: 127.9753, y: 12.4684}
+        - {x: 226.9753, y: -57.5316}
+        - {x: 226.9753, y: -77.5316}
+        - {x: 224.9753, y: -80.5316}
+        - {x: 201.9753, y: -80.5316}
+        - {x: 166.9753, y: -60.5316}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1747ccc2560c548bcbbfd6c161c593
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      square_barricade_L01: 21300002
+      square_barricade_L02: 21300004
+      square_barricade_L03: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

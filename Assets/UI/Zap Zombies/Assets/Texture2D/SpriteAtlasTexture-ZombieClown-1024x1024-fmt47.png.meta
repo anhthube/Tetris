@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: bcfe40a8dffacf747bde9b0fd2b0c1ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_Clown_damage_05
+  - first:
+      213: 21300002
+    second: zombie_Clown_damage_01
+  - first:
+      213: 21300004
+    second: zombie_Clown_damage_02
+  - first:
+      213: 21300006
+    second: zombie_Clown_damage_03
+  - first:
+      213: 21300008
+    second: zombie_Clown_damage_04
+  - first:
+      213: 21300010
+    second: zombie_Clown_damage_06
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_Clown_damage_05
+      rect:
+        serializedVersion: 2
+        x: 0.04290771
+        y: 0.07611847
+        width: 270.881
+        height: 376.8876
+      alignment: 9
+      pivot: {x: 0.470528, y: 0.3792215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.48339, y: -151.5199}
+        - {x: -71.48339, y: -188.5199}
+        - {x: -73.48339, y: -188.5199}
+        - {x: -126.4834, y: -68.51991}
+        - {x: -135.4834, y: -47.51991}
+        - {x: -135.4834, y: 25.48009}
+        - {x: 2.516609, y: 112.4801}
+        - {x: 33.51661, y: 178.4801}
+        - {x: 57.51661, y: 188.4801}
+        - {x: 125.5166, y: 188.4801}
+        - {x: 129.5166, y: 187.4801}
+        - {x: 135.5166, y: 174.4801}
+        - {x: 135.5166, y: -2.519913}
+        - {x: -20.48339, y: -188.5199}
+        - {x: -51.48339, y: -188.5199}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998b31b125c89514093a057a10592f34
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_damage_01
+      rect:
+        serializedVersion: 2
+        x: 777.0363
+        y: 0.07611847
+        width: 230.9208
+        height: 278.8971
+      alignment: 9
+      pivot: {x: 0.5606412, y: 0.5626587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.49669, y: -6.524673}
+        - {x: -74.49669, y: -5.524673}
+        - {x: -76.49669, y: -4.524673}
+        - {x: -81.49669, y: -9.524675}
+        - {x: -106.4967, y: 11.47533}
+        - {x: -115.4967, y: 40.47533}
+        - {x: -115.4967, y: 61.47533}
+        - {x: -0.4966888, y: 139.4753}
+        - {x: 103.5033, y: 139.4753}
+        - {x: 115.5033, y: 112.4753}
+        - {x: 115.5033, y: 0.4753265}
+        - {x: -3.496689, y: -139.5247}
+        - {x: -42.49669, y: -139.5247}
+        - {x: -115.4967, y: -69.52467}
+        - {x: -115.4967, y: -56.52467}
+        - {x: -79.49669, y: -10.52467}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfd8fa10a31bd4ab1618ebcbceab01
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_damage_02
+      rect:
+        serializedVersion: 2
+        x: 273.0761
+        y: 229.0761
+        width: 228.8675
+        height: 252.8762
+      alignment: 9
+      pivot: {x: 0.5654969, y: 0.6205562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5099, y: -77.51421}
+        - {x: -114.5099, y: -61.51421}
+        - {x: -114.5099, y: -26.51421}
+        - {x: -87.50988, y: 52.48579}
+        - {x: 0.4901199, y: 126.4858}
+        - {x: 81.49012, y: 126.4858}
+        - {x: 114.4901, y: 78.48579}
+        - {x: 114.4901, y: 23.48579}
+        - {x: 108.4901, y: 1.485794}
+        - {x: 0.4901199, y: -122.5142}
+        - {x: -6.50988, y: -126.5142}
+        - {x: -31.50988, y: -126.5142}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c49ee565b702b34a9d6e695c3973d0c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_damage_03
+      rect:
+        serializedVersion: 2
+        x: 273.0268
+        y: 0.07611847
+        width: 223.908
+        height: 226.8478
+      alignment: 9
+      pivot: {x: 0.5648448, y: 0.6917586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.98074, y: -113.5}
+        - {x: -111.9807, y: -59.5}
+        - {x: -111.9807, y: 17.5}
+        - {x: -81.98074, y: 75.5}
+        - {x: 16.01926, y: 113.5}
+        - {x: 54.01926, y: 113.5}
+        - {x: 101.0193, y: 79.5}
+        - {x: 112.0193, y: 57.5}
+        - {x: 112.0193, y: 1.5}
+        - {x: 80.01926, y: -15.5}
+        - {x: 2.019264, y: -111.5}
+        - {x: -7.980736, y: -113.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3d2de5c7eb9314abc4626314aa450e
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_damage_04
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 379.0267
+        width: 259.8971
+        height: 325.9603
+      alignment: 9
+      pivot: {x: 0.4750851, y: 0.4600966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.97531, y: -124.0069}
+        - {x: -129.9753, y: -50.00691}
+        - {x: -129.9753, y: -3.006912}
+        - {x: -115.9753, y: 4.993088}
+        - {x: -111.9753, y: 4.993088}
+        - {x: -95.97531, y: 1.993089}
+        - {x: -89.97531, y: -2.006912}
+        - {x: -96.97531, y: 2.993088}
+        - {x: -99.97531, y: 2.993088}
+        - {x: -122.9753, y: 8.993088}
+        - {x: -38.97531, y: 103.9931}
+        - {x: 41.02469, y: 162.9931}
+        - {x: 83.02469, y: 162.9931}
+        - {x: 109.0247, y: 135.9931}
+        - {x: 130.0247, y: 87.99309}
+        - {x: 130.0247, y: 41.99309}
+        - {x: -8.975311, y: -163.0069}
+        - {x: -54.97531, y: -163.0069}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54adfc336416541bc2f3d8b7b41426
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Clown_damage_06
+      rect:
+        serializedVersion: 2
+        x: 504.0429
+        y: 0.07611847
+        width: 270.881
+        height: 376.8876
+      alignment: 9
+      pivot: {x: 0.470528, y: 0.3792215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.48339, y: -151.5199}
+        - {x: -71.48339, y: -188.5199}
+        - {x: -73.48339, y: -188.5199}
+        - {x: -126.4834, y: -68.51991}
+        - {x: -135.4834, y: -47.51991}
+        - {x: -135.4834, y: 25.48009}
+        - {x: 2.516609, y: 112.4801}
+        - {x: 33.51661, y: 178.4801}
+        - {x: 57.51661, y: 188.4801}
+        - {x: 125.5166, y: 188.4801}
+        - {x: 129.5166, y: 187.4801}
+        - {x: 135.5166, y: 174.4801}
+        - {x: 135.5166, y: -2.519913}
+        - {x: -20.48339, y: -188.5199}
+        - {x: -51.48339, y: -188.5199}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ffa2655b0eb6848883c46388e98a3b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_Clown_damage_01: 21300002
+      zombie_Clown_damage_02: 21300004
+      zombie_Clown_damage_03: 21300006
+      zombie_Clown_damage_04: 21300008
+      zombie_Clown_damage_05: 21300000
+      zombie_Clown_damage_06: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

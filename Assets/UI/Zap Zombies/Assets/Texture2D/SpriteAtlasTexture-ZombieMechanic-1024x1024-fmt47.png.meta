@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: f751655e67901ce4ab2d778fcb0879ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_mechanic_walk_04
+  - first:
+      213: 21300002
+    second: zombie_mechanic_damage_08
+  - first:
+      213: 21300004
+    second: zombie_mechanic_walk_09
+  - first:
+      213: 21300006
+    second: zombie_mechanic_damage_01
+  - first:
+      213: 21300008
+    second: zombie_mechanic_walk_06
+  - first:
+      213: 21300010
+    second: zombie_mechanic_walk_03
+  - first:
+      213: 21300012
+    second: zombie_mechanic_damage_05
+  - first:
+      213: 21300014
+    second: zombie_mechanic_damage_03
+  - first:
+      213: 21300016
+    second: zombie_mechanic_damage_06
+  - first:
+      213: 21300018
+    second: zombie_mechanic_damage_02
+  - first:
+      213: 21300020
+    second: zombie_mechanic_damage_04
+  - first:
+      213: 21300022
+    second: zombie_mechanic_damage_07
+  - first:
+      213: 21300024
+    second: zombie_mechanic_walk_01
+  - first:
+      213: 21300026
+    second: zombie_mechanic_walk_02
+  - first:
+      213: 21300028
+    second: zombie_mechanic_walk_05
+  - first:
+      213: 21300030
+    second: zombie_mechanic_walk_07
+  - first:
+      213: 21300032
+    second: zombie_mechanic_walk_08
+  - first:
+      213: 21300034
+    second: zombie_mechanic_walk_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_04
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 0
+        width: 145.8971
+        height: 195.9637
+      alignment: 9
+      pivot: {x: 0.4796068, y: 0.5842918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.97531, y: -78.98186}
+        - {x: -72.97531, y: -26.98186}
+        - {x: -72.97531, y: 33.01814}
+        - {x: -58.97531, y: 82.01814}
+        - {x: -27.97531, y: 95.01814}
+        - {x: -24.97531, y: 81.01814}
+        - {x: -23.97531, y: 68.01814}
+        - {x: -29.97531, y: 35.01814}
+        - {x: -20.97531, y: 65.01814}
+        - {x: 12.02469, y: 98.01814}
+        - {x: 73.02469, y: 98.01814}
+        - {x: 73.02469, y: -29.98186}
+        - {x: 56.02468, y: -97.98186}
+        - {x: 7.024689, y: -97.98186}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca412a6593255e14ab7d655c47e7cbf6
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_damage_08
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0.07612038
+        width: 145.9403
+        height: 214.8477
+      alignment: 9
+      pivot: {x: 0.4796483, y: 0.4906911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.97014, y: -90.49999}
+        - {x: -72.97014, y: -18.49999}
+        - {x: -72.97014, y: 46.50001}
+        - {x: -55.97013, y: 89.50001}
+        - {x: -34.97014, y: 102.5}
+        - {x: -21.97014, y: 91.50001}
+        - {x: -19.97014, y: 73.50001}
+        - {x: -27.97014, y: 59.50001}
+        - {x: -12.97014, y: 76.50001}
+        - {x: -18.97014, y: 82.50001}
+        - {x: -13.97014, y: 92.50001}
+        - {x: 6.029861, y: 107.5}
+        - {x: 26.02986, y: 107.5}
+        - {x: 60.02986, y: 96.50001}
+        - {x: 73.02986, y: 75.50001}
+        - {x: 73.02986, y: -32.49999}
+        - {x: 25.02986, y: -107.5}
+        - {x: -6.970139, y: -107.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bec134c9fc12444b27fd04e6e9c579
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_09
+      rect:
+        serializedVersion: 2
+        x: 296.0761
+        y: 0.02675056
+        width: 147.8971
+        height: 189.9465
+      alignment: 9
+      pivot: {x: 0.4322186, y: 0.5131616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.97532, y: -95}
+        - {x: -39.02468, y: -95}
+        - {x: -74.02468, y: -14}
+        - {x: -74.02468, y: 13}
+        - {x: -54.02468, y: 80}
+        - {x: -22.02468, y: 89}
+        - {x: -16.02468, y: 70}
+        - {x: -20.02468, y: 63}
+        - {x: -8.024681, y: 81}
+        - {x: 15.97532, y: 94}
+        - {x: 17.97532, y: 95}
+        - {x: 44.97532, y: 95}
+        - {x: 73.97532, y: 89}
+        - {x: 73.97532, y: -22}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe92cca323faca040a9394a5a587c441
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_damage_01
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 217.0267
+        width: 147.9219
+        height: 203.9434
+      alignment: 9
+      pivot: {x: 0.4595211, y: 0.5318792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.987717, y: -101.9984}
+        - {x: -73.98772, y: -23.99844}
+        - {x: -73.98772, y: 51.00156}
+        - {x: -44.98772, y: 102.0016}
+        - {x: -23.98772, y: 96.00156}
+        - {x: -19.98772, y: 86.00156}
+        - {x: -19.98772, y: 75.00156}
+        - {x: -22.98772, y: 67.00156}
+        - {x: -28.98772, y: 56.00156}
+        - {x: -23.98772, y: 64.00156}
+        - {x: -10.98772, y: 90.00156}
+        - {x: 12.01228, y: 102.0016}
+        - {x: 30.01228, y: 102.0016}
+        - {x: 74.01228, y: 76.00156}
+        - {x: 74.01228, y: -8.998436}
+        - {x: 41.01228, y: -101.9984}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d453999e19a6a214a82060e7c7e90727
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_06
+      rect:
+        serializedVersion: 2
+        x: 150.0198
+        y: 217.0761
+        width: 142.9041
+        height: 193.881
+      alignment: 9
+      pivot: {x: 0.4617098, y: 0.5592291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.47183, y: -96.01661}
+        - {x: -71.47183, y: -22.0166}
+        - {x: -71.47183, y: 35.9834}
+        - {x: -51.47183, y: 80.9834}
+        - {x: -27.47183, y: 88.9834}
+        - {x: -22.47183, y: 77.9834}
+        - {x: -21.47183, y: 66.9834}
+        - {x: -30.47183, y: 30.9834}
+        - {x: -21.47183, y: 63.98339}
+        - {x: 16.52817, y: 96.9834}
+        - {x: 35.52817, y: 96.9834}
+        - {x: 71.52817, y: 76.9834}
+        - {x: 71.52817, y: 23.9834}
+        - {x: 66.52817, y: -6.016602}
+        - {x: 54.52817, y: -28.0166}
+        - {x: 24.52817, y: -67.0166}
+        - {x: 23.52817, y: -92.0166}
+        - {x: 17.52817, y: -97.0166}
+        - {x: -8.471832, y: -97.0166}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896db3727c7e8454b8945b9aaa3baee8
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_03
+      rect:
+        serializedVersion: 2
+        x: 296.0268
+        y: 192
+        width: 146.8971
+        height: 198.9733
+      alignment: 9
+      pivot: {x: 0.4763419, y: 0.5754542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.47531, y: -99.48663}
+        - {x: -73.47531, y: -22.48663}
+        - {x: -73.47531, y: 33.51337}
+        - {x: -60.47531, y: 76.51337}
+        - {x: -43.47531, y: 91.51337}
+        - {x: -27.47531, y: 95.51337}
+        - {x: -21.47531, y: 65.51337}
+        - {x: -41.47531, y: 40.51337}
+        - {x: -29.47531, y: 45.51337}
+        - {x: -26.47531, y: 55.51337}
+        - {x: -10.47531, y: 79.51337}
+        - {x: 8.524689, y: 99.51337}
+        - {x: 69.52469, y: 99.51337}
+        - {x: 73.52469, y: 82.51337}
+        - {x: 73.52469, y: -51.48663}
+        - {x: 32.52469, y: -99.48663}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3c5b691dadbc841b5655eef00bac34
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_damage_05
+      rect:
+        serializedVersion: 2
+        x: 446.0143
+        y: 0.07612038
+        width: 159.9589
+        height: 202.8971
+      alignment: 9
+      pivot: {x: 0.5312968, y: 0.4456637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.9938, y: -101.5247}
+        - {x: -79.9938, y: -14.52468}
+        - {x: -79.9938, y: 94.47531}
+        - {x: -64.9938, y: 101.4753}
+        - {x: 60.0062, y: 101.4753}
+        - {x: 80.0062, y: 68.47532}
+        - {x: 80.0062, y: -35.52468}
+        - {x: 42.0062, y: -101.5247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358de1682d8aca4a82823536c4c2435
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_damage_03
+      rect:
+        serializedVersion: 2
+        x: 445.0761
+        y: 205.0483
+        width: 138.8477
+        height: 152.8756
+      alignment: 9
+      pivot: {x: 0.4747926, y: 0.7486592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.50001, y: -76.48608}
+        - {x: -69.49999, y: -76.48608}
+        - {x: -69.49999, y: 0.5139236}
+        - {x: -25.49999, y: 76.51392}
+        - {x: 69.50001, y: 76.51392}
+        - {x: 69.50001, y: -53.48608}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143c3a289c60fe34883c25859950d001
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_damage_06
+      rect:
+        serializedVersion: 2
+        x: 608.0429
+        y: 0.07612038
+        width: 158.9303
+        height: 207.8876
+      alignment: 9
+      pivot: {x: 0.5093873, y: 0.4493961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.50808, y: -104.0199}
+        - {x: -79.50808, y: -43.01991}
+        - {x: -79.50808, y: 99.98009}
+        - {x: -70.50808, y: 103.9801}
+        - {x: 43.49192, y: 103.9801}
+        - {x: 79.49192, y: 93.98008}
+        - {x: 79.49192, y: -7.019913}
+        - {x: 36.49192, y: -104.0199}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffcfc9dcc16fe340b28542125687ed6
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_damage_02
+      rect:
+        serializedVersion: 2
+        x: 735.0267
+        y: 210.0267
+        width: 149.9733
+        height: 180.9135
+      alignment: 9
+      pivot: {x: 0.4799072, y: 0.6161687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.01337, y: -51.48351}
+        - {x: -75.01337, y: -48.48351}
+        - {x: -75.01337, y: 30.51649}
+        - {x: -6.013374, y: 90.51649}
+        - {x: 63.98663, y: 90.51649}
+        - {x: 74.98663, y: 73.51648}
+        - {x: 74.98663, y: 20.51649}
+        - {x: 27.98663, y: -90.48351}
+        - {x: 2.986626, y: -90.48351}
+        - {x: -54.01337, y: -38.48352}
+        - {x: -56.01337, y: -43.48351}
+        - {x: -60.01337, y: -49.48351}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73482cf08a26249a7e02b87532269d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_damage_04
+      rect:
+        serializedVersion: 2
+        x: 313.0268
+        y: 587.0761
+        width: 148.9465
+        height: 187.8971
+      alignment: 9
+      pivot: {x: 0.4966431, y: 0.5397841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: -94.02467}
+        - {x: -74.5, y: -82.02467}
+        - {x: -74.5, y: 32.97533}
+        - {x: -68.5, y: 51.97533}
+        - {x: -9.5, y: 93.97533}
+        - {x: 50.5, y: 93.97533}
+        - {x: 74.5, y: 59.97532}
+        - {x: 74.5, y: -32.02467}
+        - {x: 55.5, y: -94.02467}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e59831d0b17740b957ba4fc51c9b6
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_damage_07
+      rect:
+        serializedVersion: 2
+        x: 150.0761
+        y: 413.0268
+        width: 160.8971
+        height: 213.9733
+      alignment: 9
+      pivot: {x: 0.4780936, y: 0.4648864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.52468, y: -107.0134}
+        - {x: -80.52468, y: -67.01338}
+        - {x: -80.52468, y: 72.98663}
+        - {x: -71.52468, y: 82.98663}
+        - {x: -58.52468, y: 96.98662}
+        - {x: -41.52468, y: 97.98662}
+        - {x: -31.52468, y: 68.98663}
+        - {x: -34.52468, y: 40.98663}
+        - {x: -30.52468, y: 57.98663}
+        - {x: -30.52468, y: 62.98663}
+        - {x: -26.52468, y: 85.98663}
+        - {x: -17.52468, y: 106.9866}
+        - {x: 80.47532, y: 106.9866}
+        - {x: 80.47532, y: -20.01337}
+        - {x: 65.47532, y: -107.0134}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d3975dc6980af43a792f91eac63d65
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_01
+      rect:
+        serializedVersion: 2
+        x: 464.0268
+        y: 415.0268
+        width: 147.9219
+        height: 203.9434
+      alignment: 9
+      pivot: {x: 0.4595211, y: 0.5318792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.987717, y: -101.9984}
+        - {x: -73.98772, y: -23.99844}
+        - {x: -73.98772, y: 51.00156}
+        - {x: -44.98772, y: 102.0016}
+        - {x: -23.98772, y: 96.00156}
+        - {x: -19.98772, y: 86.00156}
+        - {x: -19.98772, y: 75.00156}
+        - {x: -22.98772, y: 67.00156}
+        - {x: -28.98772, y: 56.00156}
+        - {x: -23.98772, y: 64.00156}
+        - {x: -10.98772, y: 90.00156}
+        - {x: 12.01228, y: 102.0016}
+        - {x: 30.01228, y: 102.0016}
+        - {x: 74.01228, y: 76.00156}
+        - {x: 74.01228, y: -8.998436}
+        - {x: 41.01228, y: -101.9984}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4a42dc207cd1544998913a0769c821
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_02
+      rect:
+        serializedVersion: 2
+        x: 586.0267
+        y: 210.0111
+        width: 146.937
+        height: 202.9128
+      alignment: 9
+      pivot: {x: 0.4694071, y: 0.5543707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.49523, y: -6.467491}
+        - {x: -73.49523, y: 0.5325089}
+        - {x: -73.49523, y: 8.532509}
+        - {x: -69.49523, y: 33.53251}
+        - {x: -54.49523, y: 75.53251}
+        - {x: -52.49523, y: 79.53251}
+        - {x: -48.49523, y: 85.53251}
+        - {x: -40.49523, y: 92.53251}
+        - {x: -28.49523, y: 93.53251}
+        - {x: -22.49523, y: 87.53251}
+        - {x: -21.49523, y: 76.53251}
+        - {x: -25.49523, y: 63.53251}
+        - {x: -35.49523, y: 52.53251}
+        - {x: -27.49523, y: 47.53251}
+        - {x: -27.49523, y: 51.53251}
+        - {x: -25.49523, y: 60.53251}
+        - {x: -15.49523, y: 80.53251}
+        - {x: 2.504768, y: 101.5325}
+        - {x: 45.50477, y: 101.5325}
+        - {x: 73.50477, y: 92.53251}
+        - {x: 73.50477, y: -5.467491}
+        - {x: 41.50477, y: -101.4675}
+        - {x: 6.504768, y: -101.4675}
+        - {x: -28.49523, y: -70.46749}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ece10ebd89da648a71a42e71a508cb
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_05
+      rect:
+        serializedVersion: 2
+        x: 0.05412674
+        y: 616.0267
+        width: 143.8698
+        height: 193.9465
+      alignment: 9
+      pivot: {x: 0.4722735, y: 0.5799189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.989, y: -77.00001}
+        - {x: -71.989, y: -23.00001}
+        - {x: -71.989, y: 65.99999}
+        - {x: -44.989, y: 96.99999}
+        - {x: 72.011, y: 96.99999}
+        - {x: 72.011, y: -15.00001}
+        - {x: 49.011, y: -97.00001}
+        - {x: 9.011002, y: -97.00001}
+        - {x: 0.01100159, y: -85.00001}
+        - {x: -4.988998, y: -70.00001}
+        - {x: -10.989, y: -76.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ddc418850405947bbdd5faf43b3737
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_07
+      rect:
+        serializedVersion: 2
+        x: 313.0268
+        y: 393.0761
+        width: 143.8971
+        height: 191.8698
+      alignment: 9
+      pivot: {x: 0.4445763, y: 0.5390317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.97531, y: -18.01099}
+        - {x: -71.97531, y: -10.01099}
+        - {x: -71.97531, y: 43.98901}
+        - {x: -38.97531, y: 95.98901}
+        - {x: -22.97531, y: 95.98901}
+        - {x: -12.97531, y: 75.98901}
+        - {x: -31.97531, y: 44.98901}
+        - {x: -27.97531, y: 34.98901}
+        - {x: -24.97531, y: 47.98901}
+        - {x: -18.97531, y: 61.98901}
+        - {x: -10.97531, y: 71.98901}
+        - {x: 13.02469, y: 95.98901}
+        - {x: 44.02469, y: 95.98901}
+        - {x: 72.02469, y: 87.98901}
+        - {x: 72.02469, y: 6.989014}
+        - {x: 36.02469, y: -96.01099}
+        - {x: -10.97531, y: -96.01099}
+        - {x: -25.97531, y: -87.01099}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eee102093ec7c44a58afe32cad9726
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_08
+      rect:
+        serializedVersion: 2
+        x: 0.006668091
+        y: 423.0363
+        width: 146.9172
+        height: 190.937
+      alignment: 9
+      pivot: {x: 0.4355741, y: 0.5209243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.53473, y: -95.50477}
+        - {x: -31.46527, y: -95.50477}
+        - {x: -73.46527, y: -30.50477}
+        - {x: -73.46527, y: 28.49523}
+        - {x: -43.46527, y: 90.49523}
+        - {x: -25.46527, y: 84.49523}
+        - {x: -19.46527, y: 75.49523}
+        - {x: -21.46527, y: 60.49523}
+        - {x: -11.46527, y: 78.49523}
+        - {x: 10.53473, y: 95.49523}
+        - {x: 59.53473, y: 95.49523}
+        - {x: 73.53473, y: 72.49523}
+        - {x: 73.53473, y: 13.49523}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa20eea112d1854fb4da6ef82ff618b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_mechanic_walk_10
+      rect:
+        serializedVersion: 2
+        x: 769.0429
+        y: 0.07612038
+        width: 149.9303
+        height: 195.8971
+      alignment: 9
+      pivot: {x: 0.4399182, y: 0.5228453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.00808, y: -98.02468}
+        - {x: -75.00808, y: -7.024681}
+        - {x: -75.00808, y: 15.97532}
+        - {x: -55.00808, y: 85.97532}
+        - {x: -19.00808, y: 93.97532}
+        - {x: -20.00808, y: 67.97532}
+        - {x: -22.00808, y: 59.97532}
+        - {x: -24.00808, y: 53.97532}
+        - {x: -17.00808, y: 68.97532}
+        - {x: -3.00808, y: 85.97532}
+        - {x: 11.99192, y: 95.97532}
+        - {x: 16.99192, y: 97.97532}
+        - {x: 33.99192, y: 97.97532}
+        - {x: 74.99192, y: 65.97532}
+        - {x: 74.99192, y: 51.97532}
+        - {x: 66.99192, y: 17.97532}
+        - {x: 57.99192, y: -16.02468}
+        - {x: 16.99192, y: -74.02468}
+        - {x: 18.99192, y: -80.02468}
+        - {x: 0.9919205, y: -98.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe4da6db792cf4698a770aeaaafc7b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_mechanic_damage_01: 21300006
+      zombie_mechanic_damage_02: 21300018
+      zombie_mechanic_damage_03: 21300014
+      zombie_mechanic_damage_04: 21300020
+      zombie_mechanic_damage_05: 21300012
+      zombie_mechanic_damage_06: 21300016
+      zombie_mechanic_damage_07: 21300022
+      zombie_mechanic_damage_08: 21300002
+      zombie_mechanic_walk_01: 21300024
+      zombie_mechanic_walk_02: 21300026
+      zombie_mechanic_walk_03: 21300010
+      zombie_mechanic_walk_04: 21300000
+      zombie_mechanic_walk_05: 21300028
+      zombie_mechanic_walk_06: 21300008
+      zombie_mechanic_walk_07: 21300030
+      zombie_mechanic_walk_08: 21300032
+      zombie_mechanic_walk_09: 21300004
+      zombie_mechanic_walk_10: 21300034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 8b1cef41ac8dfdd45ace74dc7db6a136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Card_gauge_01
+  - first:
+      213: 21300002
+    second: button_Reward_01
+  - first:
+      213: 21300004
+    second: bg_Card_Trophy_01
+  - first:
+      213: 21300006
+    second: Card_star_01
+  - first:
+      213: 21300008
+    second: Card_gauge_02
+  - first:
+      213: 21300010
+    second: bg_Trophy_02
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Card_gauge_01
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 183.0761
+        width: 294.911
+        height: 34.84776
+      alignment: 9
+      pivot: {x: 0.4998928, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147.4684, y: -17.5}
+        - {x: -147.5316, y: -17.5}
+        - {x: -147.5316, y: 15.5}
+        - {x: -145.5316, y: 17.5}
+        - {x: 147.4684, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2211b1606c8e9f4429def004a6006b24
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_Reward_01
+      rect:
+        serializedVersion: 2
+        x: 585.0761
+        y: 0
+        width: 315.8478
+        height: 138.9239
+      alignment: 9
+      pivot: {x: 0.501583, y: 0.5038731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -157, y: -69.46194}
+        - {x: -158, y: -68.46194}
+        - {x: -158, y: 59.53805}
+        - {x: -157, y: 63.53806}
+        - {x: -156, y: 66.53806}
+        - {x: -152, y: 69.53806}
+        - {x: 154, y: 69.53806}
+        - {x: 158, y: 65.53806}
+        - {x: 158, y: -67.46194}
+        - {x: 156, y: -69.46194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2c506a1ec8f204795b97b638f53c8c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_Card_Trophy_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 583
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 291.5, y: -65}
+        - {x: -291.5, y: -65}
+        - {x: -291.5, y: 65}
+        - {x: 291.5, y: 65}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a68876156cada44dbed57a2b2a63d7d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_star_01
+      rect:
+        serializedVersion: 2
+        x: 630.0761
+        y: 141.032
+        width: 40.84776
+        height: 37.89191
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.4873872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -18.97792}
+        - {x: -20.5, y: -18.97792}
+        - {x: -20.5, y: 13.02208}
+        - {x: -6.499998, y: 19.02208}
+        - {x: 3.500002, y: 19.02208}
+        - {x: 20.5, y: 11.02208}
+        - {x: 20.5, y: -1.977924}
+        - {x: 16.5, y: -11.97792}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842e0ae37196eb2489de301db390246a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_gauge_02
+      rect:
+        serializedVersion: 2
+        x: 297.0761
+        y: 183.0761
+        width: 288.8478
+        height: 28.84776
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144.5, y: -14.5}
+        - {x: -144.5, y: -14.5}
+        - {x: -144.5, y: 14.5}
+        - {x: 144.5, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3323c47922d08ff48832c1d55736b85a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_Trophy_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 628
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -213, y: -20}
+        - {x: -314, y: -20}
+        - {x: -314, y: 20}
+        - {x: 314, y: 20}
+        - {x: 314, y: -20}
+        - {x: -205, y: -20}
+        - {x: -208, y: -19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd32238572a61b848816d50c6c8c522e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Card_gauge_01: 21300000
+      Card_gauge_02: 21300008
+      Card_star_01: 21300006
+      bg_Card_Trophy_01: 21300004
+      bg_Trophy_02: 21300010
+      button_Reward_01: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

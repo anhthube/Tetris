@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 1ac023bc47dd89c40a635737d4cd5f87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Effect_LevelUp_Markmanship
+  - first:
+      213: 21300002
+    second: Effect_LevelUp_Enzymes
+  - first:
+      213: 21300004
+    second: button_levelup_lab_01
+  - first:
+      213: 21300006
+    second: button_levelup_lab_02
+  - first:
+      213: 21300008
+    second: Effect_LevelUp_Zombies
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_LevelUp_Markmanship
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 286.9085
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5942661, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137.5457, y: -74}
+        - {x: -143.4543, y: -74}
+        - {x: -143.4543, y: 65}
+        - {x: -133.4543, y: 74}
+        - {x: 106.5457, y: 74}
+        - {x: 116.5457, y: 63}
+        - {x: 131.5457, y: 40}
+        - {x: 130.5457, y: 27}
+        - {x: 142.5457, y: 7}
+        - {x: 143.5457, y: 0}
+        - {x: 143.5457, y: -58}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7986aec38cb6b44ba0a44d9f40997a1
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LevelUp_Enzymes
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 282.9871
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5335932, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141.5065, y: -31}
+        - {x: 137.5065, y: -46}
+        - {x: 136.5065, y: -68}
+        - {x: 133.5065, y: -74}
+        - {x: -141.4935, y: -74}
+        - {x: -141.4935, y: 74}
+        - {x: 118.5065, y: 74}
+        - {x: 126.5064, y: 58}
+        - {x: 127.5064, y: 44}
+        - {x: 137.5065, y: 28}
+        - {x: 136.5065, y: 16}
+        - {x: 141.5065, y: 6}
+        - {x: 141.5065, y: 0}
+        - {x: 140.5065, y: -5}
+        - {x: 141.5065, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a91b35ea9b5614688d7032061fff11
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_levelup_lab_01
+      rect:
+        serializedVersion: 2
+        x: 289.0761
+        y: 0.0761205
+        width: 167.8477
+        height: 102.8478
+      alignment: 9
+      pivot: {x: 0.5029789, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.00001, y: -51.5}
+        - {x: -83.99999, y: -51.5}
+        - {x: -83.99999, y: 51.5}
+        - {x: 84.00001, y: 51.5}
+        - {x: 84.00001, y: -49.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5644f4640e5ac7040ac73821f2f4e3ee
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_levelup_lab_02
+      rect:
+        serializedVersion: 2
+        x: 252.0761
+        y: 300.0761
+        width: 167.8477
+        height: 102.8478
+      alignment: 9
+      pivot: {x: 0.5029789, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.00001, y: -51.5}
+        - {x: -83.99999, y: -51.5}
+        - {x: -83.99999, y: 51.5}
+        - {x: 84.00001, y: 51.5}
+        - {x: 84.00001, y: -49.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84a9513cf313f549aee3f7ae2bc2883
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LevelUp_Zombies
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 249.9239
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5721743, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115.0381, y: -74}
+        - {x: -124.9619, y: -74}
+        - {x: -124.9619, y: 74}
+        - {x: 101.0381, y: 74}
+        - {x: 111.0381, y: 42}
+        - {x: 121.0381, y: 19}
+        - {x: 122.0381, y: 4}
+        - {x: 125.0381, y: -8}
+        - {x: 125.0381, y: -69}
+        - {x: 120.0381, y: -71}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3eb4d76c2f0f44c92d770c4cfcd6cc
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_LevelUp_Enzymes: 21300002
+      Effect_LevelUp_Markmanship: 21300000
+      Effect_LevelUp_Zombies: 21300008
+      button_levelup_lab_01: 21300004
+      button_levelup_lab_02: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

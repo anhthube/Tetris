@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: cc735d7957dbbdd4aa497dba6ffd2850
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GasStation_barricade_L01
+  - first:
+      213: 21300002
+    second: GasStation_barricade_L02
+  - first:
+      213: 21300004
+    second: GasStation_barricade_L03
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GasStation_barricade_L01
+      rect:
+        serializedVersion: 2
+        x: 0.02674866
+        y: 0.02675104
+        width: 388.9465
+        height: 148.8971
+      alignment: 9
+      pivot: {x: 0.58613, y: 0.4867337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 134.5, y: 52.52469}
+        - {x: 133.5, y: 54.52469}
+        - {x: 133.5, y: 71.52469}
+        - {x: 140.5, y: 74.52469}
+        - {x: 157.5, y: 74.52469}
+        - {x: 167.5, y: 68.52469}
+        - {x: 189.5, y: 45.52469}
+        - {x: 194.5, y: 37.52469}
+        - {x: 194.5, y: 23.52469}
+        - {x: 187.5, y: 16.52469}
+        - {x: 167.5, y: 16.52469}
+        - {x: 148.5, y: 26.52469}
+      - - {x: 55.49997, y: -68.47531}
+        - {x: 33.49997, y: -33.47531}
+        - {x: 33.49997, y: 10.52469}
+        - {x: 45.49997, y: 33.52469}
+        - {x: 55.49997, y: 37.52469}
+        - {x: 89.49997, y: 37.52469}
+        - {x: 143.5, y: 13.52469}
+        - {x: 148.5, y: -3.475311}
+        - {x: 148.5, y: -68.47531}
+      - - {x: 164.5, y: -73.47531}
+        - {x: 150.5, y: -65.47531}
+        - {x: 150.5, y: -35.47531}
+        - {x: 164.5, y: -27.47531}
+        - {x: 180.5, y: -27.47531}
+        - {x: 190.5, y: -40.47531}
+        - {x: 192.5, y: -54.47531}
+        - {x: 192.5, y: -73.47531}
+      - - {x: -190.5, y: -6.475311}
+        - {x: -194.5, y: 2.524689}
+        - {x: -194.5, y: 26.52469}
+        - {x: -176.5, y: 58.52469}
+        - {x: -170.5, y: 58.52469}
+        - {x: -163.5, y: 56.52468}
+        - {x: -134.5, y: 35.52469}
+        - {x: -116.5, y: 29.52469}
+        - {x: -114.5, y: 34.52469}
+        - {x: -109.5, y: 45.52469}
+        - {x: -89.50003, y: 58.52469}
+        - {x: -70.50003, y: 58.52469}
+        - {x: -23.50003, y: 11.52469}
+        - {x: -23.50003, y: -27.47531}
+        - {x: -52.50003, y: -74.47531}
+        - {x: -91.50003, y: -74.47531}
+        - {x: -148.5, y: -40.47531}
+        - {x: -185.5, y: -16.47531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cec6ca44de21944b33485af68d4233
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasStation_barricade_L02
+      rect:
+        serializedVersion: 2
+        x: 0.02674866
+        y: 151
+        width: 443.9219
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5405753, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -214.9877, y: -54.5}
+        - {x: -221.9877, y: -49.5}
+        - {x: -221.9877, y: 8.5}
+        - {x: -207.9877, y: 25.5}
+        - {x: -149.9877, y: 25.5}
+        - {x: -144.9877, y: 20.5}
+        - {x: -144.9877, y: -30.5}
+        - {x: -175.9877, y: -55.5}
+        - {x: -210.9877, y: -55.5}
+      - - {x: -65.98772, y: -48.5}
+        - {x: -70.98772, y: -38.5}
+        - {x: -70.98772, y: -3.5}
+        - {x: -33.98772, y: 31.5}
+        - {x: 44.01228, y: 76.5}
+        - {x: 106.0123, y: 76.5}
+        - {x: 193.0123, y: 67.5}
+        - {x: 222.0123, y: 55.5}
+        - {x: 222.0123, y: -63.5}
+        - {x: 0.01228333, y: -72.5}
+        - {x: -18.98772, y: -76.5}
+        - {x: -41.98772, y: -76.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb011902342ed749b23a219fdba40e9
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasStation_barricade_L03
+      rect:
+        serializedVersion: 2
+        x: 0.02674866
+        y: 306.0007
+        width: 423.9304
+        height: 127.9231
+      alignment: 9
+      pivot: {x: 0.4669948, y: 0.4338485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 180.0081, y: -55.96231}
+        - {x: 152.0081, y: -21.96231}
+        - {x: 152.0081, y: 22.03769}
+        - {x: 162.0081, y: 25.03769}
+        - {x: 187.0081, y: 25.03769}
+        - {x: 205.0081, y: 12.03769}
+        - {x: 212.0081, y: -19.96231}
+        - {x: 212.0081, y: -51.96231}
+        - {x: 203.0081, y: -55.96231}
+      - - {x: -6.991928, y: -63.96231}
+        - {x: -211.9919, y: -63.96231}
+        - {x: -211.9919, y: 11.03769}
+        - {x: -178.9919, y: 64.03769}
+        - {x: -13.99193, y: 64.03769}
+        - {x: 1.008073, y: 63.03769}
+        - {x: 49.00807, y: 46.03769}
+        - {x: 49.00807, y: -6.962307}
+        - {x: 36.00807, y: -57.96231}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71795b533e45bc43a6197a0e0c34201
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GasStation_barricade_L01: 21300000
+      GasStation_barricade_L02: 21300002
+      GasStation_barricade_L03: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

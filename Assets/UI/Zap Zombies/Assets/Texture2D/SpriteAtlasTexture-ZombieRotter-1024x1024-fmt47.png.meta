@@ -1,0 +1,909 @@
+fileFormatVersion: 2
+guid: 6c18f57a5ff97c048bcbe555504918d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: anim_zombie_001_walk_14
+  - first:
+      213: 21300002
+    second: anim_zombie_001_walk_07
+  - first:
+      213: 21300004
+    second: anim_zombie_001_walk_05
+  - first:
+      213: 21300006
+    second: anim_zombie_001_walk_06
+  - first:
+      213: 21300008
+    second: anim_zombie_001_walk_04
+  - first:
+      213: 21300010
+    second: anim_zombie_001_walk_02
+  - first:
+      213: 21300012
+    second: anim_zombie_001_walk_11
+  - first:
+      213: 21300014
+    second: anim_zombie_001_walk_15
+  - first:
+      213: 21300016
+    second: anim_zombie_001_walk_08
+  - first:
+      213: 21300018
+    second: anim_zombie_001_walk_16
+  - first:
+      213: 21300020
+    second: anim_zombie_001_damage_01
+  - first:
+      213: 21300022
+    second: anim_zombie_001_walk_01
+  - first:
+      213: 21300024
+    second: anim_zombie_001_walk_03
+  - first:
+      213: 21300026
+    second: anim_zombie_001_walk_09
+  - first:
+      213: 21300028
+    second: anim_zombie_001_walk_10
+  - first:
+      213: 21300030
+    second: anim_zombie_001_walk_12
+  - first:
+      213: 21300032
+    second: anim_zombie_001_walk_13
+  - first:
+      213: 21300034
+    second: anim_zombie_001_damage_05
+  - first:
+      213: 21300036
+    second: anim_zombie_001_damage_03
+  - first:
+      213: 21300038
+    second: anim_zombie_001_damage_04
+  - first:
+      213: 21300040
+    second: anim_zombie_001_damage_02
+  - first:
+      213: 21300042
+    second: anim_zombie_001_damage_06
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_14
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 0.06389713
+        width: 162.8477
+        height: 182.86
+      alignment: 9
+      pivot: {x: 0.4078894, y: 0.6121411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: -89.49387}
+        - {x: -81.5, y: -51.49387}
+        - {x: -81.5, y: 54.50613}
+        - {x: -40.5, y: 91.50613}
+        - {x: 1.5, y: 91.50613}
+        - {x: 12.5, y: 84.50613}
+        - {x: 81.5, y: 26.50613}
+        - {x: 81.5, y: -16.49387}
+        - {x: 35.5, y: -91.49387}
+        - {x: -66.5, y: -91.49387}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d4c6b257c51eb4d8e47651ea1db569
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_07
+      rect:
+        serializedVersion: 2
+        x: 165.0761
+        y: 0.06389809
+        width: 161.8477
+        height: 175.86
+      alignment: 9
+      pivot: {x: 0.4907321, y: 0.5967026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.99999, y: -80.99388}
+        - {x: -80.99999, y: -6.993881}
+        - {x: -80.99999, y: 71.00612}
+        - {x: -61.99999, y: 88.00612}
+        - {x: 9.000008, y: 88.00612}
+        - {x: 81.00001, y: 21.00612}
+        - {x: 81.00001, y: -10.99388}
+        - {x: 72.00001, y: -18.99388}
+        - {x: 46.00001, y: -16.99388}
+        - {x: 34.00001, y: 24.00612}
+        - {x: 26.00001, y: 3.006119}
+        - {x: 30.00001, y: -34.99388}
+        - {x: 34.00001, y: -45.99388}
+        - {x: 39.00001, y: -73.99388}
+        - {x: 33.00001, y: -87.99387}
+        - {x: 29.00001, y: -87.99387}
+        - {x: 8.000008, y: -73.99388}
+        - {x: -5.999992, y: -63.99388}
+        - {x: -22.99999, y: -87.99387}
+        - {x: -30.99999, y: -87.99387}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842df3be1b03c1b4b9cd1ff9b200a1bc
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_05
+      rect:
+        serializedVersion: 2
+        x: 329.0268
+        y: 0.07612038
+        width: 154.9465
+        height: 179.8876
+      alignment: 9
+      pivot: {x: 0.4548231, y: 0.6055108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: -90.01991}
+        - {x: -77.5, y: -90.01991}
+        - {x: -77.5, y: 89.98009}
+        - {x: 26.5, y: 89.98009}
+        - {x: 70.5, y: 69.98009}
+        - {x: 77.5, y: 61.98009}
+        - {x: 77.5, y: -76.01991}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823f2d470a0fc534cbf5ae400defa81e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_06
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 185.0761
+        width: 158.8971
+        height: 178.8477
+      alignment: 9
+      pivot: {x: 0.4749818, y: 0.60344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.47531, y: -42.49999}
+        - {x: -79.47531, y: -12.49999}
+        - {x: -79.47531, y: 61.50001}
+        - {x: -48.47531, y: 89.50001}
+        - {x: 7.524689, y: 89.50001}
+        - {x: 11.52469, y: 86.50001}
+        - {x: 79.52469, y: 24.50001}
+        - {x: 79.52469, y: -22.49999}
+        - {x: 33.52469, y: -89.5}
+        - {x: -38.47531, y: -89.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9c599b1439244ba2b854e8b9e6b16
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_04
+      rect:
+        serializedVersion: 2
+        x: 165.0267
+        y: 178.0761
+        width: 150.8971
+        height: 181.8971
+      alignment: 9
+      pivot: {x: 0.4272663, y: 0.6098166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.47531, y: -91.02469}
+        - {x: -75.47531, y: -35.02469}
+        - {x: -75.47531, y: 90.97531}
+        - {x: 39.52469, y: 90.97531}
+        - {x: 75.52469, y: 36.97531}
+        - {x: 75.52469, y: -49.02469}
+        - {x: 51.52469, y: -91.02469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e3fb8b5fab1f943afd2f70b448c483
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_02
+      rect:
+        serializedVersion: 2
+        x: 318.0429
+        y: 182.0761
+        width: 146.881
+        height: 185.8971
+      alignment: 9
+      pivot: {x: 0.3843731, y: 0.612833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.48339, y: -86.02468}
+        - {x: -73.48339, y: -32.02467}
+        - {x: -73.48339, y: 73.97533}
+        - {x: -40.48339, y: 92.97533}
+        - {x: 10.51661, y: 92.97533}
+        - {x: 73.51661, y: 10.97533}
+        - {x: 73.51661, y: -24.02467}
+        - {x: 63.51661, y: -31.02467}
+        - {x: 25.51661, y: -48.02467}
+        - {x: 21.51661, y: -71.02467}
+        - {x: 3.516609, y: -88.02467}
+        - {x: -29.48339, y: -85.02467}
+        - {x: -40.48339, y: -93.02467}
+        - {x: -49.48339, y: -93.02467}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0abd6d732620bc43943fb0460b6e07c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_11
+      rect:
+        serializedVersion: 2
+        x: 486.0268
+        y: 0.07612038
+        width: 164.8549
+        height: 178.8477
+      alignment: 9
+      pivot: {x: 0.4578162, y: 0.60344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.4542, y: -87.49998}
+        - {x: -82.45421, y: 6.500008}
+        - {x: -82.45421, y: 89.50001}
+        - {x: 33.54579, y: 89.50001}
+        - {x: 74.54579, y: 77.5}
+        - {x: 82.54579, y: 41.50001}
+        - {x: 82.54579, y: -9.499992}
+        - {x: 34.54579, y: -83.49999}
+        - {x: 26.54579, y: -88.5}
+        - {x: 23.54579, y: -89.5}
+        - {x: 17.54579, y: -89.5}
+        - {x: -12.45421, y: -62.49999}
+        - {x: -31.45421, y: -79.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70ffb01e63ffd74c8675ec4c0361229
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_15
+      rect:
+        serializedVersion: 2
+        x: 653.0761
+        y: 0.07612038
+        width: 160.8618
+        height: 183.8477
+      alignment: 9
+      pivot: {x: 0.3942757, y: 0.614225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.507, y: -92}
+        - {x: -80.507, y: -82}
+        - {x: -80.507, y: 49}
+        - {x: -46.507, y: 92}
+        - {x: -4.507004, y: 92}
+        - {x: 80.493, y: 23}
+        - {x: 80.493, y: 1}
+        - {x: 40.493, y: -92}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8228489e91b745bb7c201a08936a5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_08
+      rect:
+        serializedVersion: 2
+        x: 467.0429
+        y: 182.0639
+        width: 163.881
+        height: 173.8764
+      alignment: 9
+      pivot: {x: 0.4909484, y: 0.5920074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.98339, y: -87.00209}
+        - {x: -81.98339, y: -11.00209}
+        - {x: -81.98339, y: 80.99791}
+        - {x: -68.98339, y: 86.99791}
+        - {x: 6.01661, y: 86.99791}
+        - {x: 82.01661, y: 18.99791}
+        - {x: 82.01661, y: -20.00209}
+        - {x: 43.01661, y: -76.00209}
+        - {x: 34.01661, y: -87.00209}
+        - {x: 25.01661, y: -87.00209}
+        - {x: -7.983391, y: -65.00209}
+        - {x: -22.98339, y: -87.00209}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b8bb758ce9bcb4ea9826e4450f44d1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_16
+      rect:
+        serializedVersion: 2
+        x: 633.0429
+        y: 186.0761
+        width: 152.881
+        height: 182.8477
+      alignment: 9
+      pivot: {x: 0.3562058, y: 0.6121152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.48339, y: -88.49998}
+        - {x: -76.4834, y: -67.49998}
+        - {x: -76.4834, y: 89.50002}
+        - {x: -62.48339, y: 91.50002}
+        - {x: 7.516603, y: 91.50002}
+        - {x: 65.5166, y: 25.50002}
+        - {x: 76.5166, y: 10.50002}
+        - {x: 76.5166, y: -47.49998}
+        - {x: 43.51661, y: -91.49998}
+        - {x: -40.48339, y: -91.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f70165c2825ddb4789984fbf5fd7cb5
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_damage_01
+      rect:
+        serializedVersion: 2
+        x: 788.0761
+        y: 186.0761
+        width: 144.8675
+        height: 185.8477
+      alignment: 9
+      pivot: {x: 0.3756804, y: 0.6129957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.49012, y: -92.99999}
+        - {x: -72.50987, y: -92.99999}
+        - {x: -72.50987, y: 93.00001}
+        - {x: 2.490124, y: 93.00001}
+        - {x: 72.49013, y: 23.00001}
+        - {x: 72.49013, y: -62.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f666e65e0b6ad04c96c8b5dcc418bf0
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_01
+      rect:
+        serializedVersion: 2
+        x: 338.0761
+        y: 370.0761
+        width: 144.8675
+        height: 185.8477
+      alignment: 9
+      pivot: {x: 0.3756804, y: 0.6129957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.49012, y: -92.99999}
+        - {x: -72.50987, y: -92.99999}
+        - {x: -72.50987, y: 93.00001}
+        - {x: 2.490124, y: 93.00001}
+        - {x: 72.49013, y: 23.00001}
+        - {x: 72.49013, y: -62.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43fd1cb6231a1c4da2ca4d681e278dd
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_03
+      rect:
+        serializedVersion: 2
+        x: 713.0267
+        y: 374.0761
+        width: 147.8971
+        height: 183.8477
+      alignment: 9
+      pivot: {x: 0.4021258, y: 0.614225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.97531, y: -92}
+        - {x: -73.97532, y: -60}
+        - {x: -73.97532, y: 72}
+        - {x: -42.97532, y: 92}
+        - {x: 13.02468, y: 92}
+        - {x: 74.02469, y: 22}
+        - {x: 74.02469, y: -61}
+        - {x: 39.02469, y: -92}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017b9fcac3f7492408b633f0089dc59c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_09
+      rect:
+        serializedVersion: 2
+        x: 167.0267
+        y: 370.0761
+        width: 164.8971
+        height: 174.8477
+      alignment: 9
+      pivot: {x: 0.488021, y: 0.5943679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.47531, y: -82.49999}
+        - {x: -82.47531, y: 1.500007}
+        - {x: -82.47531, y: 87.50001}
+        - {x: 47.52469, y: 87.50001}
+        - {x: 82.52469, y: 36.50001}
+        - {x: 82.52469, y: -77.49999}
+        - {x: 47.52469, y: -87.49999}
+        - {x: 23.52469, y: -87.49999}
+        - {x: 9.524689, y: -78.49999}
+        - {x: -7.475311, y: -62.49999}
+        - {x: -26.47531, y: -85.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8f9c800f90fff44a61b1da5e5c9e37
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_10
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 366.0761
+        width: 164.86
+        height: 176.8477
+      alignment: 9
+      pivot: {x: 0.4817657, y: 0.5989552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5061, y: -83.49999}
+        - {x: -82.5061, y: 2.500007}
+        - {x: -82.5061, y: 57.50001}
+        - {x: -52.5061, y: 88.50001}
+        - {x: 16.4939, y: 88.50001}
+        - {x: 82.4939, y: 55.50001}
+        - {x: 82.4939, y: -79.49999}
+        - {x: 76.4939, y: -88.49998}
+        - {x: -46.5061, y: -88.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc56227a6b225245b2f21b240935c31
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_12
+      rect:
+        serializedVersion: 2
+        x: 713.0429
+        y: 560.0761
+        width: 164.881
+        height: 179.8477
+      alignment: 9
+      pivot: {x: 0.4455159, y: 0.6056449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.48339, y: -54.99999}
+        - {x: -82.48339, y: -11.99999}
+        - {x: -82.48339, y: 75.00001}
+        - {x: -39.48339, y: 90.00001}
+        - {x: -2.483391, y: 90.00001}
+        - {x: 82.51661, y: 48.00001}
+        - {x: 82.51661, y: -53.99999}
+        - {x: 55.51661, y: -89.99999}
+        - {x: -27.48339, y: -89.99999}
+        - {x: -47.48339, y: -69.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66434f72c263e694e802c12dcea03887
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_walk_13
+      rect:
+        serializedVersion: 2
+        x: 0.05131531
+        y: 545.0761
+        width: 163.8726
+        height: 181.8586
+      alignment: 9
+      pivot: {x: 0.4237969, y: 0.6099458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.98759, y: -69.00542}
+        - {x: -81.98759, y: -17.00542}
+        - {x: -81.98759, y: 55.99458}
+        - {x: -52.98759, y: 90.99458}
+        - {x: 24.01241, y: 90.99458}
+        - {x: 82.01241, y: 30.99458}
+        - {x: 82.01241, y: -40.00542}
+        - {x: 25.01241, y: -91.00542}
+        - {x: 10.01241, y: -91.00542}
+        - {x: -18.98759, y: -65.00542}
+        - {x: -36.98759, y: -75.00542}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e305357c0b5946b757ef06f1d763f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_damage_05
+      rect:
+        serializedVersion: 2
+        x: 166.0761
+        y: 547.0761
+        width: 169.8477
+        height: 223.8055
+      alignment: 9
+      pivot: {x: 0.4146294, y: 0.4956262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: -111.9789}
+        - {x: -85, y: -76.97889}
+        - {x: -85, y: 74.02111}
+        - {x: -64, y: 110.0211}
+        - {x: -51, y: 112.0211}
+        - {x: 20, y: 112.0211}
+        - {x: 85, y: 30.02111}
+        - {x: 85, y: -17.97889}
+        - {x: 15, y: -102.9789}
+        - {x: -16, y: -78.97889}
+        - {x: -17, y: -82.97889}
+        - {x: -36, y: -111.9789}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d369ed01a726f274e8938cd5510ced22
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_damage_03
+      rect:
+        serializedVersion: 2
+        x: 338.0761
+        y: 558.0639
+        width: 185.8477
+        height: 222.86
+      alignment: 9
+      pivot: {x: 0.5349749, y: 0.4888096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.99998, y: -111.4939}
+        - {x: -92.99998, y: -111.4939}
+        - {x: -92.99998, y: 111.5061}
+        - {x: 36.00002, y: 111.5061}
+        - {x: 93.00002, y: 63.50612}
+        - {x: 93.00002, y: -31.49388}
+        - {x: 47.00002, y: -65.49388}
+        - {x: 43.00002, y: -86.49388}
+        - {x: 43.00002, y: -90.49388}
+        - {x: 37.00002, y: -99.49388}
+        - {x: 4.000015, y: -85.49388}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127d02da781a62a4cbeb9c03c28cffe9
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_damage_04
+      rect:
+        serializedVersion: 2
+        x: 526.0761
+        y: 371.0761
+        width: 184.8477
+        height: 228.8477
+      alignment: 9
+      pivot: {x: 0.4891803, y: 0.4803363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.49999, y: -46.49999}
+        - {x: -92.49999, y: -11.49999}
+        - {x: -92.49999, y: 112.5}
+        - {x: -90.49999, y: 114.5}
+        - {x: -24.49999, y: 114.5}
+        - {x: 83.50001, y: 56.50001}
+        - {x: 92.50001, y: 28.50001}
+        - {x: 92.50001, y: 14.50001}
+        - {x: 89.50001, y: 6.500008}
+        - {x: 40.50001, y: -25.49999}
+        - {x: 37.50001, y: -92.49999}
+        - {x: 28.50001, y: -102.5}
+        - {x: 9.500008, y: -91.49999}
+        - {x: -1.499992, y: -77.49999}
+        - {x: -13.49999, y: -107.5}
+        - {x: -18.49999, y: -114.5}
+        - {x: -46.49999, y: -114.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcd6258a90d76c4d9e460055258e7b6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_damage_02
+      rect:
+        serializedVersion: 2
+        x: 526.0761
+        y: 602.0761
+        width: 169.8477
+        height: 223.8055
+      alignment: 9
+      pivot: {x: 0.4146294, y: 0.4956262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: -111.9789}
+        - {x: -85, y: -76.97889}
+        - {x: -85, y: 74.02111}
+        - {x: -64, y: 110.0211}
+        - {x: -51, y: 112.0211}
+        - {x: 20, y: 112.0211}
+        - {x: 85, y: 30.02111}
+        - {x: 85, y: -17.97889}
+        - {x: 15, y: -102.9789}
+        - {x: -16, y: -78.97889}
+        - {x: -17, y: -82.97889}
+        - {x: -36, y: -111.9789}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca442c2da15f549a21a1b604324dbe
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_zombie_001_damage_06
+      rect:
+        serializedVersion: 2
+        x: 698.0267
+        y: 742.0761
+        width: 149.8971
+        height: 202.8477
+      alignment: 9
+      pivot: {x: 0.3834179, y: 0.5542279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.97532, y: -101.5}
+        - {x: -74.97531, y: -80.49999}
+        - {x: -74.97531, y: 78.50001}
+        - {x: -43.97531, y: 101.5}
+        - {x: 8.024685, y: 101.5}
+        - {x: 75.02469, y: 32.50001}
+        - {x: 75.02469, y: -46.49999}
+        - {x: 22.02468, y: -101.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040c612b4cb81a44e97f683bbe97d7a7
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      anim_zombie_001_damage_01: 21300020
+      anim_zombie_001_damage_02: 21300040
+      anim_zombie_001_damage_03: 21300036
+      anim_zombie_001_damage_04: 21300038
+      anim_zombie_001_damage_05: 21300034
+      anim_zombie_001_damage_06: 21300042
+      anim_zombie_001_walk_01: 21300022
+      anim_zombie_001_walk_02: 21300010
+      anim_zombie_001_walk_03: 21300024
+      anim_zombie_001_walk_04: 21300008
+      anim_zombie_001_walk_05: 21300004
+      anim_zombie_001_walk_06: 21300006
+      anim_zombie_001_walk_07: 21300002
+      anim_zombie_001_walk_08: 21300016
+      anim_zombie_001_walk_09: 21300026
+      anim_zombie_001_walk_10: 21300028
+      anim_zombie_001_walk_11: 21300012
+      anim_zombie_001_walk_12: 21300030
+      anim_zombie_001_walk_13: 21300032
+      anim_zombie_001_walk_14: 21300000
+      anim_zombie_001_walk_15: 21300014
+      anim_zombie_001_walk_16: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

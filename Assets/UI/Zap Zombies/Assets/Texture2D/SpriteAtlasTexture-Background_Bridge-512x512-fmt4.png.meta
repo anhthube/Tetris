@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 30e1998a166e3544ea182af502765aec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: bridge_barricade_L02
+  - first:
+      213: 21300002
+    second: bridge_barricade_L01
+  - first:
+      213: 21300004
+    second: bridge_barricade_L03
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bridge_barricade_L02
+      rect:
+        serializedVersion: 2
+        x: 0.02674866
+        y: 0
+        width: 428.9465
+        height: 160.9239
+      alignment: 9
+      pivot: {x: 0.5244786, y: 0.5282001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.50002, y: -67.46193}
+        - {x: -115.5, y: -15.46193}
+        - {x: -115.5, y: 57.53807}
+        - {x: -110.5, y: 73.53807}
+        - {x: -44.50002, y: 80.53807}
+        - {x: 9.499985, y: 80.53807}
+        - {x: 84.49998, y: 63.53807}
+        - {x: 165.5, y: 80.53807}
+        - {x: 214.5, y: 57.53807}
+        - {x: 214.5, y: -52.46193}
+        - {x: 193.5, y: -76.46193}
+        - {x: 121.5, y: -76.46193}
+        - {x: 26.49998, y: -60.46193}
+      - - {x: -191.5, y: -80.46193}
+        - {x: -214.5, y: -73.46193}
+        - {x: -214.5, y: -7.461929}
+        - {x: -189.5, y: 6.538071}
+        - {x: -126.5, y: 6.538071}
+        - {x: -112.5, y: -27.46193}
+        - {x: -112.5, y: -73.46193}
+        - {x: -117.5, y: -80.46193}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00a62e0054409468dc17504e6951c2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge_barricade_L01
+      rect:
+        serializedVersion: 2
+        x: 0.02674866
+        y: 163.0761
+        width: 479.8972
+        height: 133.8971
+      alignment: 9
+      pivot: {x: 0.4875487, y: 0.5894367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.02467, y: -66.02468}
+        - {x: 84.02467, y: -59.02468}
+        - {x: 84.02467, y: 32.97532}
+        - {x: 240.0247, y: 32.97532}
+        - {x: 240.0247, y: -51.02468}
+        - {x: 188.0247, y: -66.02468}
+      - - {x: 34.02467, y: -67.02468}
+        - {x: -239.9753, y: -67.02468}
+        - {x: -239.9753, y: 39.97532}
+        - {x: -195.9753, y: 66.97532}
+        - {x: -30.97533, y: 66.97532}
+        - {x: 47.02467, y: 11.97532}
+        - {x: 47.02467, y: -47.02468}
+        - {x: 41.02467, y: -60.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af1a38479be9a74faea4c093417bda4
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge_barricade_L03
+      rect:
+        serializedVersion: 2
+        x: 0.02674866
+        y: 299.0268
+        width: 507.8972
+        height: 146.9733
+      alignment: 9
+      pivot: {x: 0.4902041, y: 0.4216635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.975327, y: -18.51337}
+        - {x: -11.97533, y: -16.51337}
+        - {x: -11.97533, y: 50.48663}
+        - {x: -8.975327, y: 62.48663}
+        - {x: 79.02467, y: 62.48663}
+        - {x: 83.02467, y: 52.48663}
+        - {x: 83.02467, y: -18.51337}
+        - {x: 74.02467, y: -21.51337}
+        - {x: 41.02467, y: -21.51337}
+      - - {x: 174.0247, y: -37.51337}
+        - {x: 160.0247, y: -31.51337}
+        - {x: 160.0247, y: 73.48663}
+        - {x: 254.0247, y: 73.48663}
+        - {x: 254.0247, y: -37.51337}
+      - - {x: -247.9753, y: -50.51337}
+        - {x: -253.9753, y: -20.51337}
+        - {x: -253.9753, y: 41.48662}
+        - {x: -227.9753, y: 63.48663}
+        - {x: -69.97533, y: 63.48663}
+        - {x: -43.97533, y: 36.48663}
+        - {x: -43.97533, y: -73.51337}
+        - {x: -222.9753, y: -73.51337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb1efe6391ac7459e06de9ad299eff
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bridge_barricade_L01: 21300002
+      bridge_barricade_L02: 21300000
+      bridge_barricade_L03: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

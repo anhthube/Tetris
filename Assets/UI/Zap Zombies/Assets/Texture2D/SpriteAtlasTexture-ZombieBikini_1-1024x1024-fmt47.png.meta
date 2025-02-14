@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 1be9ffa506672a64793da1bae7231986
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_Bikini_Walk_12
+  - first:
+      213: 21300002
+    second: Zombie_Bikini_Walk_10
+  - first:
+      213: 21300004
+    second: Zombie_Bikini_Walk_15
+  - first:
+      213: 21300006
+    second: Zombie_Bikini_Walk_20
+  - first:
+      213: 21300008
+    second: Zombie_Bikini_Walk_11
+  - first:
+      213: 21300010
+    second: Zombie_Bikini_Walk_17
+  - first:
+      213: 21300012
+    second: Zombie_Bikini_Walk_07
+  - first:
+      213: 21300014
+    second: Zombie_Bikini_Walk_08
+  - first:
+      213: 21300016
+    second: Zombie_Bikini_Walk_14
+  - first:
+      213: 21300018
+    second: Zombie_Bikini_Walk_18
+  - first:
+      213: 21300020
+    second: Zombie_Bikini_Walk_13
+  - first:
+      213: 21300022
+    second: Zombie_Bikini_Walk_19
+  - first:
+      213: 21300024
+    second: Zombie_Bikini_Walk_09
+  - first:
+      213: 21300026
+    second: Zombie_Bikini_Walk_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.02675056
+        width: 150.8477
+        height: 252.9303
+      alignment: 9
+      pivot: {x: 0.4767978, y: 0.5652673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.49999, y: -126.4919}
+        - {x: -75.49999, y: -55.49192}
+        - {x: -75.49999, y: 32.50808}
+        - {x: 9.500008, y: 126.5081}
+        - {x: 43.50001, y: 126.5081}
+        - {x: 75.50001, y: 96.50808}
+        - {x: 75.50001, y: -4.49192}
+        - {x: 62.50001, y: -117.4919}
+        - {x: -1.499992, y: -126.4919}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7aeaa26bbdfae4e99343f241f7b765
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 153.0761
+        y: 0.0362854
+        width: 145.8477
+        height: 253.8876
+      alignment: 9
+      pivot: {x: 0.4794306, y: 0.5512822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -126.9801}
+        - {x: -72.99999, y: -86.98009}
+        - {x: -72.99999, y: 43.01991}
+        - {x: -4.999992, y: 121.0199}
+        - {x: 1.000008, y: 127.0199}
+        - {x: 27.00001, y: 127.0199}
+        - {x: 73.00001, y: 95.01991}
+        - {x: 73.00001, y: -126.9801}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b368ffd25020b45b57760080eef795
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 301.0761
+        y: 0.07612038
+        width: 146.8477
+        height: 248.8478
+      alignment: 9
+      pivot: {x: 0.4693561, y: 0.5341574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.49999, y: -124.5}
+        - {x: -73.49999, y: -95.50001}
+        - {x: -73.49999, y: 12.49999}
+        - {x: -9.499992, y: 124.5}
+        - {x: 73.50001, y: 124.5}
+        - {x: 73.50001, y: -64.50001}
+        - {x: 46.50001, y: -124.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb18da2f3fc58478f6b5a147c32424
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 301.0761
+        y: 251.0429
+        width: 136.8971
+        height: 255.9303
+      alignment: 9
+      pivot: {x: 0.415815, y: 0.5351343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.52469, y: -26.00807}
+        - {x: -68.52469, y: -24.00807}
+        - {x: -68.52469, y: -13.00807}
+        - {x: -38.52469, y: 56.99193}
+        - {x: -4.524685, y: 127.9919}
+        - {x: 23.47532, y: 127.9919}
+        - {x: 48.47532, y: 118.9919}
+        - {x: 68.47531, y: 92.99193}
+        - {x: 68.47531, y: 56.99193}
+        - {x: 59.47532, y: 21.99193}
+        - {x: 54.47532, y: -62.00807}
+        - {x: 62.47532, y: -75.00807}
+        - {x: 56.47532, y: -93.00807}
+        - {x: 0.4753151, y: -127.0081}
+        - {x: -1.524685, y: -128.0081}
+        - {x: -14.52468, y: -128.0081}
+        - {x: -20.52468, y: -103.0081}
+        - {x: -32.52468, y: -109.0081}
+        - {x: -39.52468, y: -105.0081}
+        - {x: -46.52468, y: -24.00807}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d0381a006fe048a4f1a5d9cff3481
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 450.0761
+        y: 0.02675056
+        width: 146.8477
+        height: 253.9303
+      alignment: 9
+      pivot: {x: 0.4761658, y: 0.5551651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.49999, y: -126.9919}
+        - {x: -73.49999, y: -58.99192}
+        - {x: -73.49999, y: 12.00808}
+        - {x: 3.500008, y: 127.0081}
+        - {x: 30.50001, y: 127.0081}
+        - {x: 73.50001, y: 109.0081}
+        - {x: 73.50001, y: -98.99192}
+        - {x: 67.50001, y: -126.9919}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ee570b1fd45814cae0eb41e9306ae0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 599.0267
+        y: 0.02675056
+        width: 125.8971
+        height: 245.8517
+      alignment: 9
+      pivot: {x: 0.4525381, y: 0.5164629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.02468, y: -49.95258}
+        - {x: 12.02468, y: -118.9526}
+        - {x: 4.024685, y: -122.9526}
+        - {x: -24.97532, y: -122.9526}
+        - {x: -30.97532, y: -116.9526}
+        - {x: -62.97532, y: -37.95258}
+        - {x: -62.97532, y: -19.95258}
+        - {x: -61.97532, y: -14.95258}
+        - {x: -39.97532, y: 27.04742}
+        - {x: -36.97532, y: 53.04742}
+        - {x: -14.97532, y: 123.0474}
+        - {x: 18.02468, y: 123.0474}
+        - {x: 35.02468, y: 116.0474}
+        - {x: 63.02468, y: 91.04742}
+        - {x: 63.02468, y: -88.95258}
+        - {x: 53.02468, y: -90.95258}
+        - {x: 49.02468, y: -89.95258}
+        - {x: 35.02468, y: -79.95258}
+        - {x: 31.02468, y: -76.95258}
+        - {x: 14.02468, y: -42.95258}
+        - {x: 15.02468, y: -45.95258}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca06a5061ecd1bc4e8709cd9195f6e0b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_07
+      rect:
+        serializedVersion: 2
+        x: 727.0761
+        y: 0.04290771
+        width: 138.8477
+        height: 239.903
+      alignment: 9
+      pivot: {x: 0.4603883, y: 0.5375386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.49999, y: -18.99438}
+        - {x: -69.5, y: -13.99438}
+        - {x: -69.5, y: 11.00562}
+        - {x: -6.499996, y: 120.0056}
+        - {x: 56.5, y: 120.0056}
+        - {x: 69.5, y: 116.0056}
+        - {x: 69.5, y: -119.9944}
+        - {x: -27.5, y: -119.9944}
+        - {x: -31.5, y: -115.9944}
+        - {x: -33.5, y: -69.99438}
+        - {x: -41.5, y: -36.99438}
+        - {x: -43.5, y: -14.99438}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebf53ed30c0e264f890e7e0f82a9a97
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_08
+      rect:
+        serializedVersion: 2
+        x: 599.0761
+        y: 248.0761
+        width: 139.8477
+        height: 244.881
+      alignment: 9
+      pivot: {x: 0.4785481, y: 0.5468938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.99999, y: -18.51661}
+        - {x: -69.99999, y: -15.51661}
+        - {x: -69.99999, y: 20.48339}
+        - {x: -4.999992, y: 122.4834}
+        - {x: 36.00001, y: 122.4834}
+        - {x: 70.00001, y: 97.48339}
+        - {x: 70.00001, y: 13.48339}
+        - {x: 54.00001, y: -87.51661}
+        - {x: 20.00001, y: -122.5166}
+        - {x: -30.99999, y: -122.5166}
+        - {x: -41.99999, y: -34.51661}
+        - {x: -43.99999, y: -16.51661}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62da9ca442ba18b40bdc6ce8f5bdf883
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 741.0761
+        y: 242.0513
+        width: 158.8971
+        height: 251.9058
+      alignment: 9
+      pivot: {x: 0.4715245, y: 0.5515899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.52468, y: -123.0042}
+        - {x: -79.52468, y: -43.0042}
+        - {x: -79.52468, y: -14.00421}
+        - {x: -42.52468, y: 66.9958}
+        - {x: 11.47532, y: 125.9958}
+        - {x: 34.47532, y: 125.9958}
+        - {x: 39.47532, y: 122.9958}
+        - {x: 45.47532, y: 111.9958}
+        - {x: 47.47532, y: 87.9958}
+        - {x: 52.47532, y: 95.9958}
+        - {x: 61.47532, y: 106.9958}
+        - {x: 79.47532, y: 105.9958}
+        - {x: 79.47532, y: 19.9958}
+        - {x: 62.47532, y: -114.0042}
+        - {x: -17.52468, y: -126.0042}
+        - {x: -26.52468, y: -126.0042}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676b7c18d24bef64d974b9265762d026
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 255.0761
+        width: 128.8477
+        height: 246.8478
+      alignment: 9
+      pivot: {x: 0.4417918, y: 0.526332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: -123.5}
+        - {x: -64.5, y: -58.50001}
+        - {x: -64.5, y: -9.500008}
+        - {x: -37.5, y: 58.49999}
+        - {x: -5.499996, y: 121.5}
+        - {x: -4.499996, y: 123.5}
+        - {x: 7.500005, y: 123.5}
+        - {x: 19.50001, y: 122.5}
+        - {x: 24.5, y: 119.5}
+        - {x: 40.5, y: 104.5}
+        - {x: 44.5, y: 101.5}
+        - {x: 64.5, y: 89.49999}
+        - {x: 64.5, y: -123.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e386a3e787887f46bebf48fb37ddc0b
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 0.05637169
+        y: 504.0268
+        width: 159.8675
+        height: 253.9465
+      alignment: 9
+      pivot: {x: 0.475041, y: 0.5669433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.99013, y: -127}
+        - {x: -79.99013, y: -58.99999}
+        - {x: -79.99013, y: -1.999992}
+        - {x: -35.99013, y: 37.00001}
+        - {x: -27.99013, y: 59.00001}
+        - {x: 10.00987, y: 127}
+        - {x: 30.00987, y: 127}
+        - {x: 45.00987, y: 121}
+        - {x: 80.00987, y: 99.00001}
+        - {x: 80.00987, y: 21.00001}
+        - {x: 69.00987, y: -97.99999}
+        - {x: 35.00987, y: -127}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f3dae2e145be341aaa01e2b2fb4f08
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 440.0761
+        y: 256.0761
+        width: 132.8675
+        height: 250.8697
+      alignment: 9
+      pivot: {x: 0.4284259, y: 0.5298522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.49013, y: -125.511}
+        - {x: -66.50987, y: -125.511}
+        - {x: -66.50987, y: -2.510994}
+        - {x: -39.50988, y: 57.48901}
+        - {x: -5.509876, y: 125.489}
+        - {x: 23.49012, y: 125.489}
+        - {x: 26.49012, y: 124.489}
+        - {x: 66.49013, y: 98.48901}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e9694d3762f645a66f8e9f8eae3a7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_09
+      rect:
+        serializedVersion: 2
+        x: 162.0267
+        y: 509.0513
+        width: 142.8971
+        height: 248.9468
+      alignment: 9
+      pivot: {x: 0.4826777, y: 0.5501123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.47531, y: -124.5247}
+        - {x: -71.47531, y: -65.5247}
+        - {x: -71.47531, y: 36.4753}
+        - {x: 0.5246887, y: 124.4753}
+        - {x: 23.52469, y: 124.4753}
+        - {x: 36.52469, y: 118.4753}
+        - {x: 47.52469, y: 101.4753}
+        - {x: 54.52469, y: 104.4753}
+        - {x: 71.52469, y: 92.4753}
+        - {x: 71.52469, y: -4.524696}
+        - {x: 56.52468, y: -105.5247}
+        - {x: 9.524689, y: -124.5247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d86d5a77b95d3c4692acf3ae42bfeb9
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Bikini_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 307.0761
+        y: 509.0268
+        width: 130.8477
+        height: 246.8909
+      alignment: 9
+      pivot: {x: 0.4656089, y: 0.514289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -123.4722}
+        - {x: -65.5, y: -62.47217}
+        - {x: -65.5, y: 17.52783}
+        - {x: -10.5, y: 123.5278}
+        - {x: 63.5, y: 123.5278}
+        - {x: 65.5, y: 108.5278}
+        - {x: 65.5, y: -122.4722}
+        - {x: 62.5, y: -123.4722}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100a312214f2d394295d776c368267be
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_Bikini_Walk_07: 21300012
+      Zombie_Bikini_Walk_08: 21300014
+      Zombie_Bikini_Walk_09: 21300024
+      Zombie_Bikini_Walk_10: 21300002
+      Zombie_Bikini_Walk_11: 21300008
+      Zombie_Bikini_Walk_12: 21300000
+      Zombie_Bikini_Walk_13: 21300020
+      Zombie_Bikini_Walk_14: 21300016
+      Zombie_Bikini_Walk_15: 21300004
+      Zombie_Bikini_Walk_16: 21300026
+      Zombie_Bikini_Walk_17: 21300010
+      Zombie_Bikini_Walk_18: 21300018
+      Zombie_Bikini_Walk_19: 21300022
+      Zombie_Bikini_Walk_20: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

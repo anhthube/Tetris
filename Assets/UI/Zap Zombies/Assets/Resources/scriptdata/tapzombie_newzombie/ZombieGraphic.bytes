@@ -1,0 +1,21 @@
+LookId,AssetName,Gender,IconName,Speed min,Speed max,PushCoef
+1,Rotter,1,icon_zb_guy.png,0.3,0.7,60
+2,Policeman,1,icon_zb_policeman.png,0.3,0.7,60
+3,Nurse,0,icon_zb_nurse.png,0.4,0.8,30
+4,FootballGuy,1,icon_zb_football.png,0.2,0.6,60
+5,Baseball,1,icon_zb_guy.png,0.3,0.7,60
+6,Bikini,0,icon_zb_policeman.png,0.4,0.8,30
+7,Cheerleader,0,icon_zb_nurse.png,0.4,0.8,60
+8,Chef,1,icon_zb_football.png,0.2,0.6,60
+9,Doctor,1,icon_zb_football.png,0.3,0.7,60
+10,Farmer,1,icon_zb_football.png,0.2,0.6,30
+11,Firefighter,1,icon_zb_football.png,0.2,0.6,60
+12,Fisherman,1,icon_zb_football.png,0.3,0.7,60
+13,LumberJack,1,icon_zb_football.png,0.2,0.6,60
+14,Martialartist,1,icon_zb_football.png,0.3,0.7,60
+15,Mechanic,1,icon_zb_football.png,0.3,0.7,60
+16,Prisoner,1,icon_zb_football.png,0.2,0.6,60
+17,RockStar,1,icon_zb_football.png,0.3,0.7,60
+18,SWAT,1,icon_zb_football.png,0.2,0.6,60
+19,Worker,1,icon_zb_football.png,0.4,0.8,60
+20,Clown,1,icon_zb_football.png,0.2,0.6,60

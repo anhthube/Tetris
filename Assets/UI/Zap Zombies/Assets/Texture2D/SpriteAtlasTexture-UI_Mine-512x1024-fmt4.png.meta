@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: f7acbe6e9f1c140408b37bd206eb416e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cart_02
+  - first:
+      213: 21300002
+    second: cart_03
+  - first:
+      213: 21300004
+    second: button_levelup_mine_02
+  - first:
+      213: 21300006
+    second: cart_06
+  - first:
+      213: 21300008
+    second: button_levelup_mine_01
+  - first:
+      213: 21300010
+    second: cart_04
+  - first:
+      213: 21300012
+    second: cart_05
+  - first:
+      213: 21300014
+    second: cart_01
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 95.88015
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cart_02
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 346
+        width: 137.9239
+        height: 95
+      alignment: 9
+      pivot: {x: 0.9280482, y: 0.499586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.03806, y: -47.53933}
+        - {x: -68.96194, y: -47.53933}
+        - {x: -68.96194, y: 47.46067}
+        - {x: 66.03806, y: 47.46067}
+        - {x: 69.03806, y: 37.46067}
+        - {x: 69.03806, y: -2.539326}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0209952c953ee478440db7546301b4
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cart_03
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 249
+        width: 170.9239
+        height: 95
+      alignment: 9
+      pivot: {x: 0.7488714, y: 0.499586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.46194, y: -37.53933}
+        - {x: -85.46194, y: -22.53933}
+        - {x: -85.46194, y: 47.46067}
+        - {x: 83.53806, y: 47.46067}
+        - {x: 85.53806, y: 40.46067}
+        - {x: 85.53806, y: -8.539326}
+        - {x: 53.53806, y: -47.53933}
+        - {x: -41.46194, y: -47.53933}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b33ee54b4e221049ab663bed0789b1d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_levelup_mine_02
+      rect:
+        serializedVersion: 2
+        x: 200.0513
+        y: 129.0761
+        width: 208.8726
+        height: 117.8971
+      alignment: 9
+      pivot: {x: 0.5000594, y: 0.4997906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.4876, y: -59.02468}
+        - {x: -104.4876, y: -56.02469}
+        - {x: -104.4876, y: 53.97532}
+        - {x: -102.4876, y: 58.97531}
+        - {x: 103.5124, y: 58.97531}
+        - {x: 104.5124, y: 55.97531}
+        - {x: 104.5124, y: -55.02469}
+        - {x: 100.5124, y: -59.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ccb08b23dd0d44fad70cf6b6f0733a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cart_06
+      rect:
+        serializedVersion: 2
+        x: 280.0761
+        y: 443
+        width: 103.9239
+        height: 95
+      alignment: 9
+      pivot: {x: -0.2316708, y: 0.499586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.03806, y: -47.53933}
+        - {x: -52.03806, y: -9.539326}
+        - {x: -52.03806, y: 47.46067}
+        - {x: 51.96194, y: 47.46067}
+        - {x: 51.96194, y: -47.53933}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f35a9d4efe49ce42a10f31d3bdb6f5e
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_levelup_mine_01
+      rect:
+        serializedVersion: 2
+        x: 0.05131668
+        y: 249.0761
+        width: 208.8726
+        height: 117.8971
+      alignment: 9
+      pivot: {x: 0.5000594, y: 0.4997906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.4876, y: -59.02468}
+        - {x: -104.4876, y: -56.02469}
+        - {x: -104.4876, y: 53.97532}
+        - {x: -102.4876, y: 58.97531}
+        - {x: 103.5124, y: 58.97531}
+        - {x: 104.5124, y: 55.97531}
+        - {x: 104.5124, y: -55.02469}
+        - {x: 100.5124, y: -59.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566878f5d3040894e9eca013d79469aa
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cart_04
+      rect:
+        serializedVersion: 2
+        x: 91.07612
+        y: 369
+        width: 186.8477
+        height: 95
+      alignment: 9
+      pivot: {x: 0.615067, y: 0.499586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.49999, y: -41.53933}
+        - {x: -93.49998, y: -32.53933}
+        - {x: -93.49998, y: 44.46067}
+        - {x: -92.49999, y: 47.46067}
+        - {x: 93.50001, y: 47.46067}
+        - {x: 93.50001, y: -16.53933}
+        - {x: 60.50001, y: -47.53933}
+        - {x: -59.49999, y: -47.53933}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e87ae9e304548f4db4dcc88df20b183
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cart_05
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 466
+        width: 172.8477
+        height: 95
+      alignment: 9
+      pivot: {x: 0.387184, y: 0.499586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: -47.53933}
+        - {x: -86.5, y: -6.539326}
+        - {x: -86.5, y: 47.46067}
+        - {x: 76.5, y: 47.46067}
+        - {x: 86.49999, y: 35.46067}
+        - {x: 86.49999, y: -17.53933}
+        - {x: 56.5, y: -47.53933}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbf080164822b459c8399a7b168220
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cart_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 88.92388
+        height: 95
+      alignment: 9
+      pivot: {x: 1.439433, y: 0.499586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.53806, y: -47.53933}
+        - {x: -44.46194, y: -47.53933}
+        - {x: -44.46194, y: 47.46067}
+        - {x: 39.53806, y: 47.46067}
+        - {x: 44.53806, y: 29.46067}
+        - {x: 44.53806, y: -4.539326}
+        - {x: 33.53806, y: -34.53933}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c7380c8fb640546b62729814d80ac1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      button_levelup_mine_01: 21300008
+      button_levelup_mine_02: 21300004
+      cart_01: 21300014
+      cart_02: 21300000
+      cart_03: 21300002
+      cart_04: 21300010
+      cart_05: 21300012
+      cart_06: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

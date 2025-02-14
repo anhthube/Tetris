@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1632082646898822}
+  m_IsPrefabParent: 1
+--- !u!1 &1632082646898822
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4210108726207579}
+  - component: {fileID: 114074415696498495}
+  m_Layer: 0
+  m_Name: ZombieWaveManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4210108726207579
+Transform:
+  m_GameObject: {fileID: 1632082646898822}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4161851665338839}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114074415696498495
+MonoBehaviour:
+  m_GameObject: {fileID: 1632082646898822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae2cb8b7424398841840cfd97ec3c3da, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  ZombieWaveSummaryPrefab: {fileID: 1804111815335505, guid: 2e49fb46dcbe0274eb76ecf50f2cd439, type: 2}
+  zombieManager: {fileID: 0}
+  scriptData: {fileID: 0}
+  bossWave: 0
+  minimumRewardEnzymeValue: 0
+  minimumRewardExponent: 0
+  stopUpdate: 0
+--- !u!1 &1899534866886751
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4161851665338839}
+  - component: {fileID: 114613302173796157}
+  m_Layer: 0
+  m_Name: _Script
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4161851665338839
+Transform:
+  m_GameObject: {fileID: 1899534866886751}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4210108726207579}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114613302173796157
+MonoBehaviour:
+  m_GameObject: {fileID: 1899534866886751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe068d57d74d4124ebb8f3f700e9f664, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  minimumZombieCountInScreen: 0
+  zombieZoneHeightMin: 0.1
+  zombieZoneHeightMax: 0.3
+  zombieWaveList:
+  - {fileID: 0}
+  - {fileID: 0}

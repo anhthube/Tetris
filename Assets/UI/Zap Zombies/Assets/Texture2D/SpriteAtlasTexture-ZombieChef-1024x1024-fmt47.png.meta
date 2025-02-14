@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 9efb5810ebdf7c24a88bc026d40f9db1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_chef_walk_02
+  - first:
+      213: 21300002
+    second: zombie_chef_damage_01
+  - first:
+      213: 21300004
+    second: zombie_chef_walk_03
+  - first:
+      213: 21300006
+    second: zombie_chef_walk_01
+  - first:
+      213: 21300008
+    second: zombie_chef_walk_05
+  - first:
+      213: 21300010
+    second: zombie_chef_damage_03
+  - first:
+      213: 21300012
+    second: zombie_chef_damage_05
+  - first:
+      213: 21300014
+    second: zombie_chef_walk_04
+  - first:
+      213: 21300016
+    second: zombie_chef_walk_06
+  - first:
+      213: 21300018
+    second: zombie_chef_damage_07
+  - first:
+      213: 21300020
+    second: zombie_chef_damage_08
+  - first:
+      213: 21300022
+    second: zombie_chef_damage_02
+  - first:
+      213: 21300024
+    second: zombie_chef_damage_06
+  - first:
+      213: 21300026
+    second: zombie_chef_damage_04
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_chef_walk_02
+      rect:
+        serializedVersion: 2
+        x: 0.04290771
+        y: 0.07612038
+        width: 186.881
+        height: 242.8971
+      alignment: 9
+      pivot: {x: 0.5696519, y: 0.5925302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.48338, y: -121.5247}
+        - {x: -93.48339, y: -73.52468}
+        - {x: -93.48339, y: 19.47532}
+        - {x: -90.48338, y: 29.47532}
+        - {x: -2.483383, y: 121.4753}
+        - {x: 43.51662, y: 121.4753}
+        - {x: 93.51662, y: 85.47532}
+        - {x: 93.51662, y: -31.52468}
+        - {x: 88.51662, y: -63.52468}
+        - {x: -10.48338, y: -85.52469}
+        - {x: -31.48338, y: -87.52468}
+        - {x: -42.48338, y: -121.5247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fb22b1cc57fb3498bec6746cf3bcac
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_damage_01
+      rect:
+        serializedVersion: 2
+        x: 189.0761
+        y: 0.07612038
+        width: 186.8971
+        height: 243.881
+      alignment: 9
+      pivot: {x: 0.5640744, y: 0.5778388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.52468, y: -122.0166}
+        - {x: -93.52467, y: -75.01661}
+        - {x: -93.52467, y: 16.98339}
+        - {x: -56.52468, y: 102.9834}
+        - {x: -20.52468, y: 121.9834}
+        - {x: 43.47532, y: 121.9834}
+        - {x: 93.47532, y: 83.98339}
+        - {x: 93.47532, y: -68.01661}
+        - {x: -30.52468, y: -94.01661}
+        - {x: -49.52468, y: -121.0166}
+        - {x: -49.52468, y: -122.0166}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1dd07dab87e644a76f3cb4e5db627
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_walk_03
+      rect:
+        serializedVersion: 2
+        x: 0.06389809
+        y: 245.0761
+        width: 186.86
+        height: 238.8478
+      alignment: 9
+      pivot: {x: 0.5749552, y: 0.5942022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.49388, y: -119.5}
+        - {x: -93.49389, y: -106.5}
+        - {x: -93.49389, y: 42.49999}
+        - {x: -84.49388, y: 69.49999}
+        - {x: -33.49388, y: 59.49999}
+        - {x: -33.49388, y: 61.49999}
+        - {x: -30.49388, y: 63.49999}
+        - {x: -32.49388, y: 63.49999}
+        - {x: -44.49388, y: 69.49999}
+        - {x: -30.49388, y: 119.5}
+        - {x: 93.50612, y: 119.5}
+        - {x: 93.50612, y: -70.50001}
+        - {x: 63.50612, y: -119.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b8e7cec22aeb449a7f55b90c2adf4a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_walk_01
+      rect:
+        serializedVersion: 2
+        x: 189.0761
+        y: 246.0761
+        width: 186.8971
+        height: 243.881
+      alignment: 9
+      pivot: {x: 0.5640744, y: 0.5778388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.52468, y: -122.0166}
+        - {x: -93.52467, y: -75.01661}
+        - {x: -93.52467, y: 16.98339}
+        - {x: -56.52468, y: 102.9834}
+        - {x: -20.52468, y: 121.9834}
+        - {x: 43.47532, y: 121.9834}
+        - {x: 93.47532, y: 83.98339}
+        - {x: 93.47532, y: -68.01661}
+        - {x: -30.52468, y: -94.01661}
+        - {x: -49.52468, y: -121.0166}
+        - {x: -49.52468, y: -122.0166}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783dbbcfd5fe4514e91df0bae4ba5f62
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_walk_05
+      rect:
+        serializedVersion: 2
+        x: 378.0761
+        y: 0.07612228
+        width: 193.8477
+        height: 226.8971
+      alignment: 9
+      pivot: {x: 0.5541663, y: 0.5682041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.00001, y: -55.52468}
+        - {x: 42.00001, y: -68.52468}
+        - {x: 22.00001, y: -69.52468}
+        - {x: 13.00001, y: -72.52468}
+        - {x: -28.99999, y: -70.52468}
+        - {x: -62.99999, y: -46.52468}
+        - {x: -27.99999, y: -73.52468}
+        - {x: -24.99999, y: -82.52468}
+        - {x: -38.99999, y: -105.5247}
+        - {x: -43, y: -113.5247}
+        - {x: -53.99999, y: -113.5247}
+        - {x: -60.99999, y: -111.5247}
+        - {x: -97, y: -69.52468}
+        - {x: -97, y: 40.47532}
+        - {x: -18.99999, y: 113.4753}
+        - {x: 81.00001, y: 113.4753}
+        - {x: 97.00001, y: 78.47532}
+        - {x: 97.00001, y: -46.52468}
+        - {x: 91.00001, y: -53.52468}
+        - {x: 66.00001, y: -61.52468}
+        - {x: 59.00001, y: -51.52468}
+        - {x: 57.00001, y: -42.52468}
+        - {x: 52.00001, y: -34.52468}
+        - {x: 52.00001, y: -41.52468}
+        - {x: 54.00001, y: -41.52468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7015cb7727b1a44901cf197ae13c89
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_damage_03
+      rect:
+        serializedVersion: 2
+        x: 378.0363
+        y: 229.0761
+        width: 148.937
+        height: 238.8477
+      alignment: 9
+      pivot: {x: 0.6409672, y: 0.6904979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.50477, y: -65.5}
+        - {x: -74.50477, y: -17.5}
+        - {x: -74.50477, y: 36.5}
+        - {x: -73.50477, y: 41.5}
+        - {x: -54.50477, y: 98.5}
+        - {x: -13.50477, y: 119.5}
+        - {x: 74.49524, y: 119.5}
+        - {x: 74.49524, y: -68.5}
+        - {x: 35.49523, y: -119.5}
+        - {x: 5.495232, y: -119.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f4810d2dc90974997f239b9ddab0cf
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_damage_05
+      rect:
+        serializedVersion: 2
+        x: 574.0761
+        y: 0.04290771
+        width: 259.8478
+        height: 251.9504
+      alignment: 9
+      pivot: {x: 0.509621, y: 0.3451357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.00002, y: -108.0181}
+        - {x: -130, y: -20.01813}
+        - {x: -130, y: 71.98187}
+        - {x: -25.00002, y: 70.98187}
+        - {x: 25.99998, y: 125.9819}
+        - {x: 81.99998, y: 125.9819}
+        - {x: 130, y: 108.9819}
+        - {x: 130, y: -11.01813}
+        - {x: 76.99998, y: -64.01813}
+        - {x: 42.99998, y: -126.0181}
+        - {x: 6.999985, y: -126.0181}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3319bb47342374a4d97565cd0098fb8a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_walk_04
+      rect:
+        serializedVersion: 2
+        x: 371.0761
+        y: 727.0761
+        width: 189.8477
+        height: 233.9016
+      alignment: 9
+      pivot: {x: 0.5658423, y: 0.5853909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.99999, y: -117.0269}
+        - {x: -95, y: -70.02692}
+        - {x: -95, y: 17.97308}
+        - {x: -91.99998, y: 23.97308}
+        - {x: -0.9999933, y: 116.9731}
+        - {x: 18.00001, y: 116.9731}
+        - {x: 95.00001, y: 95.97308}
+        - {x: 95.00001, y: -78.02692}
+        - {x: 87.00001, y: -105.0269}
+        - {x: -20.99999, y: -76.02692}
+        - {x: -39.99999, y: -117.0269}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c05d6d62a7be44af73b6ec810041b
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_walk_06
+      rect:
+        serializedVersion: 2
+        x: 529.0267
+        y: 254.0761
+        width: 196.9111
+        height: 226.8725
+      alignment: 9
+      pivot: {x: 0.5559525, y: 0.5594501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.48232, y: 31.48761}
+        - {x: -1.482323, y: 113.4876}
+        - {x: 36.51768, y: 113.4876}
+        - {x: 98.51768, y: 99.48761}
+        - {x: 98.51768, y: -12.51239}
+        - {x: 94.51768, y: -32.51239}
+        - {x: 84.51768, y: -66.51239}
+        - {x: 59.51768, y: -58.51239}
+        - {x: 52.51768, y: -45.51239}
+        - {x: 49.51768, y: -54.51239}
+        - {x: 47.51768, y: -62.51239}
+        - {x: 19.51768, y: -68.51239}
+        - {x: -27.48232, y: -70.51239}
+        - {x: -64.48232, y: -41.51239}
+        - {x: -29.48232, y: -73.51239}
+        - {x: -24.48232, y: -77.51239}
+        - {x: -27.48232, y: -90.51239}
+        - {x: -42.48233, y: -113.5124}
+        - {x: -54.48232, y: -113.5124}
+        - {x: -98.48232, y: -75.51239}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211fe5b5e6311f543ae519a56a98940b
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_damage_07
+      rect:
+        serializedVersion: 2
+        x: 728.0477
+        y: 254.0429
+        width: 213.8959
+        height: 210.881
+      alignment: 9
+      pivot: {x: 0.4836572, y: 0.4265775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.0043, y: -77.4834}
+        - {x: 60.00433, y: -105.4834}
+        - {x: -21.99567, y: -105.4834}
+        - {x: -82.99567, y: -68.4834}
+        - {x: -106.9957, y: 35.5166}
+        - {x: -106.9957, y: 55.5166}
+        - {x: -101.9957, y: 64.5166}
+        - {x: 2.004333, y: 105.5166}
+        - {x: 53.00433, y: 105.5166}
+        - {x: 107.0043, y: 76.5166}
+        - {x: 107.0043, y: 50.5166}
+        - {x: 99.00433, y: 39.5166}
+        - {x: 107.0043, y: -56.4834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f1d296748c3b4ba2529ca1e640020
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_damage_08
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 492.0597
+        width: 203.9135
+        height: 200.8642
+      alignment: 9
+      pivot: {x: 0.5417652, y: 0.4527451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.98351, y: -58.49181}
+        - {x: -101.9835, y: -28.49181}
+        - {x: -101.9835, y: 6.508186}
+        - {x: -87.98351, y: 41.50819}
+        - {x: 5.016495, y: 100.5082}
+        - {x: 40.01649, y: 100.5082}
+        - {x: 102.0165, y: 80.50819}
+        - {x: 102.0165, y: -100.4918}
+        - {x: -26.98351, y: -100.4918}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853d05cbbeb4ff3438e445a682f58e12
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_damage_02
+      rect:
+        serializedVersion: 2
+        x: 206.0761
+        y: 492.0761
+        width: 162.8971
+        height: 247.8478
+      alignment: 9
+      pivot: {x: 0.59807, y: 0.6250768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.524681, y: -76.00002}
+        - {x: 6.475319, y: -103}
+        - {x: -4.524681, y: -124}
+        - {x: -24.52468, y: -124}
+        - {x: -61.52468, y: -98.00001}
+        - {x: -81.52468, y: -30.00001}
+        - {x: -81.52468, y: 50.99999}
+        - {x: -18.52468, y: 124}
+        - {x: 14.47532, y: 124}
+        - {x: 80.47532, y: 104}
+        - {x: 81.47532, y: 93.99999}
+        - {x: 81.47532, y: -33.00001}
+        - {x: 60.47532, y: -57.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfbe39ebead86145845fd3588ffd3fb
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_damage_06
+      rect:
+        serializedVersion: 2
+        x: 378.0147
+        y: 483.0761
+        width: 226.9586
+        height: 241.8478
+      alignment: 9
+      pivot: {x: 0.4824022, y: 0.3676853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.49397, y: 46.99999}
+        - {x: -26.49397, y: 35.99999}
+        - {x: -28.49397, y: 49.99999}
+        - {x: -4.493965, y: 121}
+        - {x: 113.506, y: 121}
+        - {x: 113.506, y: -60.00001}
+        - {x: 55.50604, y: -121}
+        - {x: 0.5060349, y: -121}
+        - {x: -38.49397, y: -114}
+        - {x: -66.49397, y: -83.00001}
+        - {x: -113.494, y: 51.99999}
+        - {x: -113.494, y: 63.99999}
+        - {x: -105.494, y: 69.99999}
+        - {x: -71.49397, y: 68.99999}
+        - {x: -48.49397, y: 57.99999}
+        - {x: -44.49397, y: 53.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96ed7e85ae9a37469a7558f23efb041
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_chef_damage_04
+      rect:
+        serializedVersion: 2
+        x: 607.0761
+        y: 483.0761
+        width: 201.8971
+        height: 233.8478
+      alignment: 9
+      pivot: {x: 0.5865555, y: 0.4444082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.02469, y: -117}
+        - {x: -65.02469, y: -117}
+        - {x: -85.02469, y: -101}
+        - {x: -101.0247, y: -83.00001}
+        - {x: -101.0247, y: 38.99999}
+        - {x: -17.02469, y: 117}
+        - {x: 100.9753, y: 117}
+        - {x: 100.9753, y: -117}
+        - {x: 48.97531, y: -117}
+        - {x: -16.02469, y: -93.00001}
+        - {x: -40.02469, y: -59.00001}
+        - {x: -54.02469, y: -10.00001}
+        - {x: -64.02469, y: -28.00001}
+        - {x: -26.02469, y: -93.00001}
+        - {x: -26.02469, y: -97.00001}
+        - {x: -30.02469, y: -102}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769d9e51c1fd1b04c947e5fce09ef20f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_chef_damage_01: 21300002
+      zombie_chef_damage_02: 21300022
+      zombie_chef_damage_03: 21300010
+      zombie_chef_damage_04: 21300026
+      zombie_chef_damage_05: 21300012
+      zombie_chef_damage_06: 21300024
+      zombie_chef_damage_07: 21300018
+      zombie_chef_damage_08: 21300020
+      zombie_chef_walk_01: 21300006
+      zombie_chef_walk_02: 21300000
+      zombie_chef_walk_03: 21300004
+      zombie_chef_walk_04: 21300014
+      zombie_chef_walk_05: 21300008
+      zombie_chef_walk_06: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

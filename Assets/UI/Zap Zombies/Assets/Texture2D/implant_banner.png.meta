@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 55ff69444faa5be43b6f199847e91dc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: implant_banner
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 559
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: implant_banner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 559
+        height: 453.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 279.5, y: -226.9619}
+        - {x: -279.5, y: -226.9619}
+        - {x: -279.5, y: 212.0381}
+        - {x: -276.5, y: 216.0381}
+        - {x: -273.5, y: 217.0381}
+        - {x: -266.5, y: 217.0381}
+        - {x: -265.5, y: 218.0381}
+        - {x: -189.5, y: 218.0381}
+        - {x: -188.5, y: 217.0381}
+        - {x: -182.5, y: 218.0381}
+        - {x: -181.5, y: 219.0381}
+        - {x: -178.5, y: 219.0381}
+        - {x: -177.5, y: 220.0381}
+        - {x: -174.5, y: 220.0381}
+        - {x: -173.5, y: 221.0381}
+        - {x: -170.5, y: 221.0381}
+        - {x: -169.5, y: 222.0381}
+        - {x: -165.5, y: 222.0381}
+        - {x: -164.5, y: 223.0381}
+        - {x: -153.5, y: 224.0381}
+        - {x: -152.5, y: 225.0381}
+        - {x: -146.5, y: 225.0381}
+        - {x: -145.5, y: 226.0381}
+        - {x: -136.5, y: 226.0381}
+        - {x: -135.5, y: 227.0381}
+        - {x: -127.5, y: 227.0381}
+        - {x: -125.5, y: 225.0381}
+        - {x: -125.5, y: 223.0381}
+        - {x: -124.5, y: 222.0381}
+        - {x: -120.5, y: 222.0381}
+        - {x: -119.5, y: 221.0381}
+        - {x: -115.5, y: 221.0381}
+        - {x: -112.5, y: 220.0381}
+        - {x: -110.5, y: 218.0381}
+        - {x: 265.5, y: 218.0381}
+        - {x: 266.5, y: 217.0381}
+        - {x: 273.5, y: 217.0381}
+        - {x: 276.5, y: 216.0381}
+        - {x: 279.5, y: 212.0381}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5401a40aed63e0f4a8a348624a849c49
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      implant_banner: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

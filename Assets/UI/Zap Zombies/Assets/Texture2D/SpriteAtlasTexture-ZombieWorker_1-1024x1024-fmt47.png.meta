@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: 87b2d9d7ae6a52d468b8fed2405346cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_Worker_walk_16
+  - first:
+      213: 21300002
+    second: Zombie_Worker_walk_18
+  - first:
+      213: 21300004
+    second: Zombie_Worker_walk_07
+  - first:
+      213: 21300006
+    second: Zombie_Worker_walk_08
+  - first:
+      213: 21300008
+    second: Zombie_Worker_walk_09
+  - first:
+      213: 21300010
+    second: Zombie_Worker_walk_10
+  - first:
+      213: 21300012
+    second: Zombie_Worker_walk_11
+  - first:
+      213: 21300014
+    second: Zombie_Worker_walk_12
+  - first:
+      213: 21300016
+    second: Zombie_Worker_walk_13
+  - first:
+      213: 21300018
+    second: Zombie_Worker_walk_14
+  - first:
+      213: 21300020
+    second: Zombie_Worker_walk_15
+  - first:
+      213: 21300022
+    second: Zombie_Worker_walk_17
+  - first:
+      213: 21300024
+    second: Zombie_Worker_walk_19
+  - first:
+      213: 21300026
+    second: Zombie_Worker_walk_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_16
+      rect:
+        serializedVersion: 2
+        x: 0.01467133
+        y: 0.07612038
+        width: 149.9092
+        height: 190.8477
+      alignment: 9
+      pivot: {x: 0.6069362, y: 0.667673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.96928, y: -95.49998}
+        - {x: -74.96928, y: -89.49998}
+        - {x: -74.96928, y: 4.500015}
+        - {x: -66.96928, y: 18.50002}
+        - {x: -30.96928, y: 82.50002}
+        - {x: -6.969276, y: 95.50002}
+        - {x: 58.03072, y: 95.50002}
+        - {x: 66.03072, y: 94.50002}
+        - {x: 75.03072, y: 66.50002}
+        - {x: 75.03072, y: -42.49998}
+        - {x: 70.03073, y: -95.49998}
+        - {x: 3.030724, y: -95.49998}
+        - {x: -14.96928, y: -91.49998}
+        - {x: -24.96928, y: -95.49998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41419fb324e03243874361178499366
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_18
+      rect:
+        serializedVersion: 2
+        x: 152.0429
+        y: 0.0477047
+        width: 154.881
+        height: 189.9256
+      alignment: 9
+      pivot: {x: 0.6001841, y: 0.6973906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.48339, y: -80.01047}
+        - {x: -42.48339, y: -77.01048}
+        - {x: -42.48339, y: -67.01047}
+        - {x: -40.48339, y: -50.01048}
+        - {x: -40.48339, y: -27.01048}
+        - {x: -39.48339, y: -20.01048}
+        - {x: -53.48339, y: -42.01048}
+        - {x: -69.48339, y: -45.01048}
+        - {x: -77.48339, y: -45.01048}
+        - {x: -77.48339, y: 4.989525}
+        - {x: -43.48339, y: 94.98952}
+        - {x: 77.51661, y: 94.98952}
+        - {x: 77.51661, y: -66.01048}
+        - {x: 74.5166, y: -89.01048}
+        - {x: 39.51661, y: -91.01048}
+        - {x: 30.51661, y: -91.01048}
+        - {x: 18.51661, y: -95.01048}
+        - {x: 6.516609, y: -95.01048}
+        - {x: -19.48339, y: -75.01048}
+        - {x: -26.48339, y: -83.01048}
+        - {x: -32.48339, y: -84.01048}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38e377063e6e5842883d27cc9b74690
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_07
+      rect:
+        serializedVersion: 2
+        x: 309.0761
+        y: 0.0387516
+        width: 164.8675
+        height: 182.8851
+      alignment: 9
+      pivot: {x: 0.5454311, y: 0.7188187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.50988, y: -91.48132}
+        - {x: -82.50988, y: -47.48132}
+        - {x: -82.50988, y: 39.51868}
+        - {x: -43.50988, y: 91.51868}
+        - {x: 62.49012, y: 91.51868}
+        - {x: 82.49012, y: 86.51868}
+        - {x: 82.49012, y: -2.481316}
+        - {x: 55.49012, y: -76.48132}
+        - {x: 48.49012, y: -91.48132}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c441580e35bc4b953317de7eaef24
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_08
+      rect:
+        serializedVersion: 2
+        x: 476.0429
+        y: 0.07612038
+        width: 160.9303
+        height: 183.8477
+      alignment: 9
+      pivot: {x: 0.5527677, y: 0.7257302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.50808, y: -78.00001}
+        - {x: -80.50808, y: -49}
+        - {x: -80.50808, y: 54}
+        - {x: -20.50808, y: 92}
+        - {x: 76.49192, y: 92}
+        - {x: 80.49192, y: 89}
+        - {x: 80.49192, y: -6}
+        - {x: 69.49192, y: -92}
+        - {x: -18.50808, y: -92}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9578e74c5eaa6db41ab9657f2af85126
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_09
+      rect:
+        serializedVersion: 2
+        x: 794.0761
+        y: 0.02675056
+        width: 159.8971
+        height: 184.8971
+      alignment: 9
+      pivot: {x: 0.5498778, y: 0.7218785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.97531, y: -58.47531}
+        - {x: 19.97531, y: -71.47531}
+        - {x: -2.024689, y: -81.47531}
+        - {x: -31.02469, y: -68.47531}
+        - {x: -38.02469, y: -79.47532}
+        - {x: -63.02469, y: -74.47531}
+        - {x: -80.02469, y: -43.47531}
+        - {x: -80.02469, y: -13.47531}
+        - {x: -73.02469, y: 29.52469}
+        - {x: -24.02469, y: 88.52469}
+        - {x: -14.02469, y: 92.52469}
+        - {x: 67.97531, y: 92.52469}
+        - {x: 79.97531, y: 55.52469}
+        - {x: 79.97531, y: -12.47532}
+        - {x: 53.97531, y: -92.47531}
+        - {x: 24.97531, y: -92.47531}
+        - {x: 21.97531, y: -86.47531}
+        - {x: 22.97531, y: -62.47531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459bf75f0ba2e254dbf124626834318a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_10
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 600.0429
+        width: 161.8726
+        height: 187.9142
+      alignment: 9
+      pivot: {x: 0.5555227, y: 0.7102023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.01241, y: -38}
+        - {x: -81.01241, y: -35}
+        - {x: -81.01241, y: -4}
+        - {x: -77.01241, y: 30}
+        - {x: -26.01241, y: 94}
+        - {x: 70.98759, y: 94}
+        - {x: 80.98759, y: 48}
+        - {x: 80.98759, y: 15}
+        - {x: 52.98759, y: -60}
+        - {x: 52.98759, y: -77.99999}
+        - {x: 44.98759, y: -92}
+        - {x: 39.98759, y: -94}
+        - {x: 23.98759, y: -94}
+        - {x: 17.98759, y: -67.00001}
+        - {x: 8.987595, y: -77}
+        - {x: -27.01241, y: -89}
+        - {x: -39.01241, y: -94}
+        - {x: -47.01241, y: -94}
+        - {x: -55.01241, y: -86}
+        - {x: -57.01241, y: -30}
+        - {x: -61.01241, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b6d079de48e284eb2b396c2b7d7405
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_11
+      rect:
+        serializedVersion: 2
+        x: 794.0429
+        y: 187.0597
+        width: 163.881
+        height: 197.8642
+      alignment: 9
+      pivot: {x: 0.5672233, y: 0.7249432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.01661, y: -97.9918}
+        - {x: 24.01661, y: -85.9918}
+        - {x: 24.01661, y: -47.9918}
+        - {x: 14.01661, y: -68.9918}
+        - {x: -20.98339, y: -95.9918}
+        - {x: -25.98339, y: -98.9918}
+        - {x: -40.98339, y: -98.9918}
+        - {x: -51.98339, y: -94.9918}
+        - {x: -57.98339, y: -24.9918}
+        - {x: -62.98339, y: -34.9918}
+        - {x: -81.98339, y: -25.9918}
+        - {x: -81.98339, y: -10.9918}
+        - {x: -79.98339, y: 3.008202}
+        - {x: -73.98339, y: 38.0082}
+        - {x: -20.98339, y: 94.0082}
+        - {x: 1.016609, y: 99.0082}
+        - {x: 45.01661, y: 99.0082}
+        - {x: 80.01661, y: 83.0082}
+        - {x: 82.01661, y: 76.0082}
+        - {x: 82.01661, y: 0.008201599}
+        - {x: 59.01661, y: -80.9918}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5dc09b5586b514eb1af410fc80320a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_12
+      rect:
+        serializedVersion: 2
+        x: 469.0513
+        y: 186.0761
+        width: 162.8726
+        height: 196.8971
+      alignment: 9
+      pivot: {x: 0.582963, y: 0.7436568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.48759, y: -52.52469}
+        - {x: -81.48759, y: -47.52469}
+        - {x: -81.48759, y: 18.47531}
+        - {x: -39.48759, y: 97.47531}
+        - {x: -28.48759, y: 98.47531}
+        - {x: 77.51241, y: 98.47531}
+        - {x: 81.51241, y: 90.47531}
+        - {x: 81.51241, y: -29.52469}
+        - {x: 63.51241, y: -98.52469}
+        - {x: -46.4876, y: -98.52469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143ee3160ea842b458b05f93fc7b5789
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_13
+      rect:
+        serializedVersion: 2
+        x: 310.0761
+        y: 185.0761
+        width: 156.8971
+        height: 205.8477
+      alignment: 9
+      pivot: {x: 0.5858863, y: 0.7258951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.52469, y: -98}
+        - {x: -78.52469, y: -52}
+        - {x: -78.52469, y: 3}
+        - {x: -48.52469, y: 96}
+        - {x: -24.52469, y: 103}
+        - {x: 58.47531, y: 103}
+        - {x: 78.47531, y: 72}
+        - {x: 78.47531, y: -33}
+        - {x: 74.47531, y: -56}
+        - {x: 65.47531, y: -103}
+        - {x: -44.52469, y: -103}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae9b6e885b435d4595946e5f540f7be
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_14
+      rect:
+        serializedVersion: 2
+        x: 634.0457
+        y: 191.0761
+        width: 148.8782
+        height: 207.8971
+      alignment: 9
+      pivot: {x: 0.5974972, y: 0.6802589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.51521, y: -50.02469}
+        - {x: 28.51521, y: -55.02469}
+        - {x: 24.51521, y: -70.0247}
+        - {x: 20.51521, y: -84.02469}
+        - {x: -7.484795, y: -104.0247}
+        - {x: -55.48479, y: -104.0247}
+        - {x: -56.48479, y: -103.0247}
+        - {x: -72.48479, y: -55.02469}
+        - {x: -74.48479, y: -47.02469}
+        - {x: -74.48479, y: 55.97531}
+        - {x: -16.48479, y: 103.9753}
+        - {x: 73.5152, y: 103.9753}
+        - {x: 74.51521, y: 101.9753}
+        - {x: 74.51521, y: -57.02469}
+        - {x: 64.51521, y: -102.0247}
+        - {x: 44.51521, y: -102.0247}
+        - {x: 31.51521, y: -66.02469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b97061e6528247b575787601a21d9
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_15
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 193.0267
+        width: 148.8477
+        height: 203.9074
+      alignment: 9
+      pivot: {x: 0.6041332, y: 0.6643862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -51.98045}
+        - {x: 31.5, y: -80.98045}
+        - {x: 8.5, y: -90.98045}
+        - {x: -16.5, y: -77.98045}
+        - {x: -22.5, y: -96.98045}
+        - {x: -25.5, y: -101.9804}
+        - {x: -35.5, y: -101.9804}
+        - {x: -43.5, y: -100.9804}
+        - {x: -74.5, y: -64.98045}
+        - {x: -74.5, y: 62.01955}
+        - {x: -24.5, y: 102.0196}
+        - {x: 67.5, y: 102.0196}
+        - {x: 74.5, y: 85.01955}
+        - {x: 74.5, y: -78.98045}
+        - {x: 72.5, y: -94.98045}
+        - {x: 38.5, y: -93.98045}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f48b07247cfbd448d7c7dc54be04a6
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_17
+      rect:
+        serializedVersion: 2
+        x: 639.0129
+        y: 0.05763245
+        width: 152.9603
+        height: 188.8662
+      alignment: 9
+      pivot: {x: 0.6079164, y: 0.6853653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.49308, y: -26.49075}
+        - {x: -56.49308, y: -48.49075}
+        - {x: -76.49308, y: -48.49075}
+        - {x: -76.49308, y: 16.50925}
+        - {x: -45.49308, y: 94.50925}
+        - {x: 54.50692, y: 94.50925}
+        - {x: 76.50693, y: 88.50925}
+        - {x: 76.50693, y: -9.490753}
+        - {x: 68.50692, y: -91.49075}
+        - {x: 37.50692, y: -92.49075}
+        - {x: 35.50692, y: -84.49076}
+        - {x: 31.50692, y: -66.49075}
+        - {x: 32.50692, y: -54.49075}
+        - {x: 30.50692, y: -63.49075}
+        - {x: 29.50692, y: -86.49075}
+        - {x: 21.50692, y: -92.49075}
+        - {x: 17.50692, y: -94.49075}
+        - {x: 10.50692, y: -94.49075}
+        - {x: -15.49308, y: -63.49075}
+        - {x: -20.49308, y: -82.49075}
+        - {x: -24.49308, y: -88.49075}
+        - {x: -33.49308, y: -88.49075}
+        - {x: -41.49308, y: -84.49076}
+        - {x: -40.49308, y: -51.49075}
+        - {x: -38.49308, y: -20.49075}
+        - {x: -42.49308, y: -16.49075}
+        - {x: -48.49308, y: -9.490753}
+        - {x: -42.49308, y: -17.49075}
+        - {x: -39.49308, y: -23.49075}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0d6975b96ec5c4f926a20644df9aeb
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_19
+      rect:
+        serializedVersion: 2
+        x: 151.0429
+        y: 193.0267
+        width: 156.9303
+        height: 193.9303
+      alignment: 9
+      pivot: {x: 0.5987185, y: 0.6985666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.50808, y: -21.99192}
+        - {x: -56.50808, y: -41.99192}
+        - {x: -78.50808, y: -42.99192}
+        - {x: -78.50808, y: 7.00808}
+        - {x: -42.50808, y: 97.00807}
+        - {x: 78.49192, y: 97.00807}
+        - {x: 78.49192, y: -48.99192}
+        - {x: 67.49192, y: -83.99192}
+        - {x: 49.49192, y: -86.99192}
+        - {x: 40.49192, y: -78.99191}
+        - {x: 32.49192, y: -57.99192}
+        - {x: 33.49192, y: -54.99192}
+        - {x: 22.49192, y: -70.99192}
+        - {x: 28.49192, y: -91.99192}
+        - {x: 20.49192, y: -96.99192}
+        - {x: 7.49192, y: -96.99192}
+        - {x: 0.4919195, y: -94.99192}
+        - {x: -19.50808, y: -69.99192}
+        - {x: -25.50808, y: -78.99191}
+        - {x: -35.50808, y: -78.99191}
+        - {x: -43.50808, y: -72.99192}
+        - {x: -47.50808, y: -61.99192}
+        - {x: -41.50808, y: -17.99192}
+        - {x: -44.50808, y: -13.99192}
+        - {x: -42.50808, y: -17.99192}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8cf21d107c3a84c86d4c566bf6f154
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Worker_walk_20
+      rect:
+        serializedVersion: 2
+        x: 0.1142216
+        y: 399.0268
+        width: 159.859
+        height: 198.8971
+      alignment: 9
+      pivot: {x: 0.5935591, y: 0.7012331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.04374, y: -13.47532}
+        - {x: -43.04374, y: -21.47531}
+        - {x: -59.04374, y: -43.47531}
+        - {x: -80.04374, y: -36.47531}
+        - {x: -80.04374, y: -7.475311}
+        - {x: -76.04374, y: 31.52469}
+        - {x: -43.04374, y: 99.52469}
+        - {x: 79.95626, y: 99.52469}
+        - {x: 79.95626, y: -94.47531}
+        - {x: 58.95626, y: -99.47531}
+        - {x: -22.04374, y: -99.47531}
+        - {x: -45.04374, y: -66.47532}
+        - {x: -42.04374, y: -16.47531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ca4f07e3e5ad542a1ecc2837cd8068
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_Worker_walk_07: 21300004
+      Zombie_Worker_walk_08: 21300006
+      Zombie_Worker_walk_09: 21300008
+      Zombie_Worker_walk_10: 21300010
+      Zombie_Worker_walk_11: 21300012
+      Zombie_Worker_walk_12: 21300014
+      Zombie_Worker_walk_13: 21300016
+      Zombie_Worker_walk_14: 21300018
+      Zombie_Worker_walk_15: 21300020
+      Zombie_Worker_walk_16: 21300000
+      Zombie_Worker_walk_17: 21300022
+      Zombie_Worker_walk_18: 21300002
+      Zombie_Worker_walk_19: 21300024
+      Zombie_Worker_walk_20: 21300026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

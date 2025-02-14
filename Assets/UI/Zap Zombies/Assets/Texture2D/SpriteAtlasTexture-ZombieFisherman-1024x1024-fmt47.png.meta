@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 95e80ee8807bbe74aa730859c41d5502
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_FisherMan_walk_03
+  - first:
+      213: 21300002
+    second: zombie_FisherMan_damage_03
+  - first:
+      213: 21300004
+    second: zombie_FisherMan_damage_08
+  - first:
+      213: 21300006
+    second: zombie_FisherMan_damage_01
+  - first:
+      213: 21300008
+    second: zombie_FisherMan_damage_02
+  - first:
+      213: 21300010
+    second: zombie_FisherMan_damage_04
+  - first:
+      213: 21300012
+    second: zombie_FisherMan_damage_05
+  - first:
+      213: 21300014
+    second: zombie_FisherMan_damage_06
+  - first:
+      213: 21300016
+    second: zombie_FisherMan_damage_07
+  - first:
+      213: 21300018
+    second: zombie_FisherMan_walk_01
+  - first:
+      213: 21300020
+    second: zombie_FisherMan_walk_02
+  - first:
+      213: 21300022
+    second: zombie_FisherMan_walk_04
+  - first:
+      213: 21300024
+    second: zombie_FisherMan_walk_05
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_FisherMan_walk_03
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.04290771
+        width: 179.86
+        height: 234.881
+      alignment: 9
+      pivot: {x: 0.6695424, y: 0.5362592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.0061, y: -117.4834}
+        - {x: -42.0061, y: -117.4834}
+        - {x: -42.0061, y: -112.4834}
+        - {x: -77.00611, y: -38.4834}
+        - {x: -90.00611, y: 1.516602}
+        - {x: -90.00611, y: 59.5166}
+        - {x: -78.0061, y: 93.5166}
+        - {x: -58.0061, y: 117.5166}
+        - {x: 76.9939, y: 117.5166}
+        - {x: 89.9939, y: 72.5166}
+        - {x: 89.9939, y: -29.4834}
+        - {x: 76.9939, y: -67.4834}
+        - {x: 61.9939, y: -88.4834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6b1c39ae4f687409c3a3e2c115f2b0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_damage_03
+      rect:
+        serializedVersion: 2
+        x: 182.0477
+        y: 0.07611847
+        width: 158.8762
+        height: 210.8478
+      alignment: 9
+      pivot: {x: 0.7392694, y: 0.6256831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.48579, y: -105.5}
+        - {x: -79.48579, y: -44.5}
+        - {x: -79.48579, y: 86.5}
+        - {x: -70.48579, y: 105.5}
+        - {x: 62.51421, y: 105.5}
+        - {x: 79.51421, y: 102.5}
+        - {x: 79.51421, y: -44.5}
+        - {x: 74.51421, y: -57.5}
+        - {x: -22.48579, y: -105.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be541c9d067484847b06ae087eea364c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_damage_08
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0.07612228
+        width: 181.9239
+        height: 312.8478
+      alignment: 9
+      pivot: {x: 0.6788554, y: 0.5431519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.96194, y: -45.50001}
+        - {x: -90.96194, y: 16.49998}
+        - {x: -90.96194, y: 116.5}
+        - {x: -71.96193, y: 141.5}
+        - {x: -24.96194, y: 156.5}
+        - {x: 61.03806, y: 156.5}
+        - {x: 91.03806, y: 127.5}
+        - {x: 91.03806, y: 39.49998}
+        - {x: 80.03806, y: -38.50002}
+        - {x: 34.03806, y: -156.5}
+        - {x: 24.03806, y: -156.5}
+        - {x: 23.03806, y: -144.5}
+        - {x: 21.03806, y: -108.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87933ef6b6a5f5e4c8d655a921b42938
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_damage_01
+      rect:
+        serializedVersion: 2
+        x: 0.06211495
+        y: 563.0761
+        width: 182.8618
+        height: 331.8478
+      alignment: 9
+      pivot: {x: 0.6750339, y: 0.6024566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.493, y: -14.00002}
+        - {x: -91.493, y: 60.99998}
+        - {x: -91.493, y: 103}
+        - {x: -78.493, y: 138}
+        - {x: -63.493, y: 166}
+        - {x: 67.507, y: 166}
+        - {x: 78.507, y: 134}
+        - {x: 91.507, y: 116}
+        - {x: 91.507, y: 61.99998}
+        - {x: 69.507, y: -54.00002}
+        - {x: 28.507, y: -149}
+        - {x: 14.507, y: -166}
+        - {x: -6.492996, y: -166}
+        - {x: -14.493, y: -162}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f387f2ac4f2854db3ed84b41463575
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_damage_02
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0.07612038
+        width: 172.9239
+        height: 276.8478
+      alignment: 9
+      pivot: {x: 0.7141871, y: 0.6282293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.46194, y: -30.50002}
+        - {x: -86.46194, y: 25.49998}
+        - {x: -86.46194, y: 97.49998}
+        - {x: -42.46194, y: 138.5}
+        - {x: 50.53806, y: 138.5}
+        - {x: 86.53806, y: 110.5}
+        - {x: 86.53806, y: 12.49998}
+        - {x: 72.53806, y: -29.50002}
+        - {x: -6.461937, y: -138.5}
+        - {x: -10.46194, y: -138.5}
+        - {x: -13.46194, y: -137.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd38edfce0535241bd564960ec69b66
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_damage_04
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 511.0761
+        width: 171.9889
+        height: 239.8478
+      alignment: 9
+      pivot: {x: 0.7180697, y: 0.4082751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.99445, y: -67.00001}
+        - {x: -85.99445, y: -58.00001}
+        - {x: -85.99445, y: 73.99999}
+        - {x: -71.99445, y: 92.99999}
+        - {x: -32.99445, y: 120}
+        - {x: 32.00555, y: 120}
+        - {x: 63.00555, y: 112}
+        - {x: 86.00555, y: 61.99999}
+        - {x: 86.00555, y: -74.00001}
+        - {x: 37.00555, y: -116}
+        - {x: 32.00555, y: -120}
+        - {x: -3.994446, y: -120}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b56c161bc8a9843970e2ae507c4e72
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_damage_05
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 563.0761
+        width: 242.9379
+        height: 245.8478
+      alignment: 9
+      pivot: {x: 0.5083604, y: 0.3861084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.4689, y: -77.00001}
+        - {x: -121.4689, y: -30.00001}
+        - {x: -121.4689, y: -16.00001}
+        - {x: -117.469, y: 7.999992}
+        - {x: -121.4689, y: 12.99999}
+        - {x: -121.4689, y: 99.99999}
+        - {x: -102.4689, y: 123}
+        - {x: 33.53105, y: 123}
+        - {x: 47.53105, y: 105}
+        - {x: 82.53105, y: 48.99999}
+        - {x: 101.5311, y: 74.99999}
+        - {x: 116.5311, y: 91}
+        - {x: 120.531, y: 91}
+        - {x: 121.5311, y: 87.99999}
+        - {x: 121.5311, y: 65.99999}
+        - {x: 112.5311, y: -71.00001}
+        - {x: 50.53105, y: -123}
+        - {x: -49.46895, y: -123}
+        - {x: -66.46895, y: -88.00002}
+        - {x: -66.46895, y: -80.00001}
+        - {x: -64.46895, y: -80.00001}
+        - {x: -64.46895, y: -76.00001}
+        - {x: -65.46895, y: -79.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17f3a1700e3c8e4297e51d78bb5dfd9
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_damage_06
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 315.0761
+        width: 242.9379
+        height: 245.8478
+      alignment: 9
+      pivot: {x: 0.5083604, y: 0.3861084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.4689, y: -77.00001}
+        - {x: -121.4689, y: -30.00001}
+        - {x: -121.4689, y: -16.00001}
+        - {x: -117.469, y: 7.999992}
+        - {x: -121.4689, y: 12.99999}
+        - {x: -121.4689, y: 123}
+        - {x: 73.53105, y: 123}
+        - {x: 121.5311, y: 93.99999}
+        - {x: 121.5311, y: 30.99999}
+        - {x: 88.53105, y: -79.00001}
+        - {x: 29.53105, y: -123}
+        - {x: -43.46895, y: -123}
+        - {x: -66.46895, y: -88.00002}
+        - {x: -66.46895, y: -80.00001}
+        - {x: -64.46895, y: -80.00001}
+        - {x: -64.46895, y: -76.00001}
+        - {x: -65.46895, y: -79.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff49c4b385f4f4785af0957f62cd0a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_damage_07
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0.05820465
+        width: 190.9239
+        height: 247.915
+      alignment: 9
+      pivot: {x: 0.6468547, y: 0.3910283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.53807, y: 123.9843}
+        - {x: 86.53807, y: 91.98428}
+        - {x: 77.53807, y: 20.98428}
+        - {x: 95.53807, y: -7.015724}
+        - {x: 95.53807, y: -56.01572}
+        - {x: 82.53807, y: -79.01572}
+        - {x: 27.53807, y: -124.0157}
+        - {x: -0.4619293, y: -124.0157}
+        - {x: -83.46193, y: -81.01573}
+        - {x: -91.46194, y: -16.01572}
+        - {x: -95.46193, y: 4.984276}
+        - {x: -95.46193, y: 101.9843}
+        - {x: -65.46193, y: 123.9843}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dc2a04f1bd9984daaff9091f57538d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_walk_01
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 237.0761
+        width: 180.8477
+        height: 236.8478
+      alignment: 9
+      pivot: {x: 0.671415, y: 0.4852225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.500015, y: -118.5}
+        - {x: -38.49998, y: -118.5}
+        - {x: -38.49998, y: -117.5}
+        - {x: -64.49998, y: -53.50001}
+        - {x: -90.49998, y: 11.49999}
+        - {x: -90.49998, y: 60.49999}
+        - {x: -81.49998, y: 88.49999}
+        - {x: -34.49998, y: 118.5}
+        - {x: 57.50002, y: 118.5}
+        - {x: 90.50002, y: 75.49999}
+        - {x: 90.50002, y: -54.50001}
+        - {x: 77.50002, y: -103.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe384f525adde459afb6841784b547
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_walk_02
+      rect:
+        serializedVersion: 2
+        x: 428.0761
+        y: 315.0429
+        width: 179.8477
+        height: 235.881
+      alignment: 9
+      pivot: {x: 0.6751482, y: 0.5127887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.999992, y: -117.9834}
+        - {x: -38.99999, y: -117.9834}
+        - {x: -38.99999, y: -116.9834}
+        - {x: -37.99999, y: -112.9834}
+        - {x: -55.99999, y: -59.9834}
+        - {x: -89.99999, y: 0.01660156}
+        - {x: -89.99999, y: 80.0166}
+        - {x: -43.99999, y: 118.0166}
+        - {x: 54.00001, y: 118.0166}
+        - {x: 57.00001, y: 117.0166}
+        - {x: 90, y: 85.0166}
+        - {x: 90, y: -79.9834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e105db216ed77254d8b59720f90e5e69
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_walk_04
+      rect:
+        serializedVersion: 2
+        x: 610.0761
+        y: 279.0761
+        width: 176.8477
+        height: 229.8478
+      alignment: 9
+      pivot: {x: 0.6470191, y: 0.543507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.49999, y: -115}
+        - {x: -88.49999, y: -74}
+        - {x: -88.49999, y: 81}
+        - {x: -75.49999, y: 81}
+        - {x: -53.49999, y: 100}
+        - {x: -15.49999, y: 115}
+        - {x: 60.50001, y: 115}
+        - {x: 88.50001, y: 79}
+        - {x: 88.50001, y: -54}
+        - {x: 66.50001, y: -97.00001}
+        - {x: -19.49999, y: -115}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28d25fdf0ae31c4fb5e6a33a001de30
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_FisherMan_walk_05
+      rect:
+        serializedVersion: 2
+        x: 430.0597
+        y: 553.0513
+        width: 176.8642
+        height: 228.9058
+      alignment: 9
+      pivot: {x: 0.6300896, y: 0.5371148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.49181, y: -114.5042}
+        - {x: -88.49181, y: -32.50421}
+        - {x: -88.49181, y: 66.49579}
+        - {x: -60.49181, y: 114.4958}
+        - {x: 75.50819, y: 114.4958}
+        - {x: 88.50819, y: 112.4958}
+        - {x: 88.50819, y: -14.50421}
+        - {x: 53.50819, y: -78.50421}
+        - {x: 9.508193, y: -93.50421}
+        - {x: -14.49181, y: -106.5042}
+        - {x: -36.49181, y: -114.5042}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f41e587e12ee347812e31e23b1124f
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_FisherMan_damage_01: 21300006
+      zombie_FisherMan_damage_02: 21300008
+      zombie_FisherMan_damage_03: 21300002
+      zombie_FisherMan_damage_04: 21300010
+      zombie_FisherMan_damage_05: 21300012
+      zombie_FisherMan_damage_06: 21300014
+      zombie_FisherMan_damage_07: 21300016
+      zombie_FisherMan_damage_08: 21300004
+      zombie_FisherMan_walk_01: 21300018
+      zombie_FisherMan_walk_02: 21300020
+      zombie_FisherMan_walk_03: 21300000
+      zombie_FisherMan_walk_04: 21300022
+      zombie_FisherMan_walk_05: 21300024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

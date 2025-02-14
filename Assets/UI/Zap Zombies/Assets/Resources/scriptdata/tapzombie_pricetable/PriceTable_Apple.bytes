@@ -1,0 +1,9 @@
+CrystalId,BaseCrystal,BonusRate,NetCrystals,Price,PriceDc,EventNum,EventRate,Order,TagId,id,usd
+1,100,0,100,1,0,0,0,1,0,com.soulgame.zombie.diamond1,0.99
+2,60,0,60,6,0,0,0,2,0,com.soulgame.zombie.diamond6,0.99
+3,180,11,200,18,0,0,0,3,2,com.soulgame.zombie.diamond18,2.99
+4,300,17,350,30,0,0,0,4,0,com.soulgame.zombie.diamond30,4.99
+5,980,22,1200,98,0,0,0,5,0,com.soulgame.zombie.diamond98,14.99
+6,3280,28,4200,328,0,0,0,6,0,com.soulgame.zombie.diamond328,49.99
+7,6480,28,8500,648,0,0,0,7,3,com.soulgame.zombie.diamond648,99.99
+8,6480,28,8500,30,0,0,0,7,0,com.soulgame.zombie.monthcard,4.99

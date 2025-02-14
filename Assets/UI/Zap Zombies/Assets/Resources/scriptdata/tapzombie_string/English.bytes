@@ -1,0 +1,532 @@
+codeId,English
+bat001,DPS
+bat002,Tap
+bat003,"Available
+at Stage {0}"
+bat004,Get free rewards by watching ads!
+bat005,Play!
+bat006,No Thanks
+bat007,OK
+bat008,Free Rewards
+bat009,Free Gold
+bat010,Free Enzyme
+bat011,Free Crystals
+bat012,You got this reward!
+bat013,Free Item Ticket
+bat014,Free Item Ticket
+bat015,Are you sure you want to quit the game?
+bat016,Info
+her001,HEROES
+her002,JASON
+her003,AMY
+her004,KURT
+her005,ED
+her006,LARRY
+her007,Weapon
+her008,Machine Gun
+her009,Sniper Rifle
+her010,Cross Bow
+her011,Flame thrower
+her012,Mini Gun
+her013,Skill
+her014,Cross Fire
+her015,Serum Pack
+her016,Fatality
+her017,"One shot, two kills"
+her018,Drain
+her019,Damage
+her020,(Next Lv.{0})
+her021,Rate
+her022,sec
+her023,Base Crit
+her024,Base Pen
+her025,Magazine Size
+her026,Reload Time
+her027,Lv
+her028,Upgrade
+her029,Unlock!
+her030,Skill Up
+her031,Auto-shooting in {0} sec
+her032,Atk damage {1} for {0} sec
+her033,Crit chance {1} for {0} sec
+her034,Pen chance {1} for {0} sec
+her035,Get {1} Enzyme per tap for {0} sec
+her036,infinite
+her037,none
+her038,needs {0} secs to warm up
+her039,every tap
+her040,Cooldown
+her041,sec
+lab001,LAB
+lab002,Zombology
+lab003,Marksmanship
+lab004,Weapons
+lab005,Enzyme
+lab006,Gold
+lab007,Upgrade
+lab008,Lv
+lab009,Damage {0}
+lab010,Crit chance {0}
+lab011,Crit damage {0}
+lab012,Reward Enzyme {0}
+lab013,Gold storage {0}
+lab014,Next Lv
+lab015,Enhance your attack power!
+min001,MINE
+min002,Upgrade
+min003,{0} Gold/sec
+min004,"next lv, {0} Gold/sec"
+min005,{0} Gold/tap
+min006,Lv
+min007,Max
+min008,Collect
+min009,Next Lv
+fac001,FACTORY
+fac002,Upgrade
+fac003,ON
+fac004,OFF
+fac005,{0} ammo/sec
+fac006,"next lv, {0} ammo/sec"
+fac007,Lv
+itm001,ITEM SHOP
+itm002,Use
+itm003,Buy
+itm004,Enzyme Pack
+itm005,Gold Pack
+itm006,Reset Cooldown
+itm007,Eraser
+itm008,Acquire {0} Enzyme
+itm009,Acquire {0} Gold
+itm010,Reset all skill cooldowns
+itm011,Kill all zombies immediately
+itm012,Crystals
+itm013,No Banner Ads
+itm014,Get additional {0}% crystals
+itm015,Purchase Crystals
+itm016,Purchase Success!
+itm017,Purchase Failed
+itm018,error code
+itm019,yes
+itm020,no
+itm021,Confirm
+itm022,Boost Your Game Play With Awesome Items!
+itm023,Add Bullet
+itm024,Auto Attack
+itm025,Reducing Reload
+itm026,Offline Enzyme Boost
+itm027,Gold Producing Boost
+itm028,Special Ammo
+itm029,Magazine +{0}%
+itm030,Auto attack with ({0}/sec) for {1} sec
+itm031,Reload time -{0}%
+itm032,Offline Enzyme income +{0}%
+itm033,Gold income +{0}%
+itm034,Damage +{0}% for {1} sec
+itm035,(until next Awaken)
+itm036,Lv.
+itm037,Free
+itm038,Phantom Warp <color=#FFA500FF>{0}</color>
+itm039,"After Awaken, start at {0} stage
+(PERMANENT)"
+imp001,Implant
+imp002,Awaken
+imp003,Upgrade
+imp004,Stage
+imp005,Get Next Implant
+imp006,Q10 Pack
+imp007,Muscular Enhancement
+imp008,Signal Reception
+imp009,Night Vision
+imp010,Survival Instinct
+imp011,Target Analysis
+imp012,Inspiring Mentality
+imp013,Aggression
+imp014,Jason's Proficiency
+imp015,Amy's Proficiency
+imp016,Kurt's Proficiency
+imp017,Ed's Proficiency
+imp018,Larry's Proficiency
+imp019,Transfusion
+imp020,Sixth Sense
+imp021,Accuracy
+imp022,Obedience
+imp023,Teamwork
+imp024,Intelligence
+imp025,Vital Signs
+imp026,Adrenaline Pack
+imp027,MK Trans
+imp028,Damage <color=#ffA000>+{0}%</color>
+imp029,Zombie Reward Enzyme <color=#ffA000>+{0}%</color>
+imp030,Boss Reward Enzyme <color=#ffA000>+{0}%</color>
+imp031,Drone Activity <color=#ffA000>+{0}%</color>
+imp032,Boss HP <color=#ffA000>-{0}%</color>
+imp033,10X reward chance <color=#ffA000>{0}%</color>
+imp034,Crit chance <color=#ffA000>+{0}%</color>
+imp035,Offline Enzyme income <color=#ffA000>+{0}%</color>
+imp036,Crit damage <color=#ffA000>+{0}%</color>
+imp037,Jason's skill cooldown <color=#ffA000>{0}%</color>
+imp038,Amy's skill cooldown <color=#ffA000>{0}%</color>
+imp039,Kurt's skill cooldown <color=#ffA000>{0}%</color>
+imp040,Ed's skill cooldown <color=#ffA000>{0}%</color>
+imp041,Larry's skill cooldown <color=#ffA000>{0}%</color>
+imp042,Amy's skill duration <color=#ffA000>+{0}%</color>
+imp043,Kurt's skill duration <color=#ffA000>+{0}%</color>
+imp044,Ed's skill duration <color=#ffA000>+{0}%</color>
+imp045,Survivior upgrade cost<color=#ffA000>-{0}%</color>
+imp046,Mine upgrade cost<color=#ffA000>-{0}%</color>
+imp047,Lab upgrade cost <color=#ffA000>-{0}%</color>
+imp048,Biochip acquire Rate <color=#ffA000>+{0}%</color>
+imp049,Boss Time <color=#ffA000>+{0}%</color>
+imp050,Wave <color=#ffA000>-{0}</color>
+imp051,Use awaken to start over and get more Biochips.
+imp052,"Entering Awaken mode. You will have to sacrifice all your progress so far for new Biochips. Afterwards, you can purchase Implants with Biochips and get stronger"
+imp053,"*Your collected Implants, Biochips and crystals will remain even after the Awakening."
+imp054,Survivors' level bonus :
+imp055,Stage completion bonus :
+imp056,Implants boosting bonus :
+imp057,TOTAL :
+imp058,No Thanks!
+imp059,Let's do it
+imp060,Current Survivors
+imp061,Level up your survivors and go for more stages
+imp062,Awaken and get Biochips
+imp063,Purchase Implants and level up
+imp064,Much stronger Survivors
+imp065,The higher Survivor's level and the further stages you go means the more Biochips you'll get.
+imp066,"If you reach stage {0}, you can get more than {1} Biochips."
+imp067,Sell Implant
+imp068,Sell
+imp069,Sell the Implant to get
+imp070,{0} Biochips.
+sta0001,Abandoned City
+sta0002,Fuel Bunker
+sta0003,Seaside
+sta0004,Plagued Square
+sta0005,Mountain Trail
+sta0006,Broken Bridge
+sta0007,Mega Mall
+sta0008,Rooftop
+sta0009,Train Station
+trp001,Trophies
+trp002,Reach goals to earn rewards!
+trp003,"Claim
+Reward"
+trp004,Zombie Soup
+trp005,Tickle The Screen
+trp006,Blondy Goldie
+trp007,Is this Enzyme?
+trp008,Awaken Addict
+trp009,I'm good at this
+trp010,UNLIMITED POWER
+trp011,It's all about skills
+trp012,Potat...I mean Biochips
+trp013,Saved by the Drone
+trp014,Definitely NOT a Dentist
+trp015,Looking for DPS!
+trp016,It's NOT all about skills
+trp017,FOCUS ON THAT ONE!
+trp018,Critical Criticism
+trp019,Hunt down {0} zombies
+trp020,Tap screen {0} times
+trp021,Obtain {0} Gold
+trp022,Obtain {0} Enzyme
+trp023,Awaken {0} times
+trp024,Reach stage {0}
+trp025,Survivor upgraded {0} times
+trp026,Skill Up {0} times
+trp027,Obtain {0} Biochips
+trp028,Tap drones {0} times
+trp029,Implanted {0} Implants
+trp030,Reach {0} Auto DPS
+trp031,Use skills {0} times
+trp032,Hunt down {0} bosses
+trp033,Critical strike {0} times
+stt001,All time total
+stt002,Current
+stt003,Play time since the last Awaken
+stt004,Play time
+stt005,Highest stage reached
+stt006,Slayed zombies
+stt007,Slayed bosses
+stt008,Total damage
+stt009,Total Enzyme collected
+stt010,Total taps
+stt011,Total critical strikes
+stt012,Total penetrative shots
+stt013,Tap damage
+stt014,Auto DPS
+stt015,Jason Lv.
+stt016,Amy Lv.
+stt017,Kurt Lv.
+stt018,Ed Lv.
+stt019,Larry Lv.
+stt020,Total survivor upgrades
+stt021,Total skill upgrades
+stt022,Total lab upgrades
+stt023,Crit chance
+stt024,Bonus Crit damage
+stt025,Bonus damage
+stt026,Current Enzyme boost
+stt027,Current Gold storage bonus
+stt028,Produced special ammo
+stt029,Total Gold collected
+stt030,Awaken
+stt031,Total Biochips
+stt032,Total Implants
+stt033,Total Implant upgrades
+stt034,Total obtained crystals
+stt035,Total used crystals
+stt036,Tapped drones
+stt037,Total Gold from drones
+stt038,Total Enzyme from drones
+stt039,Highest stage
+stt040,Total skill used
+stt041,Share on facebook
+stt042,Share
+stt043,Message : 
+stt044,Enter Message
+stt045,Share Info
+stt046,Post successful
+stt047,Post failed
+stt048,Confirm
+cld001,Choose Save Data
+cld002,Cloud save is different to the local saved game. Choose one to continue.
+cld003,A. Client data
+cld004,B. Cloud data
+cld005,Data started at
+cld006,Last save at
+cld007,Reached stage
+cld008,Got Biochips
+cld009,Got cyrstals
+cld010,none
+cld011,Start new
+cld012,"CAUTION! Once you choose, you can't go back"
+cld013,Choose A
+cld014,Choose B
+cld015,Start new
+cld016,"Cloud save game exists. 
+
+Start a new game, or load from Cloud?"
+cld017,Cloud data
+cld018,New game
+set001,Setting
+set002,Sound
+set003,Music
+set004,On
+set005,Off
+set006,Notifications
+set007,Guide
+set008,Language
+set009,Stastics
+set010,Patch Ver
+set011,CS ID
+set012,Version
+upd001,Update Info
+upd002,Version {0} is updated
+upd003,"Your game version requires updating.
+Please go to {0}
+and update your game."
+upd004,"For better gameplay,
+Please go to {0}
+and update the game."
+upd005,Upgrade
+upd006,No
+upd007,Later
+abp001,Warning
+abp002,"Dear Survivor,
+
+If you turn back your machine's time and get rewards, you may have some disadvantages.
+
+In that case, your next awaken will return no Biochips.
+
+Please, play Zap Zombies for right way."
+abp003,Confirm
+abp004,You can't get Biochips for this Awaken. Do not abuse the game.
+abp005,We've spotted you. Game play might be restricted if you get caught for illegal approaches. Play game in the right way.
+rvi001,Review Info
+rvi002,"Are you enjoying game?
+
+Your review will make 
+Zap Zombies a better game.
+
+Would you mind taking 
+a moment to review us?"
+rvi003,Review
+rvi004,Later
+igl001,Processing
+csm001,Need Mail Setup
+csm002,"If you want to send issues, please check the E-mail Setup"
+csm003,Zap Zombies Support Ticket: 
+csm004,1) Device:
+csm005,2) Game ver(Data ver):
+csm006,3) OS ver:
+csm007,4) CSID:
+csm008,5) Downloaded Store:
+csm009,6) Mail Address:
+csm010,6) Issues:
+csm011,Support
+lon001,All Survivors' skills are ready.
+lon002,All skills are available. It's a party time.
+lon003,Waited for a long time. All skills are ready.
+lon004,"Tap now, and you will get {0} Enzyme."
+lon005,{0} Enzyme are stacked. It's a great deal of Enzyme.
+lon006,{0} Enzyme are waiting for you.
+lon007,You've completed some trophies. Get crystals.
+lon008,Play now and take your Crystals from the Trophy menu.
+lon009,"Play Zap Zombies now, and earn some Crystals."
+lon010,Full Enzyme! Play Zap zombies now and collect your Enzyme.
+lon011,Survivors have struggled to earn {0} Enzyme . It's the maximum count.
+lon012,Play now. Your Enzyme is full.
+lon013,Survivors reach their limit. They need your help!
+lon014,More Zombies out there! Help Survivors!
+lon015,Massive Zombie Attack! Survivors need your help. More than anytime!
+ntu001,Survivor Level Up
+ntu002,Use Skill
+ntu003,Use Item
+ntu004,Gold Mining
+ntu005,Research Project
+ntu006,Boss Battle
+ntu007,Boss Battle Failed
+ntu008,Retry
+ntu009,Earn Enzyme by killing Zombies. Use Enzyme to level up Survivor.
+ntu010,Jason is now level 2. Level up your Survivor with Enzyme at anytime.
+ntu011,Each Survivors have their own skills. Try Jason! His skill will trigger auto-shooting for a while.
+ntu012,A skill needs Cooldown after it has been used. Try other Survivors' skills meanwhile.
+ntu013,There are many useful items in Zap Zombies. Use Reset Cooldown for free.
+ntu014,Reset Cooldown makes all skills in ready.
+ntu015,"Besides, Zap Zombies has lots of items to assist you in many situations."
+ntu016,Gold is an important resource like Enzyme. Upgrade collecting speed and collect Gold faster.
+ntu017,Gold can be utilized under Lab menu. Mine more Gold by tapping the mining screen.
+ntu018,Find 4 research subjects under the Lab menu. And Upgrade Zombology.
+ntu019,Attacking power of all Survivors has been increased! Empower your Survivors by upgrading each research subjects.
+ntu020,5th and 10th battle of each stage are the boss battle. You must kill all zombies in 30 seconds to move to next stage.
+ntu021,Boss Battle Cleared! Kill the boss zombie in the limited time will available you to move to next stage with tons of Enzyme.
+ntu022,Boss Battle Failed! Now Entering infinite battle mode.
+ntu023,Restarting the boss battle. Tap the Retry button
+ntu024,You failed boss battle again. Upgrade Survivors or Lab at infinite battle mode and challenge the battle again. Tap the Retry button whenever you feel ready.
+hwp001,Halloween Event
+hwp002,No thanks
+hwp003,Buy now
+Dyn001,Drone: Received {0} Enzymes
+Dyn002,Drone: Received {0} Gold
+Dyn003,Drone: Received {0} Crystals
+Dyn004,Reward: Received {0} Enzymes
+Dyn005,Reward: Received {0} Gold
+Dyn006,Reward: Recieved {0} Crystals
+Dyn007,Offline Enzyme: Received {0} Enzymes
+Dyn008,Facebook Like: Receive {0} Crystals
+Dyn009,Acquired Trophy!
+Dyn010,Present: Recieved {0} Enzymes
+Dyn011,Present: Received {0} Gold
+Dyn012,Present: Received {0} Crystals
+Fcb001,Log In with Facebook
+Fcb002,Guest Play
+Fcb003,Log Out
+Fcb004,Log In
+Fcb005,Would you like to play game without logging in with Facebook?
+Fcb006,Failed to Log In to Your Facebook Account
+Fcb007,Successfully Logged Out from Your Facebook Account
+Fcb008,Successfully Logged In to Your Facebook Account
+Fcb009,Send a Gift
+Fcb010,Your Friend Needs Your Help!
+Fcb011,You've Sent Your Friend a Gift!
+Fcb012,We couldn't send a gift.
+Fcb013,Choose Friends for a Gift
+Fcb014,Reciprocate the Gift
+Fcb015,Send Your Friend a Gift too!
+Fcb016,Invite Friends
+Fcb017,Invite Your Friends!
+Fcb018,Successfully Sent the Invitation to Selected Friends
+Fcb019,Failed to Invite Friends
+Fcb020,Select Friends
+Fcb021,Send
+Fcb022,Select All
+Fcb023,You've choose {0} Friends!
+Fcb024,You can select up to 50 people.
+Fcb025,Leaderboard
+Fcb026,Win a Facebook friend and get rewarded!!
+Fcb027,Myself
+Fcb028,Stage {0}
+Fcb029,"To use the Facebook leaderboard , you will need to login with Facebook."
+Fcb030,Please allow permission request.
+Fcb031,Allow Permission
+itm040,"Do you want to do Super-Awaken by using {0} Crystals? If you do Super-Awaken, You'll  receive {1) additional biochip."
+itm041,Free Crystals +{0}
+itm042,Like Us on Facebook and Earn Free Crystal!
+itm043,Thank You
+itm044,Thank You for Liking Us on Facebook
+itm045,Falied to Like Zap Zombies App Page. Try Again.
+itm046,Enzyme Booster
+itm047,Watch Ads and Earn Extra {1}% of Enzymes for {0}mins!
+itm048,{0}% Enzyme Booster is On!
+itm049,Remaining Time
+itm050,{0} mins
+itm051,Like
+itm052,Watch Ads
+itm053,We are preparing the Ad channel. Try It Again.
+itm054,+10
+itm055,+50
+goldMinePush,The gold mine is full! Come back!
+tip,Message
+backContent,"Turn on notification, and come back when gold mine is full."
+remindMe,OK
+iapItem1,Starter Pack
+iapItem2,Tiny Pack
+iapItem3,Small Pack
+iapItem4,Medium Pack
+iapItem5,Big Pack
+iapItem6,Huge Pack
+iapItem7,Super Huge Pack
+iapItem8,Month Card
+iapItem9,Remove Ad
+goldMax,Mine Capacity
+goldMaxNextLevel,Next Capacity
+fullFillTime,Full Fill Time
+GenerateEnzymesWhenTapping,BUFF: Extra Enzymes When Tapping!!
+IncreaseHeroPenetrationChance,BUFF: Penetrate Chance Raises!!
+IncreaseHeroCriticalChance,BUFF: Critical Chance Raises!!
+IncreaseHeroAttackDamageMultiplier,BUFF: Multiplicate Hero Damage!!
+unkonwnMsg,Unknown
+ADReward,Go!
+offlineReward,Offline Reward
+getReward,Go!
+offlineGetReward,”When you’re offline, you get:”
+doubleOfflineReward,watch ads to double them
+offlineGold,Offline Gold：Get {0} Gold
+goldMineFull,Gold Mine Full
+ImplantTitle,Awaken
+ImplantFTUE1,Great job! Now you can Awaken: start over the game and gain Biochips.
+ImplantFTUE2,You can spend Biochips to buy Implant which provides permanent boost.
+ImplantFTUE3,"You can Awaken at any time. When you feel killing zombies too slow, Awaken!"
+ImplantFTUE4,One more thing: Jason's skill gets more powerful after Awaken. Go and try!
+jasonAwaken1,<color=#FFA500FF>{0}</color> bullets per auto firing
+jasonAwaken2,next awaken <color=#FFA500FF>{0}</color> bullets
+settingTitle,Setting
+purchased, Purchased
+offlineDoulbe,Double!
+requireJasonLevel,Jason Level <color=#FF4545>{0}</color> is required
+dailyDiamondTitle,Month Card Reward
+monthCardReward,Here is your month card reward:
+monthCardLeftDays,{0} days left.
+loginRewardTitle,Login Reward
+welcomeBack,Welcome Back!
+loginRewardContext,You’ll get random reward everyday
+open,Open!
+dailyADRewardContext,get one more reward after watch a video?
+monthCardBonus,Get 30 crystals everyday in 30 days
+removeAdVip,Remove the interstitial ad between the Levels
+challengeTitle, Daily Challenge
+challengeContext, Save all the drones in 20 seconds! As fast as you can!
+challengeBegin,Go!
+challengeEnd,Finish
+challengeEndContext, Challenge Finish! {0:F2} seconds Used!You get {1} crystals!
+gamePause, Game Pause
+gamePauseTip, Continue to Fight!
+continue, Go！
+rateUs,RATE US
+enjoyingZapZombies,Enjoying Zap Zombies?
+notReally,Not really
+loveIt,Love it !
+rateUs5StarsOnGooglePlay,Rate us 5 stars on Google Play？
+nextTime,Next time
+sure,Sure !

@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: 3621e2ea6f65bb74db40fe87da1f4fe0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: semiboldit_r
+  - first:
+      213: 21300002
+    second: semiboldit_s
+  - first:
+      213: 21300004
+    second: semiboldit_b
+  - first:
+      213: 21300006
+    second: semiboldit_e
+  - first:
+      213: 21300008
+    second: semiboldit_j
+  - first:
+      213: 21300010
+    second: semiboldit_M_up
+  - first:
+      213: 21300012
+    second: semiboldit_a
+  - first:
+      213: 21300014
+    second: semiboldit_dot
+  - first:
+      213: 21300016
+    second: semiboldit_u
+  - first:
+      213: 21300018
+    second: semiboldit_w
+  - first:
+      213: 21300020
+    second: semiboldit_k
+  - first:
+      213: 21300022
+    second: semiboldit_h
+  - first:
+      213: 21300024
+    second: semiboldit_g
+  - first:
+      213: 21300026
+    second: semiboldit_q
+  - first:
+      213: 21300028
+    second: semiboldit_t
+  - first:
+      213: 21300030
+    second: semiboldit_f
+  - first:
+      213: 21300032
+    second: semiboldit_6
+  - first:
+      213: 21300034
+    second: semiboldit_n
+  - first:
+      213: 21300036
+    second: semiboldit_0
+  - first:
+      213: 21300038
+    second: semiboldit_4
+  - first:
+      213: 21300040
+    second: semiboldit_d
+  - first:
+      213: 21300042
+    second: semiboldit_y
+  - first:
+      213: 21300044
+    second: semiboldit_m
+  - first:
+      213: 21300046
+    second: semiboldit_l
+  - first:
+      213: 21300048
+    second: semiboldit_T_up
+  - first:
+      213: 21300050
+    second: semiboldit_9
+  - first:
+      213: 21300052
+    second: semiboldit_p
+  - first:
+      213: 21300054
+    second: semiboldit_B_up
+  - first:
+      213: 21300056
+    second: semiboldit_8
+  - first:
+      213: 21300058
+    second: semiboldit_o
+  - first:
+      213: 21300060
+    second: semiboldit_c
+  - first:
+      213: 21300062
+    second: semiboldit_x
+  - first:
+      213: 21300064
+    second: semiboldit_1
+  - first:
+      213: 21300066
+    second: semiboldit_z
+  - first:
+      213: 21300068
+    second: semiboldit_5
+  - first:
+      213: 21300070
+    second: semiboldit_3
+  - first:
+      213: 21300072
+    second: semiboldit_7
+  - first:
+      213: 21300074
+    second: semiboldit_2
+  - first:
+      213: 21300076
+    second: semiboldit_v
+  - first:
+      213: 21300078
+    second: semiboldit_K_up
+  - first:
+      213: 21300080
+    second: semiboldit_i
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: semiboldit_r
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80.07612
+        width: 50
+        height: 76.86975
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5193705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -38.51099}
+        - {x: -25, y: -38.51099}
+        - {x: -25, y: 35.48901}
+        - {x: -18, y: 38.48901}
+        - {x: 25, y: 38.48901}
+        - {x: 25, y: -2.510994}
+        - {x: 6, y: -32.51099}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00907d24210a58947ad5641272b5849d
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_s
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0.07612038
+        width: 52
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5256912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -39}
+        - {x: -26, y: -34}
+        - {x: -26, y: 30}
+        - {x: -11, y: 39}
+        - {x: 23, y: 39}
+        - {x: 26, y: 35}
+        - {x: 26, y: -23}
+        - {x: 12, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db72c1114435e3b4fbe54fcfe7f93ee8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_b
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 366.0761
+        width: 59
+        height: 95.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4267477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -48.02468}
+        - {x: -29.5, y: -41.02468}
+        - {x: -29.5, y: 46.97532}
+        - {x: -23.5, y: 47.97532}
+        - {x: 25.5, y: 47.97532}
+        - {x: 29.5, y: 44.97532}
+        - {x: 29.5, y: -44.02468}
+        - {x: 27.5, y: -48.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a948b9b9155754c8a31450befae53f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_e
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 270.0761
+        width: 56
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5256912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -39}
+        - {x: -28, y: -35}
+        - {x: -28, y: 21}
+        - {x: -24, y: 39}
+        - {x: 26, y: 39}
+        - {x: 28, y: 32}
+        - {x: 28, y: -37}
+        - {x: 18, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d21905070916c46ba6f1c3dd5b7aa5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_j
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 350.0761
+        width: 52
+        height: 112.884
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5219861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -56.51812}
+        - {x: -26, y: -55.51812}
+        - {x: -26, y: -16.51812}
+        - {x: -12, y: 50.48188}
+        - {x: -2, y: 56.48188}
+        - {x: 19, y: 56.48188}
+        - {x: 26, y: 51.48188}
+        - {x: 26, y: 8.48188}
+        - {x: 13, y: -51.51812}
+        - {x: -1, y: -56.51812}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc0f0fe6d319a345be80edcb34c1307
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_M_up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.07612038
+        width: 85
+        height: 92.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4299929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: -46.5}
+        - {x: -42.5, y: -43.5}
+        - {x: -42.5, y: 35.5}
+        - {x: -41.5, y: 46.5}
+        - {x: 42.5, y: 46.5}
+        - {x: 42.5, y: -21.5}
+        - {x: 34.5, y: -46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cd89bb5a00d0c41a26098f7096a106
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_a
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 290.0761
+        width: 61
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5256912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -39}
+        - {x: -30.5, y: -31}
+        - {x: -30.5, y: 29}
+        - {x: -6.5, y: 39}
+        - {x: 30.5, y: 39}
+        - {x: 30.5, y: -19}
+        - {x: 26.5, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc78f265a65587f478a809058148b836
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_dot
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.05412674
+        width: 33
+        height: 45.86975
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8926551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -22.989}
+        - {x: -16.5, y: -20.989}
+        - {x: -16.5, y: 21.011}
+        - {x: -15.5, y: 23.011}
+        - {x: 9.5, y: 23.011}
+        - {x: 16.5, y: 17.011}
+        - {x: 16.5, y: -13.989}
+        - {x: 11.5, y: -21.989}
+        - {x: 5.5, y: -22.989}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a92f258367d84dac1cf22fb5e71bd
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_u
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346.0761
+        width: 60
+        height: 76.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5325319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -38.5}
+        - {x: -30, y: -30.5}
+        - {x: -30, y: 23.5}
+        - {x: -23, y: 38.5}
+        - {x: 25, y: 38.5}
+        - {x: 30, y: 34.5}
+        - {x: 30, y: -2.5}
+        - {x: 28, y: -27.5}
+        - {x: 23, y: -38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0ad6dadc63c145825948d1206b4af
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_w
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174.0761
+        width: 79
+        height: 75.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5260262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -38.02469}
+        - {x: -39.5, y: -37.02469}
+        - {x: -39.5, y: 36.97531}
+        - {x: -34.5, y: 37.97531}
+        - {x: 39.5, y: 37.97531}
+        - {x: 39.5, y: -1.024689}
+        - {x: 22.5, y: -35.02469}
+        - {x: 17.5, y: -38.02469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0e0dc6468eceb4e91594de4123b891
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_k
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95.02675
+        width: 62
+        height: 94.9465
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4210081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -47.5}
+        - {x: -31, y: -47.5}
+        - {x: -31, y: 12.5}
+        - {x: -27, y: 35.5}
+        - {x: -18, y: 47.5}
+        - {x: 13, y: 47.5}
+        - {x: 31, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639771eee317a5143bbb0a4d7b094437
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_h
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 193.0267
+        width: 61
+        height: 94.9465
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4210081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -47.5}
+        - {x: -30.5, y: -47.5}
+        - {x: -30.5, y: 15.5}
+        - {x: -23.5, y: 47.5}
+        - {x: 8.5, y: 47.5}
+        - {x: 13.5, y: 40.5}
+        - {x: 23.5, y: 25.5}
+        - {x: 30.5, y: 21.5}
+        - {x: 30.5, y: -30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb954cc5ee7c384f95437dee2073e32
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_g
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0.07612038
+        width: 63
+        height: 95.86287
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6146684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -48.00755}
+        - {x: -31.5, y: -44.00756}
+        - {x: -31.5, y: 27.99244}
+        - {x: -9.5, y: 47.99244}
+        - {x: 31.5, y: 47.99244}
+        - {x: 31.5, y: -28.00756}
+        - {x: 14.5, y: -43.00756}
+        - {x: 4.5, y: -48.00755}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467bf79768f88147b9c0674fa2e418d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_q
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193.0761
+        width: 61
+        height: 94.86287
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6106065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -47.50755}
+        - {x: -30.5, y: -30.50755}
+        - {x: -30.5, y: 32.49245}
+        - {x: -25.5, y: 47.49245}
+        - {x: 22.5, y: 47.49245}
+        - {x: 30.5, y: 43.49245}
+        - {x: 30.5, y: -7.507549}
+        - {x: 23.5, y: -44.50755}
+        - {x: 15.5, y: -47.50755}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa575c2a404415741987f43b58e6dd96
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_t
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 92.07612
+        width: 46
+        height: 87.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -44}
+        - {x: -23, y: -34}
+        - {x: -23, y: 33}
+        - {x: -7, y: 44}
+        - {x: 17, y: 44}
+        - {x: 23, y: 36}
+        - {x: 23, y: -8}
+        - {x: 20, y: -31}
+        - {x: 13, y: -44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446998999d1c55240a672030806df1e4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_f
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 350.0761
+        width: 53
+        height: 95.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4163199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -48.02468}
+        - {x: -26.5, y: -48.02468}
+        - {x: -26.5, y: 25.97532}
+        - {x: -19.5, y: 47.97532}
+        - {x: 26.5, y: 47.97532}
+        - {x: 26.5, y: 6.975316}
+        - {x: 24.5, y: -8.024685}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45ed7f44cd2da147aca3cbc01fb290a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 370.0761
+        width: 59
+        height: 91.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4453227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -46.02468}
+        - {x: -29.5, y: -39.02468}
+        - {x: -29.5, y: 15.97532}
+        - {x: -11.5, y: 40.97532}
+        - {x: -2.5, y: 45.97532}
+        - {x: 24.5, y: 45.97532}
+        - {x: 29.5, y: 43.97532}
+        - {x: 29.5, y: -29.02468}
+        - {x: 14.5, y: -46.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b495f07ff8b814c4a8f5905949702e45
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_n
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192.0267
+        width: 61
+        height: 76.91688
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5196941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -38.48519}
+        - {x: -30.5, y: -38.48519}
+        - {x: -30.5, y: 17.51481}
+        - {x: -26.5, y: 38.51481}
+        - {x: 30.5, y: 38.51481}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb1cc0a8de7ffd478e282e4484d1c85
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 282.0761
+        width: 60
+        height: 91.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4453227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -46.02468}
+        - {x: -30, y: -40.02468}
+        - {x: -30, y: 28.97532}
+        - {x: -18, y: 45.97532}
+        - {x: 21, y: 45.97532}
+        - {x: 30, y: 39.97532}
+        - {x: 30, y: -23.02468}
+        - {x: 24, y: -46.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e153c0b92bb024194b531ac14e2860
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 190.0761
+        width: 61
+        height: 89.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4441063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -45.02468}
+        - {x: -30.5, y: -26.02468}
+        - {x: -30.5, y: 7.975315}
+        - {x: -5.5, y: 44.97532}
+        - {x: 30.5, y: 44.97532}
+        - {x: 30.5, y: -30.02468}
+        - {x: 16.5, y: -45.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5f71bb72b464241b5296cc0f42ece0
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_d
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0.07612038
+        width: 65
+        height: 95.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4267477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -48.02468}
+        - {x: -32.5, y: -43.02468}
+        - {x: -32.5, y: 10.97532}
+        - {x: -5.5, y: 47.97532}
+        - {x: 29.5, y: 47.97532}
+        - {x: 32.5, y: 46.97532}
+        - {x: 32.5, y: -43.02468}
+        - {x: 20.5, y: -48.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effdf09e2d5f9484e98ebaa8ea4c699f
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_y
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95.07612
+        width: 65
+        height: 95.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6251985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -48}
+        - {x: -32.5, y: -48}
+        - {x: -32.5, y: 41}
+        - {x: -21.5, y: 48}
+        - {x: 31.5, y: 48}
+        - {x: 32.5, y: 45}
+        - {x: 32.5, y: 8}
+        - {x: 8.5, y: -33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1271e90f3ef354eae1d92a26874fe3
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_m
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95.07612
+        width: 83
+        height: 76.86975
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5193705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -38.51099}
+        - {x: -41.5, y: -38.51099}
+        - {x: -41.5, y: 29.48901}
+        - {x: -40.5, y: 38.48901}
+        - {x: 31.5, y: 38.48901}
+        - {x: 41.5, y: 29.48901}
+        - {x: 41.5, y: -37.51099}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0c8de6b30db024cbd3eda4408f46a6
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_l
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0.07612038
+        width: 42
+        height: 94.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4207069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -47.52468}
+        - {x: -21, y: -47.52468}
+        - {x: -21, y: 13.47532}
+        - {x: -10, y: 47.47532}
+        - {x: 16, y: 47.47532}
+        - {x: 21, y: 41.47532}
+        - {x: 21, y: 15.47532}
+        - {x: 13, y: -26.52468}
+        - {x: 10, y: -40.52468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ed63cca94f50f45be53caa52c67d5f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_T_up
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 271.0761
+        width: 61
+        height: 92.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4299929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -46.5}
+        - {x: -30.5, y: -42.5}
+        - {x: -30.5, y: 42.5}
+        - {x: -26.5, y: 46.5}
+        - {x: 28.5, y: 46.5}
+        - {x: 30.5, y: 43.5}
+        - {x: 30.5, y: -18.5}
+        - {x: 11.5, y: -46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628bad8d39646e46a5815a8c1e3bace
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 384.0761
+        width: 59
+        height: 91.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4455621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -46}
+        - {x: -29.5, y: -46}
+        - {x: -29.5, y: 32}
+        - {x: -17.5, y: 43}
+        - {x: -10.5, y: 46}
+        - {x: 19.5, y: 46}
+        - {x: 29.5, y: 36}
+        - {x: 29.5, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6649d62f34f346543ba874c89276fab8
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_p
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 95.07612
+        width: 65
+        height: 94.86751
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6105766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -47.50987}
+        - {x: -32.5, y: -46.50987}
+        - {x: -32.5, y: 42.49013}
+        - {x: -16.5, y: 47.49013}
+        - {x: 29.5, y: 47.49013}
+        - {x: 32.5, y: 41.49013}
+        - {x: 32.5, y: -16.50987}
+        - {x: 2.5, y: -47.50987}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b21bd628000974da33742e1710a8bd
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_B_up
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0.07612038
+        width: 63
+        height: 92.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4299929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -46.5}
+        - {x: -31.5, y: -46.5}
+        - {x: -31.5, y: 35.5}
+        - {x: -23.5, y: 46.5}
+        - {x: 31.5, y: 46.5}
+        - {x: 31.5, y: -29.5}
+        - {x: 29.5, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e5acc082dc594fa91e3d107a9cbdc
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252.0761
+        width: 61
+        height: 91.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4455621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -46}
+        - {x: -30.5, y: -46}
+        - {x: -30.5, y: 30}
+        - {x: -25.5, y: 46}
+        - {x: 21.5, y: 46}
+        - {x: 30.5, y: 38}
+        - {x: 30.5, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4954458080614f84cae3fd92a6f23590
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_o
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 290.0761
+        width: 60
+        height: 77.86568
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5255702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -39.00896}
+        - {x: -30, y: -37.00896}
+        - {x: -30, y: 27.99104}
+        - {x: -18, y: 35.99104}
+        - {x: -7, y: 38.99104}
+        - {x: 20, y: 38.99104}
+        - {x: 30, y: 32.99104}
+        - {x: 30, y: -27.00896}
+        - {x: 15, y: -39.00896}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a3432841d5964bb95aef36c975369
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_c
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 370.0761
+        width: 54
+        height: 77.86751
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5255579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -39.00987}
+        - {x: -27, y: -37.00987}
+        - {x: -27, y: 20.99013}
+        - {x: -12, y: 38.99013}
+        - {x: 22, y: 38.99013}
+        - {x: 27, y: 34.99013}
+        - {x: 27, y: -8.009872}
+        - {x: 23, y: -39.00987}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdad1d9fe220364aa9caec113de712d
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_x
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 98.02675
+        width: 65
+        height: 75.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5266767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -37.97532}
+        - {x: -32.5, y: -35.97532}
+        - {x: -32.5, y: 34.02468}
+        - {x: -31.5, y: 38.02468}
+        - {x: 32.5, y: 38.02468}
+        - {x: 32.5, y: -25.97532}
+        - {x: 29.5, y: -37.97532}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e72cfcc93fff4ebb06612e789f95e
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_1
+      rect:
+        serializedVersion: 2
+        x: 534.0761
+        y: 0.07612038
+        width: 43.92388
+        height: 89.89713
+      alignment: 9
+      pivot: {x: 0.4308335, y: 0.4441063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.03806, y: -45.02468}
+        - {x: -22.03806, y: -38.02468}
+        - {x: -22.03806, y: 33.97532}
+        - {x: -4.038061, y: 44.97532}
+        - {x: 16.96194, y: 44.97532}
+        - {x: 21.96194, y: 40.97532}
+        - {x: 21.96194, y: -11.02468}
+        - {x: 20.96194, y: -39.02468}
+        - {x: 7.961939, y: -45.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c6c5cc4f5e9304caaf629c0d9f2d90
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_z
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 192.0761
+        width: 60
+        height: 75.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5260262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -38.02469}
+        - {x: -30, y: -38.02469}
+        - {x: -30, y: 13.97531}
+        - {x: -22, y: 37.97531}
+        - {x: 29, y: 37.97531}
+        - {x: 30, y: 35.97531}
+        - {x: 30, y: -35.02469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f7f44554dcd8f4e8cd34836f39fa4d
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0.07612038
+        width: 62
+        height: 90.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4502219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -45.52468}
+        - {x: -31, y: -42.52468}
+        - {x: -31, y: -0.5246849}
+        - {x: -19, y: 36.47532}
+        - {x: -13, y: 45.47532}
+        - {x: 27, y: 45.47532}
+        - {x: 31, y: 44.47532}
+        - {x: 31, y: -36.52468}
+        - {x: 4, y: -43.52468}
+        - {x: -5, y: -45.52468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415308183868c1f4fbd6c1c05ea04283
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 290.0761
+        width: 60
+        height: 91.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4455621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -46}
+        - {x: -30, y: -45}
+        - {x: -30, y: 15}
+        - {x: -20, y: 46}
+        - {x: 27, y: 46}
+        - {x: 30, y: 41}
+        - {x: 30, y: -27}
+        - {x: 18, y: -46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a5cf19bbdf55498a7fdd6150ebc7c
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 98.07612
+        width: 63
+        height: 89.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4441063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -45.02468}
+        - {x: -31.5, y: -43.02468}
+        - {x: -31.5, y: 3.975315}
+        - {x: -26.5, y: 39.97532}
+        - {x: -22.5, y: 44.97532}
+        - {x: 31.5, y: 44.97532}
+        - {x: 31.5, y: -0.02468491}
+        - {x: 12.5, y: -45.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358316296b50af842a5ff4584837a178
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 95.07612
+        width: 62
+        height: 90.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4394591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -45.5}
+        - {x: -31, y: -45.5}
+        - {x: -31, y: 10.5}
+        - {x: -25, y: 33.5}
+        - {x: -17, y: 45.5}
+        - {x: 31, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add6db1dad71424bbc6d427c0847ec3
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_v
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192.0761
+        width: 58
+        height: 75.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -38}
+        - {x: -29, y: -38}
+        - {x: -29, y: 38}
+        - {x: 29, y: 38}
+        - {x: 29, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761e7f2dd46020c42aa63ec5604fc848
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_K_up
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0.02675056
+        width: 71
+        height: 92.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4302959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -46.47532}
+        - {x: -35.5, y: -46.47532}
+        - {x: -35.5, y: 6.524685}
+        - {x: -23.5, y: 46.52468}
+        - {x: 35.5, y: 46.52468}
+        - {x: 35.5, y: -42.47532}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f0142e9b0504c4ea08381ce9d09ba3
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: semiboldit_i
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 159.0761
+        width: 41
+        height: 93.87617
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4252824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -47.01421}
+        - {x: -20.5, y: -44.01421}
+        - {x: -20.5, y: 8.985794}
+        - {x: -19.5, y: 34.98579}
+        - {x: -4.5, y: 46.9858}
+        - {x: 14.5, y: 46.9858}
+        - {x: 20.5, y: 42.98579}
+        - {x: 20.5, y: 5.985794}
+        - {x: 10.5, y: -41.01421}
+        - {x: 7.5, y: -47.01421}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5213155b73e274ca97609063b6549f
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      semiboldit_0: 21300036
+      semiboldit_1: 21300064
+      semiboldit_2: 21300074
+      semiboldit_3: 21300070
+      semiboldit_4: 21300038
+      semiboldit_5: 21300068
+      semiboldit_6: 21300032
+      semiboldit_7: 21300072
+      semiboldit_8: 21300056
+      semiboldit_9: 21300050
+      semiboldit_B_up: 21300054
+      semiboldit_K_up: 21300078
+      semiboldit_M_up: 21300010
+      semiboldit_T_up: 21300048
+      semiboldit_a: 21300012
+      semiboldit_b: 21300004
+      semiboldit_c: 21300060
+      semiboldit_d: 21300040
+      semiboldit_dot: 21300014
+      semiboldit_e: 21300006
+      semiboldit_f: 21300030
+      semiboldit_g: 21300024
+      semiboldit_h: 21300022
+      semiboldit_i: 21300080
+      semiboldit_j: 21300008
+      semiboldit_k: 21300020
+      semiboldit_l: 21300046
+      semiboldit_m: 21300044
+      semiboldit_n: 21300034
+      semiboldit_o: 21300058
+      semiboldit_p: 21300052
+      semiboldit_q: 21300026
+      semiboldit_r: 21300000
+      semiboldit_s: 21300002
+      semiboldit_t: 21300028
+      semiboldit_u: 21300016
+      semiboldit_v: 21300076
+      semiboldit_w: 21300018
+      semiboldit_x: 21300062
+      semiboldit_y: 21300042
+      semiboldit_z: 21300066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

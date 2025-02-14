@@ -1,0 +1,17 @@
+ABVersion,BundleList
+1,"NewFrontier,AdControl,LanguageFont,ZombieGraphic,ZombieWaves,BossPattern,NormalPattern,English,Korean,Japanese,ChineseSimplified,ChineseTraditional,German,Spanish,French,Italian,Portuguese,Russian,Turkish,GuideEnglish,GuideKorean,GuideJapanese,GuideChineseSimplified,GuideChineseTraditional,GuideGerman,GuideSpanish,GuideFrench,GuideItalian,GuidePortuguese,GuideRussian,GuideTurkish,BioChip,BioChipReq,NpcReward"
+3,AdControl
+4,"NewFrontier,AdControl,LanguageFont,Implant,NormalPattern,ZombieWaves,NpcReward,English,Korean,Japanese,ChineseSimplified,ChineseTraditional,German,Spanish,French,Italian,Portuguese,Russian,Turkish,PriceTable_Apple,PriceTable_Google"
+5,"NewFrontier,English,Korean,NpcReward"
+6,NewFrontier
+7,NewFrontier
+8,"PriceTable_Apple,PriceTable_Google,NewFrontier"
+9,"ZombieWaves,SurLarry,SurKurt,SurEd,ChineseSimplified,ChineseTraditional,English,French,German,Italian,Japanese,Korean,Portuguese,Russian,Spanish,Turkish"
+10,"BioChip,NewFrontier"
+11,NewFrontier
+12,NewFrontier
+13,PriceTable_Apple
+14,NewFrontier
+15,PriceTable_Apple
+16,NewFrontier
+17,"Korean,Japanese,ChineseSimplified,ChineseTraditional,German,Spanish,French,Italian,Portuguese,Russian,Turkish,NewFrontier,Trophy,Implant"

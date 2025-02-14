@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 3e23ec3e65972024ba013225d1aea051
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_Farmer_walk_13
+  - first:
+      213: 21300002
+    second: Zombie_Farmer_walk_07
+  - first:
+      213: 21300004
+    second: Zombie_Farmer_walk_08
+  - first:
+      213: 21300006
+    second: Zombie_Farmer_walk_09
+  - first:
+      213: 21300008
+    second: Zombie_Farmer_walk_10
+  - first:
+      213: 21300010
+    second: Zombie_Farmer_walk_11
+  - first:
+      213: 21300012
+    second: Zombie_Farmer_walk_12
+  - first:
+      213: 21300014
+    second: Zombie_Farmer_walk_14
+  - first:
+      213: 21300016
+    second: Zombie_Farmer_walk_15
+  - first:
+      213: 21300018
+    second: Zombie_Farmer_walk_16
+  - first:
+      213: 21300020
+    second: Zombie_Farmer_walk_17
+  - first:
+      213: 21300022
+    second: Zombie_Farmer_walk_18
+  - first:
+      213: 21300024
+    second: Zombie_Farmer_walk_19
+  - first:
+      213: 21300026
+    second: Zombie_Farmer_walk_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_13
+      rect:
+        serializedVersion: 2
+        x: 0.05131531
+        y: 0.07612228
+        width: 171.8726
+        height: 212.8478
+      alignment: 9
+      pivot: {x: 0.453526, y: 0.5328873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.98759, y: -106.5}
+        - {x: -85.98759, y: -97.49999}
+        - {x: -85.98759, y: -34.5}
+        - {x: -72.98759, y: 70.5}
+        - {x: -41.98759, y: 94.5}
+        - {x: 13.01241, y: 106.5}
+        - {x: 65.01241, y: 106.5}
+        - {x: 86.01241, y: 74.5}
+        - {x: 86.01241, y: -46.5}
+        - {x: 78.01241, y: -90.5}
+        - {x: 22.01241, y: -106.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4457bdd0151cc34f812ddf320f5df18
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_07
+      rect:
+        serializedVersion: 2
+        x: 175.0513
+        y: 206.0267
+        width: 169.8726
+        height: 207.9465
+      alignment: 9
+      pivot: {x: 0.476526, y: 0.5553027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.98759, y: 59}
+        - {x: -62.98759, y: 66}
+        - {x: -31.98759, y: 104}
+        - {x: 9.012405, y: 104}
+        - {x: 58.01241, y: 100}
+        - {x: 73.01241, y: 61}
+        - {x: 76.01241, y: 62}
+        - {x: 79.01241, y: 60}
+        - {x: 85.01241, y: 54}
+        - {x: 85.01241, y: -48}
+        - {x: 57.01241, y: -93.99999}
+        - {x: 30.01241, y: -95.00001}
+        - {x: 34.01241, y: -104}
+        - {x: -69.98759, y: -104}
+        - {x: -75.98759, y: -103}
+        - {x: -84.98759, y: -96.00001}
+        - {x: -84.98759, y: -30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52451989fca1fcb47830c2878ce8d5ba
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_08
+      rect:
+        serializedVersion: 2
+        x: 173.0513
+        y: 424.0223
+        width: 169.9219
+        height: 205.9016
+      alignment: 9
+      pivot: {x: 0.4705024, y: 0.5462694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.01228, y: -102.9731}
+        - {x: -85.01228, y: -96.97308}
+        - {x: -85.01228, y: 58.02693}
+        - {x: -68.01228, y: 97.02693}
+        - {x: -37.01228, y: 103.0269}
+        - {x: 64.98772, y: 103.0269}
+        - {x: 80.98772, y: 75.02693}
+        - {x: 84.98772, y: 61.02693}
+        - {x: 84.98772, y: -38.97307}
+        - {x: 33.98772, y: -102.9731}
+        - {x: 22.98772, y: -102.9731}
+        - {x: 19.98772, y: -100.9731}
+        - {x: 11.98772, y: -102.9731}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f21c283d244e74e8b899aa3609f410
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_09
+      rect:
+        serializedVersion: 2
+        x: 174.0761
+        y: 0.04290771
+        width: 171.8477
+        height: 203.9442
+      alignment: 9
+      pivot: {x: 0.4650854, y: 0.5465078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -102.015}
+        - {x: -86, y: -102.015}
+        - {x: -86, y: 55.985}
+        - {x: -63, y: 75.985}
+        - {x: -60, y: 101.985}
+        - {x: 75, y: 101.985}
+        - {x: 86, y: 91.985}
+        - {x: 86, y: -65.015}
+        - {x: 77, y: -78.015}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16bbd752f663c4ca5feebf4b29b362
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_10
+      rect:
+        serializedVersion: 2
+        x: 520.0513
+        y: 0.02675247
+        width: 170.8726
+        height: 204.8971
+      alignment: 9
+      pivot: {x: 0.4561802, y: 0.5489255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.48759, y: -102.4753}
+        - {x: -85.48759, y: -80.47531}
+        - {x: -85.48759, y: 19.52469}
+        - {x: -64.48759, y: 100.5247}
+        - {x: 4.512405, y: 102.5247}
+        - {x: 49.51241, y: 102.5247}
+        - {x: 52.51241, y: 101.5247}
+        - {x: 85.51241, y: 54.52469}
+        - {x: 85.51241, y: -44.47531}
+        - {x: 50.51241, y: -75.47531}
+        - {x: 41.51241, y: -98.47531}
+        - {x: 23.51241, y: -102.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ab2db15b9d1544ae8de4bd8b700a9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_11
+      rect:
+        serializedVersion: 2
+        x: 0.05131531
+        y: 215.0429
+        width: 172.8726
+        height: 206.881
+      alignment: 9
+      pivot: {x: 0.4509026, y: 0.5484173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.48759, y: -103.4834}
+        - {x: -86.48759, y: -96.4834}
+        - {x: -86.48759, y: 15.51661}
+        - {x: -56.48759, y: 103.5166}
+        - {x: 54.51241, y: 103.5166}
+        - {x: 82.51241, y: 75.51661}
+        - {x: 86.51241, y: 49.51661}
+        - {x: 86.51241, y: -59.48339}
+        - {x: 45.51241, y: -74.48339}
+        - {x: 26.51241, y: -96.4834}
+        - {x: 15.51241, y: -92.48339}
+        - {x: 13.51241, y: -80.48339}
+        - {x: 10.51241, y: -86.48339}
+        - {x: -1.487595, y: -95.48338}
+        - {x: -3.487595, y: -101.4834}
+        - {x: -16.48759, y: -103.4834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3093739407e43241b423257aea55deb
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_12
+      rect:
+        serializedVersion: 2
+        x: 0.05131531
+        y: 639.0761
+        width: 172.8726
+        height: 209.8477
+      alignment: 9
+      pivot: {x: 0.4509026, y: 0.5405055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.51241, y: -99.00002}
+        - {x: 13.51241, y: -83.00001}
+        - {x: 13.51241, y: -85.00001}
+        - {x: 4.512405, y: -105}
+        - {x: -86.48759, y: -105}
+        - {x: -86.48759, y: 35.99999}
+        - {x: -67.48759, y: 105}
+        - {x: 86.51241, y: 105}
+        - {x: 86.51241, y: -54.00001}
+        - {x: 69.51241, y: -85.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fabda6f7577e34f920c51b6d9fb3eb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_14
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 424.0429
+        width: 170.8477
+        height: 212.881
+      alignment: 9
+      pivot: {x: 0.4561013, y: 0.5235653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -101.4834}
+        - {x: -4.5, y: -106.4834}
+        - {x: -40.5, y: -106.4834}
+        - {x: -85.5, y: -97.4834}
+        - {x: -85.5, y: -68.4834}
+        - {x: -62.5, y: 48.5166}
+        - {x: -39.5, y: 91.5166}
+        - {x: 14.5, y: 106.5166}
+        - {x: 56.5, y: 106.5166}
+        - {x: 85.5, y: 60.5166}
+        - {x: 85.5, y: -49.4834}
+        - {x: 53.5, y: -80.4834}
+        - {x: 19.5, y: -106.4834}
+        - {x: 12.5, y: -89.4834}
+        - {x: -2.5, y: -94.4834}
+        - {x: 7.500001, y: -95.4834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71716cf2d0f0df344956e2f711152795
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_15
+      rect:
+        serializedVersion: 2
+        x: 693.0267
+        y: 0.02675247
+        width: 169.8971
+        height: 211.8971
+      alignment: 9
+      pivot: {x: 0.453058, y: 0.5166339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.97531, y: -104.9753}
+        - {x: -84.97531, y: -104.9753}
+        - {x: -84.97531, y: 75.02468}
+        - {x: -78.97531, y: 106.0247}
+        - {x: 62.02469, y: 106.0247}
+        - {x: 85.02469, y: 92.02468}
+        - {x: 85.02469, y: -83.97532}
+        - {x: 61.02469, y: -105.9753}
+        - {x: -48.97531, y: -105.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e82dc0b2535034badded086faef1c1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_16
+      rect:
+        serializedVersion: 2
+        x: 348.0513
+        y: 0.07612228
+        width: 169.8726
+        height: 211.8478
+      alignment: 9
+      pivot: {x: 0.4588657, y: 0.5070805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.01241, y: -106}
+        - {x: -84.98759, y: -106}
+        - {x: -84.98759, y: -50.00002}
+        - {x: -56.98759, y: 33.99998}
+        - {x: -59.98759, y: 35.99998}
+        - {x: -60.9876, y: 62.99998}
+        - {x: -39.98759, y: 90.99998}
+        - {x: 2.012405, y: 106}
+        - {x: 69.01241, y: 106}
+        - {x: 85.01241, y: 91.99998}
+        - {x: 85.01241, y: -31.00002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce17ba9f3645a0843ab5fef8a56a13a3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_17
+      rect:
+        serializedVersion: 2
+        x: 689.0761
+        y: 214.0513
+        width: 167.8657
+        height: 213.8726
+      alignment: 9
+      pivot: {x: 0.4642037, y: 0.5117472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.00896, y: -106.9876}
+        - {x: -84.00896, y: -105.9876}
+        - {x: -84.00896, y: 57.0124}
+        - {x: -73.00896, y: 107.0124}
+        - {x: 66.99104, y: 107.0124}
+        - {x: 83.99104, y: 74.0124}
+        - {x: 83.99104, y: -34.9876}
+        - {x: 34.99104, y: -106.9876}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2fbc0fca5758f4d83c8d3bf5d21c2d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_18
+      rect:
+        serializedVersion: 2
+        x: 347.0761
+        y: 214.0513
+        width: 167.8675
+        height: 217.8726
+      alignment: 9
+      pivot: {x: 0.4641987, y: 0.5161213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.99012, y: -98.9876}
+        - {x: -0.009880066, y: -108.9876}
+        - {x: -35.00988, y: -108.9876}
+        - {x: -84.00988, y: -102.9876}
+        - {x: -84.00988, y: 25.0124}
+        - {x: -60.00988, y: 109.0124}
+        - {x: 51.99012, y: 109.0124}
+        - {x: 79.99012, y: 78.0124}
+        - {x: 83.99012, y: 65.0124}
+        - {x: 83.99012, y: -38.9876}
+        - {x: 45.99012, y: -98.9876}
+        - {x: 21.99012, y: -93.9876}
+        - {x: 15.99012, y: -84.9876}
+        - {x: 15.99012, y: -90.9876}
+        - {x: 19.99012, y: -92.9876}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16521c55f89db1418ced1ee7db44580
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_19
+      rect:
+        serializedVersion: 2
+        x: 520.0513
+        y: 207.0761
+        width: 166.9152
+        height: 218.8478
+      alignment: 9
+      pivot: {x: 0.4669957, y: 0.5228469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.49109, y: -109.5}
+        - {x: -83.50891, y: -109.5}
+        - {x: -83.50891, y: 44.49998}
+        - {x: -57.50891, y: 109.5}
+        - {x: 61.49109, y: 109.5}
+        - {x: 83.49109, y: 80.49998}
+        - {x: 83.49109, y: -35.50002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762b91cdbd4bb294c8c98382cc7f2dcc
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Farmer_walk_20
+      rect:
+        serializedVersion: 2
+        x: 345.0513
+        y: 434.0761
+        width: 165.8726
+        height: 219.911
+      alignment: 9
+      pivot: {x: 0.4699312, y: 0.5294137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.01241, y: -99.0316}
+        - {x: 4.012405, y: -110.0316}
+        - {x: -47.98759, y: -110.0316}
+        - {x: -82.98759, y: -101.0316}
+        - {x: -82.98759, y: 72.96839}
+        - {x: -68.98759, y: 109.9684}
+        - {x: 58.01241, y: 109.9684}
+        - {x: 83.01241, y: 94.96839}
+        - {x: 83.01241, y: -47.03161}
+        - {x: 47.01241, y: -87.03161}
+        - {x: 18.01241, y: -86.03161}
+        - {x: 21.01241, y: -87.03161}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695f9ec96b79548489acd1167f9bc2b4
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_Farmer_walk_07: 21300002
+      Zombie_Farmer_walk_08: 21300004
+      Zombie_Farmer_walk_09: 21300006
+      Zombie_Farmer_walk_10: 21300008
+      Zombie_Farmer_walk_11: 21300010
+      Zombie_Farmer_walk_12: 21300012
+      Zombie_Farmer_walk_13: 21300000
+      Zombie_Farmer_walk_14: 21300014
+      Zombie_Farmer_walk_15: 21300016
+      Zombie_Farmer_walk_16: 21300018
+      Zombie_Farmer_walk_17: 21300020
+      Zombie_Farmer_walk_18: 21300022
+      Zombie_Farmer_walk_19: 21300024
+      Zombie_Farmer_walk_20: 21300026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

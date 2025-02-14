@@ -1,0 +1,7 @@
+EventId,EventType,CheckTime,MatchingStringId
+1,1,86400,"not001,not002,not003"
+2,1,604800,"not004,not005"
+3,1,2592000,"not006,not007"
+4,2,864000,"not008,not009,not010"
+5,2,1728000,"not011,not012,not013"
+6,3,1,not014

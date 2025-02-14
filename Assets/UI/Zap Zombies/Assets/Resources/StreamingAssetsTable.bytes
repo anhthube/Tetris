@@ -1,0 +1,7 @@
+FileName,FileDirectory
+Configuration.json,/Configuration.json
+SDK_Info.xml,/SDK_Info.xml
+assetbundle.txt,/assetbundle.txt
+data,/data
+sgpromo_android.plist,/sgpromo_android.plist
+sgpromo_ios.plist,/sgpromo_ios.plist

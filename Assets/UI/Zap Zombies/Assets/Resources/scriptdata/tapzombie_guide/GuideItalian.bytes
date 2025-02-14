@@ -1,0 +1,113 @@
+CodeId,Italian
+hlp001,"<size=50>1. Introduction</size>
+
+Welcome to the Forgotten City. You don’t remember why you’re here and what had happened before you lost your memory. All you know is that you need to kill those zombies. and you can’t let your guard down until you kill all of them.
+
+You can enjoy Zap Zombies for free. you can also choose to buy packages of crystals to get more resources (like gold or enzyme), shorten the cool time for gameplay or boost your survivors’ skills."
+hlp002,"<size=50>2. Battle Scene</size>
+
+1) Battle system
+You have a maximum of five survivors that you can control.
+ 
+Auto-attack
+Except for the initial survivor, Jason, the rest of the survivors will always attack automatically. Although the auto-attacks are not as lethal as the manual tap-attacks, it allows you to navigate through other tabs while you continue to fight.  
+
+Tap attack
+Jason fires once per tap. The rest of the survivors attack at a faster rate than when you’re running the game in an auto-attack mode. With Ed and Larry, you can see that they will be significantly stronger in manual attack mode than when in auto-attack mode.
+
+
+2) Bosses
+There are 2 bosses per stage. You will face a lower level boss first, during the 5th wave. At 10th, you will fight the true boss. If you don’t clear the stage within 30 seconds, you would then enter into an infinite ‘Flee’ stage where you can grow stronger and collect more resources to fight the boss again successfully.
+
+ 
+3) Drones
+Drones will appear during your fight to supply you with extra resources. You need to touch the drone icon to acquire the bonus. Otherwise, the drone will disappear after 30 seconds and you won’t receive anything. The bonus resources that drones can provide are listed as follows.
+
+Enzyme - Adds to your enzyme collection
+Gold - Adds to your gold collection
+Alternative skills - Allows the survivors other than Jason to use their skills regardless of cooldown time
+
+Also, you can acquire even better items by watching adverts.
+
+
+4) Skill Usage
+Each survivor has his/her unique skills. A ring will form around each survivor’s feet to let you know when they are ready to use their unique skills. Touching these rings activates the survivor’s skills."
+hlp003,"5) Enzyme Acquisition When Off-line
+You don’t have to worry about playing constantly. Your survivors will fight constantly in an auto-attack mode and you will find your enzyme collected for you when you return.
+
+<size=50>3. Managing Your Survivor</size>
+
+1) Acquiring a New Survivor
+As you continue to play, you will obtain more enzyme. You can acquire more survivors with these enzyme to fight in the battle. However, you can only unlock the survivors in a fixed order. 
+
+2) Characters’ Traits"
+hlp004,"Jason
+-He uses an SMG and attacks at the speed of your taps. So the effect of the attack matches your tapping.
+ -His skill, Crossfire has a powerful effect on all the zombies that are on the scene for a short period of time."
+hlp005,"Amy
+-She uses a sniper rifle. Her attack speed is slow but has lethal damage. She has comparably higher target accuracy than other survivors.
+- Her skill, Serum pack, can boost the other survivors’ ATK"
+hlp006,"Kurt
+-He uses a crossbow. Like Amy, his speed of attack is slow but has a powerful damage level, as he has a higher Critical chance.
+-His skill, Fatality, increases other survivors’ Critical probability while in use."
+hlp007,"Ed
+-He uses a flamethrower. In auto-attack mode, he fires at one zombie at a time, but during manual tap mode, he launches an intense stream of fire that damages multiple zombies.
+-His skill, 'One shot two kills', increases other survivors’ target accuracy as well."
+hlp008,"Larry
+-He uses a mini-gun. In auto-attack mode, he fires at one zombie at a time but during manual attack mode, he fires continuously except for when he’s reloading.
+-His skill, 'Drain' allows you to acquire an enzyme per tap.
+
+3) Survivor Level Upgrade & Skill Upgrades
+You can increase your survivors’ levels and skills using enzyme. However, you can only upgrade their skills after they are at a certain level. If you reach the level where you can upgrade their skills, the upgrade button will become available for skills upgrade.
+
+<size=50>4. Awaken</size>
+
+1) Awaken
+
+The zombies become stronger as you pass through the stages. At a certain point, when it becomes almost impossible to move onto the next stage, it helps to use the Awaken button. After you awaken your survivors, you will acquire biochips that allow you to buy implants that boosts your survivors’ strengths like you’ve never experienced before. Although all your game settings are back to the initial stage, you will have stronger survivors to clear the stages that you couldn’t pass through before.
+
+2) Biochip
+
+During your awakening, you receive a number of biochips according to the level of the stage you were last in. Also, you acquire more biochips if the total level of the survivors’ is higher. With the biochips, you can get new implants or upgrade your old implants in your collection. For new implants, you would need more biochips as the game progresses. Be cautious and remember that you cannot cancel your implant purchase.
+
+3) Implants
+
+There are 22 implants in total in the game and they are the most powerful strengthening means in the game. They increase all the survivors’ damages and has its own unique traits and strengths. For example, some decrease the number of waves, while others decrease the survivors’ cooldown time, etc."
+hlp009,"<size=50>5. Lab</size>
+
+You need gold to run your research in the lab.
+
+-Zombie research: You can increase the strengths of all your survivors. It requires a big amount of god but you will definitely get your money’s worth. To increase the survivors’ damage rate you need to try to match the survivors’ level with the level of your Zombie research.
+-Shooting research: It increases all survivors’ Critical rates. You will find the research more valuable as you progress through higher stages but not as much noticeable differences in your early stages.
+-Weapons research: When the Critical gets activated, this research helps increase your survivors’ damage rates. If you’re investing in both the Weapons research and the Shooting research at the same time, you would get better results.
+-Enzyme research: It increases the amounts of enzyme you acquire during the battle. This lightens the weight of having to earn more enzyme than you can acquire in higher stages.
+
+
+<size=50>6. Mines</size>
+
+You can dig your gold at the gold mine. You can increase the speed of gold production with enzyme. The mine has an automatic-digging system however, in urgent times, you can manually tap the screen to dig more gold. The mine is active only when you’re playing the game. You cannot use gold for your researches.
+
+
+<size=50>7. Trophies</size>
+
+You receive rewards as you accomplish certain tasks. It is very challenging to clear all trophies but the challenge is without a doubt, worth a try.
+
+If you need a support, please push support button and send us a message"
+tut002,"Ciao, Sopravvivente."
+tut003,"Ecco Jason
+dietro
+la barricata."
+tut004,"È l’unico
+che lotterà
+contro gli zombi."
+tut005,"Si è appena risvegliato,
+ritrovandosi 
+assalito dagli zombi."
+tut006,"Tu devi solo 
+dirgli di sparare"
+tut007,"toccando qualsiasi
+punto dello schermo."
+tut008,"La barricata è 
+indistruttibile. Non 
+devi temere di perderla."
+tut009,"E adesso, facciamo fuori qualche zombi!"

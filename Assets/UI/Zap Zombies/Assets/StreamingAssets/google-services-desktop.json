@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807735108713",
+    "project_id": "zap-zombies-14d0a",
+    "storage_bucket": "zap-zombies-14d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807735108713:android:62c38b150349227ac22ef8",
+        "android_client_info": {
+          "package_name": "com.bipubstd.games.zombiewarrior.tap.idle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807735108713-8apocn0upm15uvdmvo7en0g03u47m5rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPYkUTKDrWnQTCV5emRljAAf21zoF0zCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807735108713-8apocn0upm15uvdmvo7en0g03u47m5rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

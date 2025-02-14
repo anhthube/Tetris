@@ -1,0 +1,1012 @@
+fileFormatVersion: 2
+guid: bd8b1fbdbad286c48b2fb59798859a8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: levelup_05
+  - first:
+      213: 21300002
+    second: 04_Night Vision
+  - first:
+      213: 21300004
+    second: 06_Weaken
+  - first:
+      213: 21300006
+    second: 03_Rescue Senser
+  - first:
+      213: 21300008
+    second: levelup_06
+  - first:
+      213: 21300010
+    second: 22_MK Trans
+  - first:
+      213: 21300012
+    second: 17_Tame
+  - first:
+      213: 21300014
+    second: 13_Ed's Abyss
+  - first:
+      213: 21300016
+    second: 21_Adrenaline Package
+  - first:
+      213: 21300018
+    second: 02_Enforce Muscle
+  - first:
+      213: 21300020
+    second: levelup_01
+  - first:
+      213: 21300022
+    second: levelup_02
+  - first:
+      213: 21300024
+    second: 08_Enforce Brutality
+  - first:
+      213: 21300026
+    second: 09_Jason's Abyss
+  - first:
+      213: 21300028
+    second: levelup_03
+  - first:
+      213: 21300030
+    second: 16_Precicion
+  - first:
+      213: 21300032
+    second: 12_Larry's Abyss
+  - first:
+      213: 21300034
+    second: levelup_04
+  - first:
+      213: 21300036
+    second: 18_Enforce Teamwork
+  - first:
+      213: 21300038
+    second: 14_Extra Blood
+  - first:
+      213: 21300040
+    second: 20_Vital Tracker
+  - first:
+      213: 21300042
+    second: 05_Survival Instinct
+  - first:
+      213: 21300044
+    second: 15_Six Sense
+  - first:
+      213: 21300046
+    second: 11_Kurt's Abyss
+  - first:
+      213: 21300048
+    second: 01_Q10 Package
+  - first:
+      213: 21300050
+    second: 10_Amy's Abyss
+  - first:
+      213: 21300052
+    second: 07_Mentality
+  - first:
+      213: 21300054
+    second: 19_Enforce int.png
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: levelup_05
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 681.0761
+        width: 105
+        height: 63.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1787107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -32.03806}
+        - {x: -52.5, y: -19.03806}
+        - {x: -52.5, y: 31.96194}
+        - {x: 52.5, y: 31.96194}
+        - {x: 52.5, y: -31.03806}
+        - {x: 51.5, y: -32.03806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9172c2ff12d1ed24593e4c1fd0a0920e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_Night Vision
+      rect:
+        serializedVersion: 2
+        x: 354.0129
+        y: 117.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a13510d760054a42b3404eba9335cc3
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Weaken
+      rect:
+        serializedVersion: 2
+        x: 0.01291251
+        y: 0.0761205
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60f1e6f206bac4580aab1267d839fa
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Rescue Senser
+      rect:
+        serializedVersion: 2
+        x: 236.0129
+        y: 117.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe03b19139555b449aae4596f947315
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelup_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819.0761
+        width: 105
+        height: 56.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07771568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -28.53806}
+        - {x: -52.5, y: -8.538061}
+        - {x: -52.5, y: 28.46194}
+        - {x: 52.5, y: 28.46194}
+        - {x: 52.5, y: -28.53806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cfc86bf6d978f43ae7f425128e7786
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_MK Trans
+      rect:
+        serializedVersion: 2
+        x: 236.0129
+        y: 234.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d314b7bab7e62ee4dba001bdf9bdeb87
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 17_Tame
+      rect:
+        serializedVersion: 2
+        x: 0.01291251
+        y: 585.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c3c7f8b92ea949b6538fed86a41be
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_Ed's Abyss
+      rect:
+        serializedVersion: 2
+        x: 354.0129
+        y: 234.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23521eb6c90e1fe4bbcb83c7e59ff6d8
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Adrenaline Package
+      rect:
+        serializedVersion: 2
+        x: 354.0129
+        y: 351.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6396a9cb12ea7740b3164defdde35bd
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Enforce Muscle
+      rect:
+        serializedVersion: 2
+        x: 118.0129
+        y: 351.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b18e1a1c3d5e84e8502aacf04cc880
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelup_01
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 585
+        width: 105
+        height: 24.70711
+      alignment: 9
+      pivot: {x: 0.5, y: 2.124895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: -12.35355}
+        - {x: -52.5, y: -12.35355}
+        - {x: -52.5, y: 12.64645}
+        - {x: 52.5, y: 12.64645}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857e0e5d44932e645bdf6eccf13d4e23
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelup_02
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 747
+        width: 105
+        height: 48.70711
+      alignment: 9
+      pivot: {x: 0.5, y: 1.077871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: -24.35355}
+        - {x: -52.5, y: -24.35355}
+        - {x: -52.5, y: 24.64645}
+        - {x: 52.5, y: 24.64645}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3e7e14a16a4d342ab28c954419d6ce
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_Enforce Brutality
+      rect:
+        serializedVersion: 2
+        x: 118.0129
+        y: 117.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5acc7241fc2f6f4ba7f226f2885d8dd
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_Jason's Abyss
+      rect:
+        serializedVersion: 2
+        x: 0.01291251
+        y: 468.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071753d011a77364c9b17c327a467c84
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelup_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 878.0761
+        width: 105
+        height: 73.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -37.03806}
+        - {x: -52.5, y: -27.03806}
+        - {x: -52.5, y: 33.96194}
+        - {x: -41.5, y: 36.96194}
+        - {x: 52.5, y: 36.96194}
+        - {x: 52.5, y: -34.03806}
+        - {x: 43.5, y: -37.03806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21795df1af2d58543a4f717d38ae8535
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Precicion
+      rect:
+        serializedVersion: 2
+        x: 118.0129
+        y: 0.0761205
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e70f1ac027dc164e887e225a8011f61
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Larry's Abyss
+      rect:
+        serializedVersion: 2
+        x: 0.01291251
+        y: 117.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45a73f6e84eb94489d02ea2a003baa
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelup_04
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 612.0761
+        width: 105
+        height: 66.92387
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2155266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -33.53806}
+        - {x: -52.5, y: -32.53806}
+        - {x: -52.5, y: 33.46194}
+        - {x: 52.5, y: 33.46194}
+        - {x: 52.5, y: -33.53806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19879a421477c74cbe31e4e62ea0850
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Enforce Teamwork
+      rect:
+        serializedVersion: 2
+        x: 118.0129
+        y: 468.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e84c7b409046d42a6db2243d196c2d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14_Extra Blood
+      rect:
+        serializedVersion: 2
+        x: 354.0129
+        y: 468.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febe12d8c135eef49a9e186be6b68c95
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_Vital Tracker
+      rect:
+        serializedVersion: 2
+        x: 0.01291251
+        y: 351.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c1e9b91baa0f14e854d43f04072c8a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05_Survival Instinct
+      rect:
+        serializedVersion: 2
+        x: 236.0129
+        y: 468.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dd9d7e1140e44498b109497cfe6e5d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Six Sense
+      rect:
+        serializedVersion: 2
+        x: 236.0129
+        y: 0.0761205
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b415d189a5f71498cc965ab2bd2df4
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Kurt's Abyss
+      rect:
+        serializedVersion: 2
+        x: 236.0129
+        y: 351.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a70d18f2fbf49347a6e98e6b82fb055
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_Q10 Package
+      rect:
+        serializedVersion: 2
+        x: 0.01291251
+        y: 234.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42777533a25f70d48adb2229db105166
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_Amy's Abyss
+      rect:
+        serializedVersion: 2
+        x: 354.0129
+        y: 0.0761205
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f6dcfeb7bcbf4584c27b8b1b1879a
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_Mentality
+      rect:
+        serializedVersion: 2
+        x: 118.0129
+        y: 234.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a87841fd6bc61c4aac06972a4468ef9
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_Enforce int.png
+      rect:
+        serializedVersion: 2
+        x: 0.01291251
+        y: 702.0761
+        width: 115.911
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5002726, y: 0.5130607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.9684, y: -57.5}
+        - {x: -57.9684, y: -53.5}
+        - {x: -57.9684, y: 57.5}
+        - {x: 55.0316, y: 57.5}
+        - {x: 58.0316, y: 54.49999}
+        - {x: 58.0316, y: -54.5}
+        - {x: 55.0316, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e04cd9f56e9df3499fb46acb9e378f9
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      01_Q10 Package: 21300048
+      02_Enforce Muscle: 21300018
+      03_Rescue Senser: 21300006
+      04_Night Vision: 21300002
+      05_Survival Instinct: 21300042
+      06_Weaken: 21300004
+      07_Mentality: 21300052
+      08_Enforce Brutality: 21300024
+      09_Jason's Abyss: 21300026
+      10_Amy's Abyss: 21300050
+      11_Kurt's Abyss: 21300046
+      12_Larry's Abyss: 21300032
+      13_Ed's Abyss: 21300014
+      14_Extra Blood: 21300038
+      15_Six Sense: 21300044
+      16_Precicion: 21300030
+      17_Tame: 21300012
+      18_Enforce Teamwork: 21300036
+      19_Enforce int.png: 21300054
+      20_Vital Tracker: 21300040
+      21_Adrenaline Package: 21300016
+      22_MK Trans: 21300010
+      levelup_01: 21300020
+      levelup_02: 21300022
+      levelup_03: 21300028
+      levelup_04: 21300034
+      levelup_05: 21300000
+      levelup_06: 21300008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

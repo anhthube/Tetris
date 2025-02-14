@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: a9d6f5e69e48d2947b5f80147731ae60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_fireman_walk_18
+  - first:
+      213: 21300002
+    second: zombie_fireman_walk_08
+  - first:
+      213: 21300004
+    second: zombie_fireman_walk_17
+  - first:
+      213: 21300006
+    second: zombie_fireman_walk_10
+  - first:
+      213: 21300008
+    second: zombie_fireman_walk_09
+  - first:
+      213: 21300010
+    second: zombie_fireman_walk_12
+  - first:
+      213: 21300012
+    second: zombie_fireman_walk_16
+  - first:
+      213: 21300014
+    second: zombie_fireman_walk_11
+  - first:
+      213: 21300016
+    second: zombie_fireman_walk_15
+  - first:
+      213: 21300018
+    second: zombie_fireman_walk_19
+  - first:
+      213: 21300020
+    second: zombie_fireman_walk_13
+  - first:
+      213: 21300022
+    second: zombie_fireman_walk_20
+  - first:
+      213: 21300024
+    second: zombie_fireman_walk_07
+  - first:
+      213: 21300026
+    second: zombie_fireman_walk_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_fireman_walk_18
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 0.02675056
+        width: 192.908
+        height: 202.9465
+      alignment: 9
+      pivot: {x: 0.4897322, y: 0.5985481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.48074, y: -101.5}
+        - {x: -96.48074, y: -17.50001}
+        - {x: -96.48074, y: 45.49999}
+        - {x: -4.480736, y: 101.5}
+        - {x: 80.51926, y: 101.5}
+        - {x: 96.51926, y: 95.49999}
+        - {x: 96.51926, y: 9.499992}
+        - {x: 68.51926, y: -101.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b57bde0525c248a66ece464eefd4d
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_08
+      rect:
+        serializedVersion: 2
+        x: 195.0267
+        y: 0.07612038
+        width: 193.9603
+        height: 203.8971
+      alignment: 9
+      pivot: {x: 0.471608, y: 0.6200376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.00693, y: -100.0247}
+        - {x: -97.00692, y: -7.024673}
+        - {x: -97.00692, y: 41.97533}
+        - {x: -0.006919861, y: 101.9753}
+        - {x: 84.99308, y: 101.9753}
+        - {x: 96.99308, y: 64.97533}
+        - {x: 96.99308, y: -20.02467}
+        - {x: 73.99308, y: -102.0247}
+        - {x: -58.00692, y: -102.0247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94c3d41fa5e4f24abea85e1d7876085
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_17
+      rect:
+        serializedVersion: 2
+        x: 0.05131721
+        y: 205.0761
+        width: 192.8726
+        height: 198.8971
+      alignment: 9
+      pivot: {x: 0.48451, y: 0.6054581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.48759, y: -97.52467}
+        - {x: -96.48759, y: -51.52468}
+        - {x: -96.48759, y: 32.47532}
+        - {x: -50.48759, y: 71.47532}
+        - {x: 0.5124054, y: 99.47532}
+        - {x: 96.51241, y: 99.47532}
+        - {x: 96.51241, y: -42.52468}
+        - {x: 88.51241, y: -83.52467}
+        - {x: 63.51241, y: -99.52469}
+        - {x: 32.51241, y: -99.52469}
+        - {x: 15.51241, y: -96.52467}
+        - {x: 0.5124054, y: -99.52469}
+        - {x: -3.487595, y: -99.52469}
+        - {x: -21.48759, y: -83.52467}
+        - {x: -34.48759, y: -95.52468}
+        - {x: -37.48759, y: -99.52469}
+        - {x: -62.4876, y: -99.52469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346bb130d6f5a744a3e0fe02e33181d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_10
+      rect:
+        serializedVersion: 2
+        x: 195.0429
+        y: 206.0267
+        width: 194.9303
+        height: 221.8971
+      alignment: 9
+      pivot: {x: 0.4691783, y: 0.6015096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.50808, y: -110.9753}
+        - {x: -74.50808, y: -97.97532}
+        - {x: -71.50808, y: -25.97531}
+        - {x: -78.50808, y: -25.97531}
+        - {x: -84.50808, y: -19.97531}
+        - {x: -97.50808, y: 13.02469}
+        - {x: -97.50808, y: 29.02469}
+        - {x: -76.50808, y: 39.02469}
+        - {x: -47.50808, y: 47.02469}
+        - {x: -49.50808, y: 59.02469}
+        - {x: -2.50808, y: 111.0247}
+        - {x: 81.49192, y: 111.0247}
+        - {x: 97.49192, y: 107.0247}
+        - {x: 97.49192, y: 9.024688}
+        - {x: 62.49192, y: -77.97531}
+        - {x: 61.49192, y: -103.9753}
+        - {x: 47.49192, y: -110.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12bb03531f8e334c9e04679a0666dee
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_09
+      rect:
+        serializedVersion: 2
+        x: 392.0268
+        y: 0.07612038
+        width: 193.8971
+        height: 215.8477
+      alignment: 9
+      pivot: {x: 0.4717618, y: 0.608873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.97531, y: -98}
+        - {x: -96.97531, y: -53}
+        - {x: -96.97531, y: 61}
+        - {x: -41.97531, y: 108}
+        - {x: 97.02469, y: 108}
+        - {x: 97.02469, y: -11}
+        - {x: 82.02469, y: -76}
+        - {x: 53.02468, y: -98}
+        - {x: 40.02469, y: -108}
+        - {x: -41.97531, y: -108}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf444a3d194ea4c830058a306c3888
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_12
+      rect:
+        serializedVersion: 2
+        x: 588.0429
+        y: 0.07612038
+        width: 193.881
+        height: 216.8395
+      alignment: 9
+      pivot: {x: 0.4562443, y: 0.6245352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.98339, y: -29.49586}
+        - {x: -96.98339, y: -10.49586}
+        - {x: -96.98339, y: 42.50414}
+        - {x: -58.98339, y: 79.50414}
+        - {x: 17.01661, y: 107.5041}
+        - {x: 19.01661, y: 108.5041}
+        - {x: 97.0166, y: 108.5041}
+        - {x: 97.0166, y: -98.49586}
+        - {x: 35.01661, y: -108.4959}
+        - {x: -21.98339, y: -108.4959}
+        - {x: -48.98339, y: -88.49586}
+        - {x: -59.98339, y: -76.49586}
+        - {x: -61.98339, y: -40.49586}
+        - {x: -52.98339, y: -23.49586}
+        - {x: -57.98339, y: -14.49586}
+        - {x: -56.98339, y: -24.49586}
+        - {x: -61.98339, y: -32.49586}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff79884daad6ea4bbeabb592cc713ec
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_16
+      rect:
+        serializedVersion: 2
+        x: 784.0429
+        y: 0.07612038
+        width: 191.9058
+        height: 196.8971
+      alignment: 9
+      pivot: {x: 0.4817838, y: 0.6217657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.0042, y: -86.52467}
+        - {x: 12.0042, y: -98.52467}
+        - {x: -82.9958, y: -98.52467}
+        - {x: -95.9958, y: -28.52467}
+        - {x: -95.9958, y: 51.47533}
+        - {x: -37.9958, y: 66.47533}
+        - {x: -32.9958, y: 72.47533}
+        - {x: 1.004204, y: 98.47533}
+        - {x: 69.0042, y: 98.47533}
+        - {x: 96.0042, y: 88.47533}
+        - {x: 96.0042, y: 6.475327}
+        - {x: 67.0042, y: -93.52467}
+        - {x: 54.0042, y: -96.52468}
+        - {x: 28.0042, y: -82.52468}
+        - {x: 15.0042, y: -47.52467}
+        - {x: 14.0042, y: -45.52467}
+        - {x: 14.0042, y: -46.52467}
+        - {x: 15.0042, y: -47.52467}
+        - {x: 20.0042, y: -62.52467}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ca782947fe0c47ab906d712ab66dc
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_11
+      rect:
+        serializedVersion: 2
+        x: 392.0761
+        y: 219.0761
+        width: 194.8971
+        height: 222.911
+      alignment: 9
+      pivot: {x: 0.463957, y: 0.5985523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.52468, y: -92.53161}
+        - {x: -97.52468, y: -35.53161}
+        - {x: -97.52468, y: 38.46839}
+        - {x: 10.47532, y: 111.4684}
+        - {x: 78.47532, y: 111.4684}
+        - {x: 97.47531, y: 70.46839}
+        - {x: 97.47531, y: -105.5316}
+        - {x: 84.47532, y: -111.5316}
+        - {x: -59.52468, y: -111.5316}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bfee08f3a2b0249af5a96939325b10
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_15
+      rect:
+        serializedVersion: 2
+        x: 589.0267
+        y: 219.0429
+        width: 189.9219
+        height: 199.9058
+      alignment: 9
+      pivot: {x: 0.4711054, y: 0.6425882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.98772, y: -84.9958}
+        - {x: -94.98772, y: -1.995796}
+        - {x: -94.98772, y: 18.0042}
+        - {x: -84.98772, y: 31.0042}
+        - {x: -31.98771, y: 60.0042}
+        - {x: -37.98772, y: 65.0042}
+        - {x: -33.98772, y: 75.0042}
+        - {x: 14.01228, y: 100.0042}
+        - {x: 65.01228, y: 100.0042}
+        - {x: 95.01228, y: 95.0042}
+        - {x: 95.01228, y: -71.9958}
+        - {x: 94.01228, y: -78.9958}
+        - {x: 53.01228, y: -99.9958}
+        - {x: -18.98772, y: -99.9958}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3371cc6afdd43e47bc1892acf673300
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_19
+      rect:
+        serializedVersion: 2
+        x: 781.0761
+        y: 219.0267
+        width: 193.8477
+        height: 210.8971
+      alignment: 9
+      pivot: {x: 0.492262, y: 0.5996917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.99999, y: -10.47531}
+        - {x: -96.99999, y: 1.524689}
+        - {x: -96.99999, y: 55.52469}
+        - {x: -61, y: 99.52469}
+        - {x: -43.99999, y: 105.5247}
+        - {x: 97.00001, y: 105.5247}
+        - {x: 97.00001, y: -103.4753}
+        - {x: 55.00001, y: -105.4753}
+        - {x: 35.00001, y: -101.4753}
+        - {x: 19.00001, y: -78.47531}
+        - {x: 18.00001, y: -74.47531}
+        - {x: 13.00001, y: -89.47531}
+        - {x: -23.99999, y: -89.47531}
+        - {x: -34.99999, y: -105.4753}
+        - {x: -51.99999, y: -105.4753}
+        - {x: -64.99999, y: -49.47531}
+        - {x: -72.99999, y: -11.47531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cbad4d89304d448b3a90e7870dab8e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_13
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 406.0761
+        width: 190.8971
+        height: 209.8417
+      alignment: 9
+      pivot: {x: 0.4527249, y: 0.6548932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.52468, y: -104.997}
+        - {x: -68.52469, y: -90.99696}
+        - {x: -63.52468, y: -45.99696}
+        - {x: -55.52468, y: -18.99696}
+        - {x: -61.52468, y: -24.99696}
+        - {x: -68.52469, y: -24.99696}
+        - {x: -95.52468, y: -8.996956}
+        - {x: -95.52468, y: 20.00304}
+        - {x: -63.52468, y: 64.00304}
+        - {x: 7.475319, y: 105.003}
+        - {x: 66.47532, y: 105.003}
+        - {x: 72.47532, y: 104.003}
+        - {x: 87.47532, y: 90.00304}
+        - {x: 95.47531, y: 49.00304}
+        - {x: 95.47531, y: -6.996956}
+        - {x: 72.47532, y: -100.997}
+        - {x: 52.47532, y: -104.997}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6478dd9ab9079474d8307d33b928988b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_20
+      rect:
+        serializedVersion: 2
+        x: 193.0761
+        y: 430.0268
+        width: 193.8477
+        height: 213.8971
+      alignment: 9
+      pivot: {x: 0.492262, y: 0.6053061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -103.9753}
+        - {x: 44.00001, y: -102.9753}
+        - {x: 28.00001, y: -94.9753}
+        - {x: 15.00001, y: -80.97531}
+        - {x: 13.00001, y: -82.9753}
+        - {x: -22.99999, y: -87.97531}
+        - {x: -35.99999, y: -106.9753}
+        - {x: -86.99999, y: -106.9753}
+        - {x: -96.99999, y: -77.97531}
+        - {x: -96.99999, y: 66.02469}
+        - {x: -40.99999, y: 103.0247}
+        - {x: -7.999992, y: 107.0247}
+        - {x: 90.00001, y: 107.0247}
+        - {x: 97.00001, y: 61.02469}
+        - {x: 97.00001, y: 15.02469}
+        - {x: 50.00001, y: -84.97532}
+        - {x: 55.00001, y: -93.97531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4278e55e793059d41b15c50a51f25d47
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_07
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 646.0429
+        width: 191.9219
+        height: 195.9058
+      alignment: 9
+      pivot: {x: 0.476617, y: 0.6301861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.98772, y: -30.9958}
+        - {x: -95.98772, y: -16.9958}
+        - {x: -95.98772, y: 40.0042}
+        - {x: -52.98772, y: 69.0042}
+        - {x: -2.987717, y: 98.0042}
+        - {x: 73.01228, y: 98.0042}
+        - {x: 96.01228, y: 89.0042}
+        - {x: 96.01228, y: -14.9958}
+        - {x: 63.01228, y: -95.9958}
+        - {x: 61.01228, y: -97.9958}
+        - {x: -64.98772, y: -97.9958}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f4352621cdb24abf97c54d86022b3
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_fireman_walk_14
+      rect:
+        serializedVersion: 2
+        x: 389.0513
+        y: 444.0761
+        width: 190.8974
+        height: 202.8971
+      alignment: 9
+      pivot: {x: 0.4633311, y: 0.6526651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: -101.5247}
+        - {x: -95.5, y: -41.52469}
+        - {x: -95.5, y: 56.47531}
+        - {x: -39.5, y: 101.4753}
+        - {x: 79.5, y: 101.4753}
+        - {x: 93.5, y: 91.47531}
+        - {x: 95.5, y: 82.47531}
+        - {x: 95.5, y: -34.52469}
+        - {x: 81.5, y: -101.5247}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6437331034a51d14090197a1b388c76b
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_fireman_walk_07: 21300024
+      zombie_fireman_walk_08: 21300002
+      zombie_fireman_walk_09: 21300008
+      zombie_fireman_walk_10: 21300006
+      zombie_fireman_walk_11: 21300014
+      zombie_fireman_walk_12: 21300010
+      zombie_fireman_walk_13: 21300020
+      zombie_fireman_walk_14: 21300026
+      zombie_fireman_walk_15: 21300016
+      zombie_fireman_walk_16: 21300012
+      zombie_fireman_walk_17: 21300004
+      zombie_fireman_walk_18: 21300000
+      zombie_fireman_walk_19: 21300018
+      zombie_fireman_walk_20: 21300022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: 9b30cb4d5d6f1d846a6786149a5ec526
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_Doctor_walk_07
+  - first:
+      213: 21300002
+    second: Zombie_Doctor_walk_08
+  - first:
+      213: 21300004
+    second: Zombie_Doctor_walk_09
+  - first:
+      213: 21300006
+    second: Zombie_Doctor_walk_10
+  - first:
+      213: 21300008
+    second: Zombie_Doctor_walk_11
+  - first:
+      213: 21300010
+    second: Zombie_Doctor_walk_12
+  - first:
+      213: 21300012
+    second: Zombie_Doctor_walk_13
+  - first:
+      213: 21300014
+    second: Zombie_Doctor_walk_14
+  - first:
+      213: 21300016
+    second: Zombie_Doctor_walk_15
+  - first:
+      213: 21300018
+    second: Zombie_Doctor_walk_16
+  - first:
+      213: 21300020
+    second: Zombie_Doctor_walk_17
+  - first:
+      213: 21300022
+    second: Zombie_Doctor_walk_18
+  - first:
+      213: 21300024
+    second: Zombie_Doctor_walk_19
+  - first:
+      213: 21300026
+    second: Zombie_Doctor_walk_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_07
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 432.0761
+        width: 165.9239
+        height: 184.8675
+      alignment: 9
+      pivot: {x: 0.2767768, y: 0.6946806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.03806, y: -92.50988}
+        - {x: -83.03806, y: -76.50988}
+        - {x: -83.03806, y: 31.49012}
+        - {x: -59.03806, y: 70.49012}
+        - {x: -7.038061, y: 92.49012}
+        - {x: 41.96194, y: 92.49012}
+        - {x: 82.96194, y: 69.49012}
+        - {x: 82.96194, y: -47.50988}
+        - {x: 51.96194, y: -92.50988}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f84b4e1451e34e888387c5aa75b7f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_08
+      rect:
+        serializedVersion: 2
+        x: 547.0761
+        y: 224.0761
+        width: 166.9239
+        height: 191.8477
+      alignment: 9
+      pivot: {x: 0.2811095, y: 0.7111049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.53806, y: -96}
+        - {x: -83.53806, y: -70}
+        - {x: -83.53806, y: 30}
+        - {x: -77.53806, y: 50}
+        - {x: -39.53806, y: 87}
+        - {x: -6.538061, y: 96}
+        - {x: 47.46194, y: 96}
+        - {x: 83.46194, y: 85}
+        - {x: 83.46194, y: -42}
+        - {x: 10.46194, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7bcef61bb7c794698322f422d9462b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_09
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 0.07612038
+        width: 171.9239
+        height: 207.8477
+      alignment: 9
+      pivot: {x: 0.3020167, y: 0.6852317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.03806, y: -71}
+        - {x: -86.03806, y: -53}
+        - {x: -86.03806, y: 43}
+        - {x: -66.03806, y: 87}
+        - {x: -37.03806, y: 89}
+        - {x: -10.03806, y: 104}
+        - {x: 60.96194, y: 104}
+        - {x: 85.96194, y: 99}
+        - {x: 85.96194, y: -37}
+        - {x: 61.96194, y: -63}
+        - {x: -27.03806, y: -104}
+        - {x: -52.03806, y: -104}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb23658618cddb4da3fc217fd510c25
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_10
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 210.0761
+        width: 174.9239
+        height: 219.8477
+      alignment: 9
+      pivot: {x: 0.3139873, y: 0.666024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.53806, y: -110}
+        - {x: -86.53807, y: -80}
+        - {x: -78.53806, y: -29}
+        - {x: -87.53806, y: -12}
+        - {x: -87.53806, y: 39}
+        - {x: -69.53806, y: 88}
+        - {x: -12.53806, y: 110}
+        - {x: 64.46194, y: 110}
+        - {x: 85.46193, y: 105}
+        - {x: 87.46194, y: 102}
+        - {x: 87.46194, y: -38}
+        - {x: -12.53806, y: -110}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807338d6127ac14cad8034c8e0a96e8
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_11
+      rect:
+        serializedVersion: 2
+        x: 716.0761
+        y: 211.0761
+        width: 188.9239
+        height: 233.8477
+      alignment: 9
+      pivot: {x: 0.3648235, y: 0.6817422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.53806, y: -117}
+        - {x: -94.53806, y: -91}
+        - {x: -94.53806, y: 29}
+        - {x: -75.53806, y: 100}
+        - {x: -10.53806, y: 112}
+        - {x: 17.46194, y: 117}
+        - {x: 60.46194, y: 117}
+        - {x: 94.46194, y: 104}
+        - {x: 94.46194, y: -28}
+        - {x: 71.46194, y: -43}
+        - {x: -16.53806, y: -83}
+        - {x: -20.53806, y: -106}
+        - {x: -36.53806, y: -113}
+        - {x: -55.53806, y: -112}
+        - {x: -63.53806, y: -117}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3044d85964b895848a6b55efce7a16e1
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_12
+      rect:
+        serializedVersion: 2
+        x: 177.0429
+        y: 197.0761
+        width: 195.9571
+        height: 220.8477
+      alignment: 9
+      pivot: {x: 0.387621, y: 0.6811203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.02145, y: -110.5}
+        - {x: -98.02145, y: -77.49999}
+        - {x: -98.02145, y: -24.5}
+        - {x: -74.02145, y: 60.5}
+        - {x: -45.02145, y: 93.5}
+        - {x: 5.978546, y: 110.5}
+        - {x: 77.97855, y: 110.5}
+        - {x: 97.97855, y: 96.5}
+        - {x: 97.97855, y: -33.5}
+        - {x: -14.02145, y: -107.5}
+        - {x: -20.02145, y: -110.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667f65d93b850ec4281e8cb712e46f3d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_13
+      rect:
+        serializedVersion: 2
+        x: 375.0761
+        y: 0.07612038
+        width: 198.9239
+        height: 221.8477
+      alignment: 9
+      pivot: {x: 0.3967541, y: 0.6870652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.53806, y: -75}
+        - {x: -75.53806, y: -60}
+        - {x: -73.53806, y: -49}
+        - {x: -75.53806, y: -59}
+        - {x: -75.53806, y: -60}
+        - {x: -75.53806, y: -62.99999}
+        - {x: -86.53806, y: -67}
+        - {x: -99.53806, y: -37}
+        - {x: -99.53806, y: -2}
+        - {x: -75.53806, y: 95}
+        - {x: -19.53806, y: 111}
+        - {x: 99.46194, y: 111}
+        - {x: 99.46194, y: -53}
+        - {x: 23.46194, y: -111}
+        - {x: -35.53806, y: -111}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f0ab43cda459045b8af7489e0c3af6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_14
+      rect:
+        serializedVersion: 2
+        x: 375.0761
+        y: 418.0761
+        width: 203.9239
+        height: 212.8477
+      alignment: 9
+      pivot: {x: 0.4115451, y: 0.6785313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.03806, y: -34.5}
+        - {x: -102.0381, y: -36.5}
+        - {x: -102.0381, y: 30.5}
+        - {x: -18.03806, y: 106.5}
+        - {x: 75.96194, y: 106.5}
+        - {x: 101.9619, y: 84.5}
+        - {x: 101.9619, y: -44.5}
+        - {x: 23.96194, y: -106.5}
+        - {x: -39.03806, y: -106.5}
+        - {x: -71.03806, y: -82.50001}
+        - {x: -81.03806, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0497fe4f229fc244e9373b2501985ea7
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_15
+      rect:
+        serializedVersion: 2
+        x: 576.0761
+        y: 0.07612038
+        width: 205.9239
+        height: 204.8892
+      alignment: 9
+      pivot: {x: 0.4172604, y: 0.6756035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.03806, y: -21.52074}
+        - {x: -103.0381, y: -17.52074}
+        - {x: -103.0381, y: 28.47926}
+        - {x: -53.03806, y: 88.47926}
+        - {x: -2.038062, y: 102.4793}
+        - {x: 64.96194, y: 102.4793}
+        - {x: 101.9619, y: 95.47926}
+        - {x: 102.9619, y: 79.47926}
+        - {x: 102.9619, y: -41.52074}
+        - {x: 76.96194, y: -76.52074}
+        - {x: 1.961937, y: -102.5207}
+        - {x: -41.03806, y: -102.5207}
+        - {x: -65.03806, y: -76.52074}
+        - {x: -82.03806, y: -10.52074}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6393df35708d7b4a8c3815923fef513
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_16
+      rect:
+        serializedVersion: 2
+        x: 177.0761
+        y: 420.0761
+        width: 173.9239
+        height: 194.8477
+      alignment: 9
+      pivot: {x: 0.310043, y: 0.669363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.96194, y: -46.5}
+        - {x: 13.96194, y: -97.5}
+        - {x: -41.03806, y: -97.5}
+        - {x: -73.03806, y: -76.5}
+        - {x: -87.03807, y: -23.5}
+        - {x: -87.03807, y: 53.5}
+        - {x: -79.03806, y: 97.5}
+        - {x: 77.96194, y: 97.5}
+        - {x: 74.96194, y: 68.5}
+        - {x: 86.96194, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901ac15c61b4c734785d5da30ecf2ac2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_17
+      rect:
+        serializedVersion: 2
+        x: 375.0761
+        y: 224.0761
+        width: 169.9239
+        height: 190.8726
+      alignment: 9
+      pivot: {x: 0.2938014, y: 0.6833034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.03806, y: -95.51241}
+        - {x: -85.03806, y: -48.51241}
+        - {x: -85.03806, y: 44.48759}
+        - {x: -65.03806, y: 74.48759}
+        - {x: -17.03806, y: 95.48759}
+        - {x: 42.96194, y: 95.48759}
+        - {x: 84.96194, y: 64.48759}
+        - {x: 84.96194, y: -49.51241}
+        - {x: 25.96194, y: -95.51241}
+        - {x: -18.03806, y: -95.51241}
+        - {x: -29.03806, y: -87.51241}
+        - {x: -32.03806, y: -92.51241}
+        - {x: -37.03806, y: -95.51241}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcc3ce8ca807da4f8e21445f0bc5ca4
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_18
+      rect:
+        serializedVersion: 2
+        x: 174.0761
+        y: 0.07612228
+        width: 174.9239
+        height: 194.8477
+      alignment: 9
+      pivot: {x: 0.3139873, y: 0.6898919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.53806, y: -97.5}
+        - {x: -87.53806, y: -55.5}
+        - {x: -87.53806, y: 27.5}
+        - {x: -67.53806, y: 67.5}
+        - {x: -1.538063, y: 97.5}
+        - {x: 26.46193, y: 97.5}
+        - {x: 59.46194, y: 85.5}
+        - {x: 87.46194, y: 66.5}
+        - {x: 87.46194, y: -37.5}
+        - {x: 83.46194, y: -51.5}
+        - {x: 26.46193, y: -97.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e413d7cb4e35964ba0ff39b7e219ac4
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_19
+      rect:
+        serializedVersion: 2
+        x: 784.0761
+        y: 0.07612038
+        width: 184.9239
+        height: 208.8477
+      alignment: 9
+      pivot: {x: 0.3510843, y: 0.662798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.53806, y: -94.5}
+        - {x: -92.53806, y: -36.5}
+        - {x: -92.53806, y: 39.5}
+        - {x: -85.53806, y: 56.5}
+        - {x: -63.53806, y: 77.5}
+        - {x: -20.53806, y: 104.5}
+        - {x: 54.46194, y: 104.5}
+        - {x: 79.46194, y: 99.5}
+        - {x: 92.46194, y: 75.5}
+        - {x: 92.46194, y: -29.5}
+        - {x: 17.46194, y: -99.5}
+        - {x: 16.46194, y: -104.5}
+        - {x: -26.53806, y: -104.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d4624bcb708a4c9914ef9a6f097d8
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Doctor_walk_20
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 619.0761
+        width: 194.9239
+        height: 221.8477
+      alignment: 9
+      pivot: {x: 0.384375, y: 0.6464969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.53806, y: -81}
+        - {x: -97.53806, y: -60}
+        - {x: -97.53806, y: 85}
+        - {x: -49.53806, y: 111}
+        - {x: 92.46194, y: 111}
+        - {x: 97.46194, y: 96}
+        - {x: 97.46194, y: -19}
+        - {x: 17.46194, y: -111}
+        - {x: 3.461937, y: -111}
+        - {x: 0.461937, y: -107}
+        - {x: -17.53806, y: -77}
+        - {x: -19.53806, y: -81}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26105d9ffd836649be8d33174a9079c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_Doctor_walk_07: 21300000
+      Zombie_Doctor_walk_08: 21300002
+      Zombie_Doctor_walk_09: 21300004
+      Zombie_Doctor_walk_10: 21300006
+      Zombie_Doctor_walk_11: 21300008
+      Zombie_Doctor_walk_12: 21300010
+      Zombie_Doctor_walk_13: 21300012
+      Zombie_Doctor_walk_14: 21300014
+      Zombie_Doctor_walk_15: 21300016
+      Zombie_Doctor_walk_16: 21300018
+      Zombie_Doctor_walk_17: 21300020
+      Zombie_Doctor_walk_18: 21300022
+      Zombie_Doctor_walk_19: 21300024
+      Zombie_Doctor_walk_20: 21300026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

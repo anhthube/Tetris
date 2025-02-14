@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: f68f710662639e34cb51529be1ca5c0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: portrait_kurt_unselect
+  - first:
+      213: 21300002
+    second: portrait_larry_unselect
+  - first:
+      213: 21300004
+    second: portrait_glow_unlock
+  - first:
+      213: 21300006
+    second: button_skillup_hero
+  - first:
+      213: 21300008
+    second: icon_lock_hero
+  - first:
+      213: 21300010
+    second: portrait_amy_unselect
+  - first:
+      213: 21300012
+    second: button_upgrade_hero
+  - first:
+      213: 21300014
+    second: button_unlock_hero
+  - first:
+      213: 21300016
+    second: icon_unlock_hero
+  - first:
+      213: 21300018
+    second: button_lock_hero
+  - first:
+      213: 21300020
+    second: portrait_ed_unselect
+  - first:
+      213: 21300022
+    second: portrait_jason_unselect
+  - first:
+      213: 21300024
+    second: portrait_glow
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portrait_kurt_unselect
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 350
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -54}
+        - {x: -54, y: -54}
+        - {x: -54, y: 54}
+        - {x: 54, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f397e213d542ac48943ce2d709f143b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_larry_unselect
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 130
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -54}
+        - {x: -54, y: -54}
+        - {x: -54, y: 54}
+        - {x: 54, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31727723d44ac4b41ab52610fe4bd068
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_glow_unlock
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 58}
+        - {x: -59, y: 64}
+        - {x: 64, y: 64}
+        - {x: 64, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8228fc3578ac24697d1c2ef9a6ea6d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_skillup_hero
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 250.0761
+        width: 216.8477
+        height: 122.8478
+      alignment: 9
+      pivot: {x: 0.5023058, y: 0.5122102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.5, y: -61.5}
+        - {x: -108.5, y: -58.50001}
+        - {x: -108.5, y: 55.5}
+        - {x: -107.5, y: 58.5}
+        - {x: -104.5, y: 61.5}
+        - {x: 104.5, y: 61.5}
+        - {x: 108.5, y: 57.5}
+        - {x: 108.5, y: -54.5}
+        - {x: 107.5, y: -55.5}
+        - {x: 107.5, y: -58.50001}
+        - {x: 104.5, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb4046feffac154f84219bc66a33c5a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_lock_hero
+      rect:
+        serializedVersion: 2
+        x: 415.0761
+        y: 350
+        width: 52.85421
+        height: 56.98709
+      alignment: 9
+      pivot: {x: 0.490479, y: 0.5088872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.49677, y: -28.49354}
+        - {x: -26.50323, y: -28.49354}
+        - {x: -26.50323, y: 20.50646}
+        - {x: -15.50323, y: 28.50646}
+        - {x: 17.49677, y: 28.50646}
+        - {x: 26.49677, y: 8.506458}
+        - {x: 26.49677, y: -17.49354}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2182438bc72ffcf4ba5e8f83b4fe767a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_amy_unselect
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 240
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -54}
+        - {x: -54, y: -54}
+        - {x: -54, y: 54}
+        - {x: 54, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc3179fdbd7b8d4f9b1bb6422a79aea
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_upgrade_hero
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 375.0761
+        width: 216.8477
+        height: 122.8478
+      alignment: 9
+      pivot: {x: 0.5023058, y: 0.5122102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.5, y: -61.5}
+        - {x: -108.5, y: -58.50001}
+        - {x: -108.5, y: 55.5}
+        - {x: -107.5, y: 58.5}
+        - {x: -104.5, y: 61.5}
+        - {x: 104.5, y: 61.5}
+        - {x: 108.5, y: 57.5}
+        - {x: 108.5, y: -54.5}
+        - {x: 107.5, y: -55.5}
+        - {x: 107.5, y: -58.50001}
+        - {x: 104.5, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dbb3530e8a63d40a724015694a3568
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_unlock_hero
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 125.0761
+        width: 216.8477
+        height: 122.8478
+      alignment: 9
+      pivot: {x: 0.5023058, y: 0.5122102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.5, y: -61.5}
+        - {x: -108.5, y: -58.50001}
+        - {x: -108.5, y: 55.5}
+        - {x: -107.5, y: 58.5}
+        - {x: -104.5, y: 61.5}
+        - {x: 104.5, y: 61.5}
+        - {x: 108.5, y: 57.5}
+        - {x: 108.5, y: -54.5}
+        - {x: 107.5, y: -55.5}
+        - {x: 107.5, y: -58.50001}
+        - {x: 104.5, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f5b23ff65c794ca6d3dd6a692d9fd
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_unlock_hero
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 350.0761
+        width: 84
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -36.5}
+        - {x: -42, y: -36.5}
+        - {x: -42, y: 25.5}
+        - {x: -16, y: 36.5}
+        - {x: 34, y: 36.5}
+        - {x: 42, y: 27.5}
+        - {x: 42, y: -35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a09a6870d5f485418351d04ef24ac9a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_lock_hero
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.0761205
+        width: 216.8477
+        height: 122.8478
+      alignment: 9
+      pivot: {x: 0.5023058, y: 0.5122102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.5, y: -61.5}
+        - {x: -108.5, y: -58.50001}
+        - {x: -108.5, y: 55.5}
+        - {x: -107.5, y: 58.5}
+        - {x: -104.5, y: 61.5}
+        - {x: 104.5, y: 61.5}
+        - {x: 108.5, y: 57.5}
+        - {x: 108.5, y: -54.5}
+        - {x: 107.5, y: -55.5}
+        - {x: 107.5, y: -58.50001}
+        - {x: 104.5, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d0b1fe406de7043886898ec764be83
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_ed_unselect
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 130
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -54}
+        - {x: -54, y: -54}
+        - {x: -54, y: 54}
+        - {x: 54, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4af342b4624f4fabf720a25a1ed6c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_jason_unselect
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 240
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -54}
+        - {x: -54, y: -54}
+        - {x: -54, y: 54}
+        - {x: 54, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552b53a72c9b0a947a6db53b45e28be0
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_glow
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 117
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4988722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -64.14436}
+        - {x: -58.5, y: 63.85564}
+        - {x: 38.5, y: 63.85564}
+        - {x: 58.5, y: 57.85564}
+        - {x: 58.5, y: -64.14436}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa62252603acb4184daf058040202a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      button_lock_hero: 21300018
+      button_skillup_hero: 21300006
+      button_unlock_hero: 21300014
+      button_upgrade_hero: 21300012
+      icon_lock_hero: 21300008
+      icon_unlock_hero: 21300016
+      portrait_amy_unselect: 21300010
+      portrait_ed_unselect: 21300020
+      portrait_glow: 21300024
+      portrait_glow_unlock: 21300004
+      portrait_jason_unselect: 21300022
+      portrait_kurt_unselect: 21300000
+      portrait_larry_unselect: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

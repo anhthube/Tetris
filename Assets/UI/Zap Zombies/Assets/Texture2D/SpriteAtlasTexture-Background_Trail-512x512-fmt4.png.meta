@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 52b68e4c4157490468351a2a365344d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: trail_barricade_L02
+  - first:
+      213: 21300002
+    second: trail_barricade_L03
+  - first:
+      213: 21300004
+    second: trail_barricade_L01
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trail_barricade_L02
+      rect:
+        serializedVersion: 2
+        x: 0.04290771
+        y: 0
+        width: 505.9304
+        height: 155
+      alignment: 9
+      pivot: {x: 0.517773, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -190.0081, y: -8.5}
+        - {x: -189.0081, y: -15.5}
+        - {x: -201.0081, y: -20.5}
+        - {x: -208.0081, y: -20.5}
+        - {x: -253.0081, y: 3.5}
+        - {x: -253.0081, y: 68.5}
+        - {x: -248.0081, y: 77.5}
+        - {x: -123.0081, y: 77.5}
+        - {x: -81.00809, y: 59.5}
+        - {x: -61.00809, y: 19.5}
+        - {x: -61.00809, y: 1.5}
+        - {x: -90.00809, y: -11.5}
+      - - {x: -12.00809, y: -77.5}
+        - {x: -26.00809, y: -20.5}
+        - {x: -26.00809, y: 50.5}
+        - {x: 26.99191, y: 77.5}
+        - {x: 205.9919, y: 77.5}
+        - {x: 252.9919, y: 39.5}
+        - {x: 252.9919, y: -63.5}
+        - {x: 251.9919, y: -67.5}
+        - {x: 204.9919, y: -77.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fe0d1a66aba1943a21e344a2af57eb
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail_barricade_L03
+      rect:
+        serializedVersion: 2
+        x: 0.0761261
+        y: 157
+        width: 508.8478
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4027214, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.49998, y: -12.5}
+        - {x: 28.49998, y: -0.5}
+        - {x: 28.49998, y: 28.5}
+        - {x: 120.5, y: 54.5}
+        - {x: 177.5, y: 61.5}
+        - {x: 254.5, y: 61.5}
+        - {x: 254.5, y: -60.5}
+        - {x: 248.5, y: -77.5}
+        - {x: 196.5, y: -77.5}
+      - - {x: -208.5, y: 9.5}
+        - {x: -215.5, y: 31.5}
+        - {x: -189.5, y: 69.5}
+        - {x: -145.5, y: 77.5}
+        - {x: -94.50002, y: 77.5}
+        - {x: -78.50002, y: 60.5}
+        - {x: -77.50002, y: 49.5}
+        - {x: -83.50002, y: 38.5}
+        - {x: -76.50002, y: 49.5}
+        - {x: -65.50002, y: 77.5}
+        - {x: -41.50002, y: 77.5}
+        - {x: 24.49998, y: 47.5}
+        - {x: 27.49998, y: 42.5}
+        - {x: 27.49998, y: -22.5}
+        - {x: 8.499985, y: -77.5}
+        - {x: -254.5, y: -77.5}
+        - {x: -254.5, y: -9.5}
+        - {x: -251.5, y: -6.5}
+        - {x: -227.5, y: 11.5}
+        - {x: -206.5, y: 7.5}
+        - {x: -196.5, y: 2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f521fee6485f04791e69128aa140e3
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail_barricade_L01
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 314.0761
+        width: 505.8478
+        height: 129.8971
+      alignment: 9
+      pivot: {x: 0.565237, y: 0.4728656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -218, y: -55.02468}
+        - {x: -253, y: 3.975319}
+        - {x: -253, y: 14.97532}
+        - {x: -223, y: 55.97532}
+        - {x: 29, y: 55.97532}
+        - {x: 62, y: 39.97532}
+        - {x: 62, y: -58.02468}
+        - {x: 61, y: -65.02468}
+        - {x: -200, y: -65.02468}
+      - - {x: 183, y: 19.97532}
+        - {x: 181, y: 26.97532}
+        - {x: 181, y: 64.97532}
+        - {x: 250, y: 64.97532}
+        - {x: 253, y: 63.97532}
+        - {x: 253, y: 24.97532}
+        - {x: 240, y: 17.97532}
+        - {x: 197, y: 17.97532}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ebd84204ad264dbda5d4b1b67347e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trail_barricade_L01: 21300004
+      trail_barricade_L02: 21300000
+      trail_barricade_L03: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: f603184269413d5419a410f8f3de2196
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_Cheerleader_walk_07
+  - first:
+      213: 21300002
+    second: zombie_Cheerleader_walk_11
+  - first:
+      213: 21300004
+    second: zombie_Cheerleader_walk_08
+  - first:
+      213: 21300006
+    second: zombie_Cheerleader_walk_09
+  - first:
+      213: 21300008
+    second: zombie_Cheerleader_walk_10
+  - first:
+      213: 21300010
+    second: zombie_Cheerleader_walk_12
+  - first:
+      213: 21300012
+    second: zombie_Cheerleader_walk_13
+  - first:
+      213: 21300014
+    second: zombie_Cheerleader_walk_14
+  - first:
+      213: 21300016
+    second: zombie_Cheerleader_walk_15
+  - first:
+      213: 21300018
+    second: zombie_Cheerleader_walk_16
+  - first:
+      213: 21300020
+    second: zombie_Cheerleader_walk_17
+  - first:
+      213: 21300022
+    second: zombie_Cheerleader_walk_18
+  - first:
+      213: 21300024
+    second: zombie_Cheerleader_walk_19
+  - first:
+      213: 21300026
+    second: zombie_Cheerleader_walk_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_07
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.07612038
+        width: 188.8477
+        height: 219.8477
+      alignment: 9
+      pivot: {x: 0.470876, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.49999, y: -42.99998}
+        - {x: -94.49999, y: -17.99998}
+        - {x: -94.49999, y: 56.00002}
+        - {x: -70.49999, y: 89.00002}
+        - {x: -18.49999, y: 110}
+        - {x: 39.50001, y: 110}
+        - {x: 55.50001, y: 107}
+        - {x: 94.50001, y: 79.00002}
+        - {x: 94.50001, y: -5.999985}
+        - {x: 39.50001, y: -79.99998}
+        - {x: 12.50001, y: -110}
+        - {x: -21.49999, y: -110}
+        - {x: -73.49999, y: -91.99998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38edede6897fc6479c8f920eb0c5a5d
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_11
+      rect:
+        serializedVersion: 2
+        x: 191.0761
+        y: 0.07612038
+        width: 188.8477
+        height: 229.8477
+      alignment: 9
+      pivot: {x: 0.4973524, y: 0.5478578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.49999, y: -115}
+        - {x: -94.49999, y: -36.99998}
+        - {x: -94.49999, y: 86.00002}
+        - {x: -67.49999, y: 109}
+        - {x: -22.49999, y: 115}
+        - {x: 60.50001, y: 115}
+        - {x: 94.50001, y: 97.00002}
+        - {x: 94.50001, y: -10.99998}
+        - {x: 55.50001, y: -57.99998}
+        - {x: -0.4999924, y: -91.99998}
+        - {x: -3.499992, y: -60.99998}
+        - {x: -5.499992, y: -56.99998}
+        - {x: -5.499992, y: -63.99998}
+        - {x: -4.499992, y: -63.99998}
+        - {x: -3.499992, y: -104}
+        - {x: -2.499992, y: -112}
+        - {x: -3.499992, y: -115}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38370f7de16b4478b0b6d53f82e62e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_08
+      rect:
+        serializedVersion: 2
+        x: 382.0761
+        y: 0.05131721
+        width: 188.911
+        height: 214.8828
+      alignment: 9
+      pivot: {x: 0.4707185, y: 0.5070144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5316, y: -106.4927}
+        - {x: -32.5316, y: -81.49273}
+        - {x: -32.5316, y: -76.49273}
+        - {x: -33.5316, y: -82.49273}
+        - {x: -76.5316, y: -97.49273}
+        - {x: -94.5316, y: -30.49273}
+        - {x: -94.5316, y: 80.50727}
+        - {x: -84.5316, y: 107.5073}
+        - {x: 85.4684, y: 107.5073}
+        - {x: 94.4684, y: 92.50727}
+        - {x: 94.4684, y: -25.49273}
+        - {x: 16.4684, y: -107.4927}
+        - {x: -22.5316, y: -107.4927}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66648a732aa304243a14b5149dc3ce3e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_09
+      rect:
+        serializedVersion: 2
+        x: 573.0761
+        y: 223.0761
+        width: 188.8477
+        height: 219.8477
+      alignment: 9
+      pivot: {x: 0.4761713, y: 0.5272917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.499992, y: -107}
+        - {x: -12.49999, y: -110}
+        - {x: -43.49999, y: -110}
+        - {x: -90.49999, y: -78.99999}
+        - {x: -94.49999, y: -44.99999}
+        - {x: -94.49999, y: 47.00001}
+        - {x: -79.49999, y: 75.00001}
+        - {x: -57.49999, y: 100}
+        - {x: -28.49999, y: 110}
+        - {x: 61.50001, y: 110}
+        - {x: 94.50001, y: 74.00001}
+        - {x: 94.50001, y: -5.999992}
+        - {x: 88.50001, y: -20.99999}
+        - {x: 13.50001, y: -94.99999}
+        - {x: -8.499992, y: -101}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf966c9e8edb104489c5817b80a32593
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_10
+      rect:
+        serializedVersion: 2
+        x: 382.0761
+        y: 217.0761
+        width: 188.8477
+        height: 223.8477
+      alignment: 9
+      pivot: {x: 0.4867619, y: 0.5357386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.49999, y: -73}
+        - {x: -94.49999, y: -29}
+        - {x: -94.49999, y: 60}
+        - {x: -58.49999, y: 94}
+        - {x: -15.49999, y: 112}
+        - {x: 44.50001, y: 112}
+        - {x: 63.50001, y: 108}
+        - {x: 94.50001, y: 63}
+        - {x: 94.50001, y: 9}
+        - {x: 45.50001, y: -71}
+        - {x: 1.500008, y: -112}
+        - {x: -45.49999, y: -112}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2848aa84b7134fbbe3ba8517ab0df
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_12
+      rect:
+        serializedVersion: 2
+        x: 377.0761
+        y: 443.0513
+        width: 188.8477
+        height: 232.8726
+      alignment: 9
+      pivot: {x: 0.5026477, y: 0.5537307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.49998, y: -116.4876}
+        - {x: -94.49998, y: -34.48759}
+        - {x: -94.49998, y: 62.51241}
+        - {x: -87.49998, y: 70.51241}
+        - {x: -47.49998, y: 106.5124}
+        - {x: -23.49998, y: 116.5124}
+        - {x: 42.50002, y: 116.5124}
+        - {x: 67.50002, y: 113.5124}
+        - {x: 94.50002, y: 74.51241}
+        - {x: 94.50002, y: -14.4876}
+        - {x: 12.50002, y: -116.4876}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991aad70e2109944087ec158e36687f5
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_13
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 462.0717
+        width: 188.8477
+        height: 230.8521
+      alignment: 9
+      pivot: {x: 0.5132382, y: 0.5628203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -105.4978}
+        - {x: 1.5, y: -113.4978}
+        - {x: -5.5, y: -115.4978}
+        - {x: -9.5, y: -115.4978}
+        - {x: -91.5, y: -40.4978}
+        - {x: -94.5, y: -28.4978}
+        - {x: -94.5, y: 79.5022}
+        - {x: -32.5, y: 115.5022}
+        - {x: 60.5, y: 115.5022}
+        - {x: 91.5, y: 101.5022}
+        - {x: 94.5, y: 93.5022}
+        - {x: 94.5, y: -19.4978}
+        - {x: 41.5, y: -89.4978}
+        - {x: 3.5, y: -78.4978}
+        - {x: 1.5, y: -73.4978}
+        - {x: 1.5, y: -75.4978}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446420803938a46408204e17b2e874c7
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_14
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 222.0477
+        width: 185.8477
+        height: 232.8762
+      alignment: 9
+      pivot: {x: 0.5269038, y: 0.5623259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.000015, y: -112.4858}
+        - {x: 0.00001525879, y: -115.4858}
+        - {x: -3.999985, y: -116.4858}
+        - {x: -12.99998, y: -116.4858}
+        - {x: -78.99998, y: -46.48579}
+        - {x: -92.99998, y: -21.48579}
+        - {x: -92.99998, y: 55.51421}
+        - {x: -67.99998, y: 113.5142}
+        - {x: -56.99998, y: 116.5142}
+        - {x: 55.00002, y: 116.5142}
+        - {x: 93.00002, y: 79.51421}
+        - {x: 93.00002, y: 11.51421}
+        - {x: 46.00002, y: -81.48579}
+        - {x: 1.000015, y: -104.4858}
+        - {x: 2.000015, y: -107.4858}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1425fdb27127e94cbaa381961bb685e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_15
+      rect:
+        serializedVersion: 2
+        x: 191.0761
+        y: 678.0267
+        width: 185.8477
+        height: 230.8971
+      alignment: 9
+      pivot: {x: 0.5376653, y: 0.5369198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.99998, y: -17.47532}
+        - {x: -92.99998, y: 2.524681}
+        - {x: -92.99998, y: 53.52468}
+        - {x: -83.99998, y: 79.52468}
+        - {x: -18.99998, y: 115.5247}
+        - {x: 58.00002, y: 115.5247}
+        - {x: 93.00002, y: 69.52468}
+        - {x: 93.00002, y: -33.47532}
+        - {x: 58.00002, y: -102.4753}
+        - {x: 5.000015, y: -112.4753}
+        - {x: 4.000015, y: -115.4753}
+        - {x: -4.999985, y: -115.4753}
+        - {x: -45.99998, y: -84.47532}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf1f38b38f64943a4a5a8c3c83b776
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_16
+      rect:
+        serializedVersion: 2
+        x: 188.0761
+        y: 232.0761
+        width: 186.8477
+        height: 227.8477
+      alignment: 9
+      pivot: {x: 0.5347877, y: 0.5131667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.500008, y: -114}
+        - {x: -11.49999, y: -114}
+        - {x: -93.49999, y: -29.99999}
+        - {x: -93.49999, y: 65.00001}
+        - {x: -57.49999, y: 114}
+        - {x: 85.50001, y: 114}
+        - {x: 93.50001, y: 99.00001}
+        - {x: 93.50001, y: -10.99999}
+        - {x: 57.50001, y: -99.99999}
+        - {x: 9.500008, y: -98.99999}
+        - {x: 5.500008, y: -96.99999}
+        - {x: 2.500008, y: -93.99999}
+        - {x: 2.500008, y: -96.99999}
+        - {x: 5.500008, y: -113}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004fa1bab32461240b4ce2ce96f050c0
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_17
+      rect:
+        serializedVersion: 2
+        x: 573.0761
+        y: 0.07612038
+        width: 187.8477
+        height: 220.8477
+      alignment: 9
+      pivot: {x: 0.5212939, y: 0.497736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -86.49999}
+        - {x: -93.99999, y: -10.49999}
+        - {x: -93.99999, y: 47.50001}
+        - {x: -77.99999, y: 77.50001}
+        - {x: -21.99999, y: 110.5}
+        - {x: 51.00001, y: 110.5}
+        - {x: 60.00001, y: 109.5}
+        - {x: 94.00001, y: 63.50001}
+        - {x: 94.00001, y: 6.500008}
+        - {x: 64.00002, y: -96.49999}
+        - {x: 32.00001, y: -110.5}
+        - {x: -32.99999, y: -110.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7237b57bc13f8f2469c11ba3d2524416
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_18
+      rect:
+        serializedVersion: 2
+        x: 763.0761
+        y: 0.005971909
+        width: 189.8477
+        height: 219.9179
+      alignment: 9
+      pivot: {x: 0.5052674, y: 0.5001595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.99998, y: -81.96492}
+        - {x: -94.99998, y: -23.96492}
+        - {x: -94.99998, y: 41.03508}
+        - {x: -79.99998, y: 84.03508}
+        - {x: -22.99998, y: 110.0351}
+        - {x: 45.00002, y: 110.0351}
+        - {x: 85.00002, y: 88.03508}
+        - {x: 95.00002, y: 56.03508}
+        - {x: 95.00002, y: 4.03508}
+        - {x: 57.00002, y: -87.96492}
+        - {x: 20.00002, y: -109.9649}
+        - {x: -20.99998, y: -109.9649}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8924785653758a44598da6f4a669f4b9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_19
+      rect:
+        serializedVersion: 2
+        x: 379.0761
+        y: 678.0513
+        width: 189.8477
+        height: 224.8726
+      alignment: 9
+      pivot: {x: 0.4894653, y: 0.5200665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.99999, y: -74.48759}
+        - {x: -19.99999, y: -69.48759}
+        - {x: -22.99999, y: -78.48759}
+        - {x: -52.99999, y: -86.48759}
+        - {x: -78.99999, y: -76.48759}
+        - {x: -94.99999, y: -43.48759}
+        - {x: -94.99999, y: 76.51241}
+        - {x: -63.99999, y: 112.5124}
+        - {x: 61.00001, y: 112.5124}
+        - {x: 95.00001, y: 94.51241}
+        - {x: 95.00001, y: -6.487595}
+        - {x: 94.00001, y: -9.487595}
+        - {x: 49.00001, y: -79.48759}
+        - {x: 13.00001, y: -112.4876}
+        - {x: -4.999992, y: -112.4876}
+        - {x: -7.999992, y: -109.4876}
+        - {x: -1.999992, y: -91.48759}
+        - {x: -4.999992, y: -84.48759}
+        - {x: -3.999992, y: -96.48759}
+        - {x: -8.999992, y: -102.4876}
+        - {x: -22.99999, y: -90.48759}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d4604bb43629a498c081039d8e1bb1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_Cheerleader_walk_20
+      rect:
+        serializedVersion: 2
+        x: 764.0761
+        y: 222.0761
+        width: 187.8477
+        height: 230.8477
+      alignment: 9
+      pivot: {x: 0.4787062, y: 0.532489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.999992, y: -115.5}
+        - {x: -7.999992, y: -113.5}
+        - {x: -3.999992, y: -67.49998}
+        - {x: -2.999992, y: -52.49999}
+        - {x: -3.999992, y: -66.49998}
+        - {x: -5.999992, y: -89.49998}
+        - {x: -10.99999, y: -91.49998}
+        - {x: -14.99999, y: -91.49998}
+        - {x: -55.99999, y: -80.49998}
+        - {x: -80.99999, y: -72.49998}
+        - {x: -93.99999, y: -51.49998}
+        - {x: -93.99999, y: 69.50002}
+        - {x: -53.99999, y: 115.5}
+        - {x: 69.00001, y: 115.5}
+        - {x: 86.00001, y: 108.5}
+        - {x: 94.00001, y: 95.50002}
+        - {x: 94.00001, y: 3.500015}
+        - {x: 49, y: -81.49998}
+        - {x: 5.000008, y: -115.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40645d5767274f7478404a7a902c98de
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_Cheerleader_walk_07: 21300000
+      zombie_Cheerleader_walk_08: 21300004
+      zombie_Cheerleader_walk_09: 21300006
+      zombie_Cheerleader_walk_10: 21300008
+      zombie_Cheerleader_walk_11: 21300002
+      zombie_Cheerleader_walk_12: 21300010
+      zombie_Cheerleader_walk_13: 21300012
+      zombie_Cheerleader_walk_14: 21300014
+      zombie_Cheerleader_walk_15: 21300016
+      zombie_Cheerleader_walk_16: 21300018
+      zombie_Cheerleader_walk_17: 21300020
+      zombie_Cheerleader_walk_18: 21300022
+      zombie_Cheerleader_walk_19: 21300024
+      zombie_Cheerleader_walk_20: 21300026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

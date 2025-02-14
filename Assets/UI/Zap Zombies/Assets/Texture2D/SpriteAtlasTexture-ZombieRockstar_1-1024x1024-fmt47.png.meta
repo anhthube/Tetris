@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 5ea06f411ba4b114ab77149984fd4299
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_RockStar_walk_11
+  - first:
+      213: 21300002
+    second: Zombie_RockStar_walk_12
+  - first:
+      213: 21300004
+    second: Zombie_RockStar_walk_09
+  - first:
+      213: 21300006
+    second: Zombie_RockStar_walk_17
+  - first:
+      213: 21300008
+    second: Zombie_RockStar_walk_08
+  - first:
+      213: 21300010
+    second: Zombie_RockStar_walk_10
+  - first:
+      213: 21300012
+    second: Zombie_RockStar_walk_19
+  - first:
+      213: 21300014
+    second: Zombie_RockStar_walk_14
+  - first:
+      213: 21300016
+    second: Zombie_RockStar_walk_20
+  - first:
+      213: 21300018
+    second: Zombie_RockStar_walk_13
+  - first:
+      213: 21300020
+    second: Zombie_RockStar_walk_07
+  - first:
+      213: 21300022
+    second: Zombie_RockStar_walk_18
+  - first:
+      213: 21300024
+    second: Zombie_RockStar_walk_15
+  - first:
+      213: 21300026
+    second: Zombie_RockStar_walk_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.01291275
+        width: 188.9239
+        height: 210.9289
+      alignment: 9
+      pivot: {x: 0.5240206, y: 0.5949261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.46193, y: -105.4773}
+        - {x: -94.46193, y: -29.47735}
+        - {x: -94.46193, y: 67.52265}
+        - {x: -41.46193, y: 105.5227}
+        - {x: 15.53807, y: 105.5227}
+        - {x: 71.53807, y: 37.52265}
+        - {x: 94.53807, y: -20.47735}
+        - {x: 94.53807, y: -85.47734}
+        - {x: 61.53807, y: -105.4773}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c2b29658be173479c617a97ac315eb
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0.08709335
+        width: 186.9571
+        height: 207.7847
+      alignment: 9
+      pivot: {x: 0.5295333, y: 0.6035715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.47855, y: -103.9794}
+        - {x: -93.47855, y: -33.97944}
+        - {x: -93.47855, y: 56.02056}
+        - {x: -67.47855, y: 104.0206}
+        - {x: 26.52145, y: 104.0206}
+        - {x: 47.52145, y: 58.02056}
+        - {x: 93.52145, y: -54.97944}
+        - {x: 93.52145, y: -89.97944}
+        - {x: 56.52145, y: -89.97944}
+        - {x: 43.52145, y: -103.9794}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630181d9892cb4049bf74cd367307349
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_09
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 213.0429
+        width: 187.8477
+        height: 207.881
+      alignment: 9
+      pivot: {x: 0.5266173, y: 0.5794522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.00001, y: -97.9834}
+        - {x: 4.000008, y: -103.9834}
+        - {x: -53.99999, y: -103.9834}
+        - {x: -93.99999, y: -32.9834}
+        - {x: -93.99999, y: 61.0166}
+        - {x: -55.99999, y: 104.0166}
+        - {x: 24.00001, y: 104.0166}
+        - {x: 90.00001, y: 57.0166}
+        - {x: 94.00001, y: 36.0166}
+        - {x: 94.00001, y: -103.9834}
+        - {x: 19.00001, y: -103.9834}
+        - {x: 24.00001, y: -92.9834}
+        - {x: 17.00001, y: -83.9834}
+        - {x: 12.00001, y: -80.9834}
+        - {x: 17.00001, y: -84.9834}
+        - {x: 20.00001, y: -87.98339}
+        - {x: 20.00001, y: -90.98341}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff560f0d760e7f4597c1705f2e2d9a5
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 213.0129
+        width: 185.9733
+        height: 207.911
+      alignment: 9
+      pivot: {x: 0.5323346, y: 0.5747032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.98663, y: -100.9684}
+        - {x: -92.98663, y: -32.96839}
+        - {x: -92.98663, y: 62.03161}
+        - {x: -54.98663, y: 104.0316}
+        - {x: 31.01337, y: 104.0316}
+        - {x: 36.01337, y: 103.0316}
+        - {x: 93.01337, y: 21.03161}
+        - {x: 93.01337, y: -93.96839}
+        - {x: 84.01337, y: -103.9684}
+        - {x: -4.986626, y: -103.9684}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026a81fcce037904c9f699dd7c3f5bcf
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_08
+      rect:
+        serializedVersion: 2
+        x: 380.0761
+        y: 0.0844059
+        width: 181.8726
+        height: 205.8395
+      alignment: 9
+      pivot: {x: 0.5109286, y: 0.5849976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.98761, y: -103.0042}
+        - {x: -73.01239, y: -103.0042}
+        - {x: -87.01239, y: -90.00415}
+        - {x: -91.01239, y: -61.00414}
+        - {x: -91.01239, y: 77.99586}
+        - {x: -77.01239, y: 102.9959}
+        - {x: 20.98761, y: 102.9959}
+        - {x: 90.98761, y: 83.99586}
+        - {x: 90.98761, y: -94.00414}
+        - {x: 34.98761, y: -100.0041}
+        - {x: 21.98761, y: -97.00414}
+        - {x: 14.98761, y: -84.00414}
+        - {x: 7.98761, y: -81.00414}
+        - {x: 15.98761, y: -88.00414}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290dc0ecc1590f4408ccb0dbeacc1ad3
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0.05412674
+        width: 188.9239
+        height: 210.903
+      alignment: 9
+      pivot: {x: 0.5240206, y: 0.5853207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.46193, y: -33.50561}
+        - {x: -94.46193, y: -25.50561}
+        - {x: -94.46193, y: 57.49439}
+        - {x: -53.46193, y: 100.4944}
+        - {x: -35.46193, y: 105.4944}
+        - {x: 13.53807, y: 105.4944}
+        - {x: 75.53807, y: 53.49439}
+        - {x: 94.53807, y: -41.50561}
+        - {x: 94.53807, y: -83.50561}
+        - {x: 87.53807, y: -94.50561}
+        - {x: 50.53807, y: -105.5056}
+        - {x: -48.46193, y: -105.5056}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215eefad52bb847459689007976f8b09
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0.07612038
+        width: 183.9239
+        height: 211.8477
+      alignment: 9
+      pivot: {x: 0.5382662, y: 0.5684454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.96194, y: -87.99998}
+        - {x: -91.96194, y: -19.99998}
+        - {x: -91.96194, y: 69.00002}
+        - {x: -55.96194, y: 106}
+        - {x: 34.03806, y: 106}
+        - {x: 43.03806, y: 104}
+        - {x: 86.03806, y: -52.99998}
+        - {x: 92.03806, y: -72.99998}
+        - {x: 92.03806, y: -89.99998}
+        - {x: 82.03806, y: -102}
+        - {x: 71.03806, y: -106}
+        - {x: -34.96194, y: -106}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb325a6908a865445a64f42caf0ae042
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 213.0541
+        width: 184.9487
+        height: 200.8698
+      alignment: 9
+      pivot: {x: 0.5352836, y: 0.6145568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.47434, y: -57.48899}
+        - {x: -92.47434, y: -53.48899}
+        - {x: -92.47434, y: 73.51101}
+        - {x: -45.47434, y: 100.511}
+        - {x: 92.52566, y: 100.511}
+        - {x: 92.52566, y: -100.489}
+        - {x: 7.525658, y: -100.489}
+        - {x: -20.47434, y: -98.48899}
+        - {x: -39.47434, y: -98.48899}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd9216ab42a8e345b95547175f6c277
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 213.0761
+        width: 183.9239
+        height: 218.8477
+      alignment: 9
+      pivot: {x: 0.5382662, y: 0.5868183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.96194, y: -81.5}
+        - {x: -91.96194, y: -30.5}
+        - {x: -91.96194, y: 85.5}
+        - {x: -48.96194, y: 109.5}
+        - {x: 38.03806, y: 109.5}
+        - {x: 60.03806, y: 91.5}
+        - {x: 92.03806, y: -50.5}
+        - {x: 92.03806, y: -91.5}
+        - {x: 28.03806, y: -94.5}
+        - {x: 20.03806, y: -81.5}
+        - {x: 3.038063, y: -109.5}
+        - {x: -9.961937, y: -109.5}
+        - {x: -21.96194, y: -105.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1706b21a91849b41a57d8b3f7d7a6c8
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 214.0019
+        width: 185.9487
+        height: 204.9852
+      alignment: 9
+      pivot: {x: 0.532405, y: 0.6073517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.97434, y: -98.49451}
+        - {x: -92.97434, y: -40.49451}
+        - {x: -92.97434, y: 52.50549}
+        - {x: -73.97434, y: 82.50549}
+        - {x: -36.97434, y: 102.5055}
+        - {x: 4.025658, y: 102.5055}
+        - {x: 45.02566, y: 55.50549}
+        - {x: 93.02566, y: -33.49451}
+        - {x: 93.02566, y: -102.4945}
+        - {x: -36.97434, y: -102.4945}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6c5708e15226642ab1810721970caa
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_07
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 423.0761
+        width: 173.8971
+        height: 205.8642
+      alignment: 9
+      pivot: {x: 0.4941075, y: 0.6141132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.97532, y: -92.00819}
+        - {x: 67.97532, y: -103.0082}
+        - {x: -67.02468, y: -103.0082}
+        - {x: -87.02468, y: -50.00819}
+        - {x: -87.02468, y: 32.99181}
+        - {x: -70.02468, y: 88.99181}
+        - {x: -45.02468, y: 102.9918}
+        - {x: 12.97532, y: 102.9918}
+        - {x: 79.97532, y: 49.99181}
+        - {x: 78.97532, y: -59.00819}
+        - {x: 86.97532, y: -64.00819}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b046b96f51ef84282b10180086692c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 423.0019
+        width: 185.9487
+        height: 206.9713
+      alignment: 9
+      pivot: {x: 0.532405, y: 0.5628706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.02566, y: -80.48759}
+        - {x: 22.02566, y: -86.48759}
+        - {x: 12.02566, y: -103.4876}
+        - {x: -38.97434, y: -103.4876}
+        - {x: -74.97434, y: -91.48759}
+        - {x: -92.97434, y: -71.48759}
+        - {x: -92.97434, y: 69.51241}
+        - {x: -78.97434, y: 103.5124}
+        - {x: 22.02566, y: 103.5124}
+        - {x: 80.02566, y: -11.48759}
+        - {x: 93.02566, y: -56.48759}
+        - {x: 93.02566, y: -90.48759}
+        - {x: 79.02566, y: -88.48759}
+        - {x: 40.02566, y: -81.48759}
+        - {x: 42.02566, y: -101.4876}
+        - {x: 38.02566, y: -103.4876}
+        - {x: 27.02566, y: -103.4876}
+        - {x: 25.02566, y: -93.4876}
+        - {x: 21.02566, y: -82.48759}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988d11bc9c2b464f9fd6b29941ed4d3
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632.0761
+        width: 184.9571
+        height: 201.8477
+      alignment: 9
+      pivot: {x: 0.5352593, y: 0.6065159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.47854, y: -101}
+        - {x: -92.47854, y: -37}
+        - {x: -92.47854, y: 76}
+        - {x: -51.47854, y: 101}
+        - {x: 34.52146, y: 101}
+        - {x: 64.52146, y: 65}
+        - {x: 92.52146, y: -15}
+        - {x: 92.52146, y: -99.00001}
+        - {x: 41.52146, y: -100}
+        - {x: 41.52146, y: -101}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0716339223185b4db4e67d8a9afb487
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_RockStar_walk_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 423.0019
+        width: 185.9487
+        height: 206.9278
+      alignment: 9
+      pivot: {x: 0.532405, y: 0.5871519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.97434, y: -96.46584}
+        - {x: -92.97434, y: -40.46583}
+        - {x: -92.97434, y: 58.53416}
+        - {x: -56.97434, y: 103.5342}
+        - {x: 27.02566, y: 103.5342}
+        - {x: 93.02566, y: -29.46584}
+        - {x: 93.02566, y: -80.46584}
+        - {x: 81.02566, y: -90.46584}
+        - {x: 62.02566, y: -103.4658}
+        - {x: -21.97434, y: -103.4658}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d38dedcd35e554d9003512769b6d30
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_RockStar_walk_07: 21300020
+      Zombie_RockStar_walk_08: 21300008
+      Zombie_RockStar_walk_09: 21300004
+      Zombie_RockStar_walk_10: 21300010
+      Zombie_RockStar_walk_11: 21300000
+      Zombie_RockStar_walk_12: 21300002
+      Zombie_RockStar_walk_13: 21300018
+      Zombie_RockStar_walk_14: 21300014
+      Zombie_RockStar_walk_15: 21300024
+      Zombie_RockStar_walk_16: 21300026
+      Zombie_RockStar_walk_17: 21300006
+      Zombie_RockStar_walk_18: 21300022
+      Zombie_RockStar_walk_19: 21300012
+      Zombie_RockStar_walk_20: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

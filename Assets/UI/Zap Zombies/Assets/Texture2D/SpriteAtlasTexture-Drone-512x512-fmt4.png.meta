@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 50cfa8e7e2758a040a334ec50475ded4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Box_02
+  - first:
+      213: 21300002
+    second: Drone_01_propellor_01
+  - first:
+      213: 21300004
+    second: Drone_01_propellor_02
+  - first:
+      213: 21300006
+    second: propellor_03
+  - first:
+      213: 21300008
+    second: Drone_01_propellor_01
+  - first:
+      213: 21300010
+    second: Drone_01_propellor_02
+  - first:
+      213: 21300012
+    second: propellor_03
+  - first:
+      213: 21300014
+    second: Shadow
+  - first:
+      213: 21300016
+    second: Body_02
+  - first:
+      213: 21300018
+    second: Box_01
+  - first:
+      213: 21300020
+    second: facebook_picture
+  - first:
+      213: 21300022
+    second: Box_02
+  - first:
+      213: 21300024
+    second: Body_01
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Box_02
+      rect:
+        serializedVersion: 2
+        x: 0.06919479
+        y: 0.07611847
+        width: 82.85469
+        height: 102.8971
+      alignment: 9
+      pivot: {x: 0.4819378, y: 0.008978691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.49654, y: -44.52468}
+        - {x: -41.49654, y: -29.52468}
+        - {x: -41.49654, y: 7.475315}
+        - {x: -35.49654, y: 51.47532}
+        - {x: 41.50346, y: 51.47532}
+        - {x: 41.50346, y: -50.52468}
+        - {x: 35.50346, y: -51.52468}
+        - {x: -37.49654, y: -51.52468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb06bb89dc2a44aa4e9f9339634cb3
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_01_propellor_01
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 324.0761
+        width: 79.84776
+        height: 80.87256
+      alignment: 9
+      pivot: {x: 0.4749523, y: -0.3595302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -40.51241}
+        - {x: -40, y: -28.51241}
+        - {x: -40, y: 9.487595}
+        - {x: -23, y: 40.48759}
+        - {x: 15, y: 40.48759}
+        - {x: 37, y: 32.48759}
+        - {x: 40, y: 23.48759}
+        - {x: 40, y: -31.51241}
+        - {x: 36, y: -40.51241}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf02efe6be4b364cac90bf0a6b2b330
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_01_propellor_02
+      rect:
+        serializedVersion: 2
+        x: 393.0513
+        y: 105.0761
+        width: 80.87257
+        height: 83.92387
+      alignment: 9
+      pivot: {x: 0.4816056, y: -0.3345428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.4876, y: -42.03806}
+        - {x: -40.4876, y: -28.03806}
+        - {x: -40.4876, y: 36.96194}
+        - {x: -27.4876, y: 41.96194}
+        - {x: 32.5124, y: 41.96194}
+        - {x: 35.5124, y: 33.96194}
+        - {x: 40.5124, y: 13.96194}
+        - {x: 40.5124, y: -26.03806}
+        - {x: 35.5124, y: -33.03806}
+        - {x: 33.5124, y: -37.03806}
+        - {x: 16.5124, y: -42.03806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db744113e8110fa4e9787dc4058a4dfa
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propellor_03
+      rect:
+        serializedVersion: 2
+        x: 216.0513
+        y: 0.0761261
+        width: 80.87257
+        height: 81.89713
+      alignment: 9
+      pivot: {x: 0.4816056, y: -0.3672428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.4876, y: -41.02469}
+        - {x: -40.4876, y: -26.02469}
+        - {x: -40.4876, y: 20.97531}
+        - {x: -23.4876, y: 40.97531}
+        - {x: 19.5124, y: 40.97531}
+        - {x: 25.5124, y: 39.97531}
+        - {x: 40.5124, y: 13.97531}
+        - {x: 40.5124, y: -27.02469}
+        - {x: 36.5124, y: -40.02469}
+        - {x: 32.5124, y: -41.02469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bd2275efa15ff438b79bf887f43789
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_01_propellor_01
+      rect:
+        serializedVersion: 2
+        x: 87.07612
+        y: 0.05131531
+        width: 126.8726
+        height: 106.9487
+      alignment: 9
+      pivot: {x: 0.4959613, y: -0.0472312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.487598, y: -53.52566}
+        - {x: -37.5124, y: -46.52566}
+        - {x: -37.5124, y: -50.52566}
+        - {x: -42.5124, y: -53.52566}
+        - {x: -51.5124, y: -53.52566}
+        - {x: -56.5124, y: -51.52566}
+        - {x: -54.51241, y: -48.52566}
+        - {x: -50.5124, y: -44.52566}
+        - {x: -54.51241, y: -43.52566}
+        - {x: -63.5124, y: -53.52566}
+        - {x: -63.5124, y: 26.47434}
+        - {x: -44.5124, y: 53.47434}
+        - {x: 35.4876, y: 53.47434}
+        - {x: 62.4876, y: 33.47434}
+        - {x: 63.4876, y: 30.47434}
+        - {x: 63.4876, y: -41.52566}
+        - {x: 49.4876, y: -53.52566}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cde37360efff44390fd02709e60278
+      internalID: -4482812692279916157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_01_propellor_02
+      rect:
+        serializedVersion: 2
+        x: 299.0541
+        y: 0.02674866
+        width: 126.8698
+        height: 102.9733
+      alignment: 9
+      pivot: {x: 0.4961456, y: -0.0876611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.489, y: -51.51337}
+        - {x: -63.489, y: -45.51337}
+        - {x: -63.489, y: 51.48663}
+        - {x: 63.511, y: 51.48663}
+        - {x: 63.511, y: -50.51337}
+        - {x: 61.511, y: -51.51337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d9b5a009bf2f343a18d009566bcd85
+      internalID: -8006480870731788368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propellor_03
+      rect:
+        serializedVersion: 2
+        x: 187.0761
+        y: 109.0513
+        width: 128.8726
+        height: 103.9487
+      alignment: 9
+      pivot: {x: 0.496024, y: -0.07745471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5124, y: -52.02566}
+        - {x: -64.5124, y: -43.02566}
+        - {x: -64.5124, y: 45.97433}
+        - {x: -53.51239, y: 35.97434}
+        - {x: -49.5124, y: 37.97434}
+        - {x: -52.5124, y: 36.97434}
+        - {x: -55.5124, y: 38.97434}
+        - {x: -51.5124, y: 48.97434}
+        - {x: -46.5124, y: 51.97434}
+        - {x: 64.4876, y: 51.97434}
+        - {x: 64.4876, y: -49.02566}
+        - {x: 46.4876, y: -52.02566}
+        - {x: 13.4876, y: -52.02566}
+        - {x: -0.5123978, y: -24.02566}
+        - {x: -3.512398, y: -20.02566}
+        - {x: -2.512398, y: -32.02566}
+        - {x: -2.512398, y: -40.02566}
+        - {x: -20.5124, y: -52.02566}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444b147509b3a8e45a2e1ef5d46d0939
+      internalID: 7991870311899338764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow
+      rect:
+        serializedVersion: 2
+        x: 0.07612228
+        y: 105.0761
+        width: 84.88097
+        height: 62.91097
+      alignment: 9
+      pivot: {x: 0.4585702, y: 1.206846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.51661, y: -31.53161}
+        - {x: -42.51661, y: -23.53161}
+        - {x: -42.51661, y: 17.46839}
+        - {x: -27.51661, y: 31.46839}
+        - {x: 6.483395, y: 31.46839}
+        - {x: 27.48339, y: 27.46839}
+        - {x: 42.48339, y: 23.46839}
+        - {x: 42.48339, y: -28.53161}
+        - {x: 41.48339, y: -31.53161}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ccf63d0fb2714199d145b3eb89fc3
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_02
+      rect:
+        serializedVersion: 2
+        x: 87.07612
+        y: 109.0761
+        width: 97.84776
+        height: 74.84775
+      alignment: 9
+      pivot: {x: 0.4795601, y: -0.2548657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: -37.5}
+        - {x: -49, y: -37.5}
+        - {x: -49, y: 26.5}
+        - {x: -46, y: 33.5}
+        - {x: -35, y: 37.5}
+        - {x: 38, y: 37.5}
+        - {x: 49, y: 20.5}
+        - {x: 49, y: 3.500004}
+        - {x: 36, y: -7.5}
+        - {x: 46, y: -19.5}
+        - {x: 47, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c3813b02565640a2ffb9d3934da3a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_01
+      rect:
+        serializedVersion: 2
+        x: 0.02675247
+        y: 170.0761
+        width: 81.89713
+        height: 74.84776
+      alignment: 9
+      pivot: {x: 0.4758805, y: -0.01437743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.97532, y: -37.5}
+        - {x: -40.97532, y: -23.5}
+        - {x: -40.97532, y: 23.5}
+        - {x: -37.97532, y: 37.5}
+        - {x: 38.02468, y: 37.5}
+        - {x: 41.02468, y: 27.5}
+        - {x: 41.02468, y: -26.5}
+        - {x: 35.02468, y: -37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d35976138236a2439d80fce254f195d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebook_picture
+      rect:
+        serializedVersion: 2
+        x: 95.07612
+        y: 215
+        width: 103.8478
+        height: 113.9239
+      alignment: 9
+      pivot: {x: 0.5048147, y: 0.5266675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -56.96194}
+        - {x: -52, y: -45.96194}
+        - {x: -52, y: 54.03806}
+        - {x: -51, y: 57.03807}
+        - {x: 52, y: 57.03807}
+        - {x: 52, y: -47.96194}
+        - {x: 23, y: -56.96194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125658cce23db884992f8146cffa1061
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_02
+      rect:
+        serializedVersion: 2
+        x: 318.0761
+        y: 105.0761
+        width: 72.84776
+        height: 105.8478
+      alignment: 9
+      pivot: {x: 0.4656818, y: -0.04795679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.50001, y: -53}
+        - {x: -36.5, y: -43}
+        - {x: -36.5, y: 4.000004}
+        - {x: -34.5, y: 53}
+        - {x: 33.5, y: 53}
+        - {x: 36.5, y: 9.000004}
+        - {x: 36.5, y: -41}
+        - {x: 32.5, y: -53}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b15d7d0de0a4b40b913daff471382c
+      internalID: 4236299565422217915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_01
+      rect:
+        serializedVersion: 2
+        x: 0.1088848
+        y: 247.0761
+        width: 92.86436
+        height: 74.84775
+      alignment: 9
+      pivot: {x: 0.4834052, y: -0.2548657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.54107, y: -37.5}
+        - {x: -46.54107, y: -32.5}
+        - {x: -46.54107, y: 37.5}
+        - {x: 46.45893, y: 37.5}
+        - {x: 46.45893, y: -37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd65258eae17a408d821d7a96010ce
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Body_01: 21300024
+      Body_02: 21300016
+      Box_01: 21300018
+      Box_02: 21300000
+      Drone_01_propellor_01: 21300002
+      Drone_01_propellor_02: 21300004
+      Shadow: 21300014
+      facebook_picture: 21300020
+      propellor_03: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

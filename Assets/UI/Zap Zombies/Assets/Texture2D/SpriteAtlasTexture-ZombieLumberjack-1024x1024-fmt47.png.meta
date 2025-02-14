@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 59b3e586e43f0f8438279a152b102615
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_LumberJack_walk_04
+  - first:
+      213: 21300002
+    second: zombie_LumberJack_walk_03
+  - first:
+      213: 21300004
+    second: zombie_LumberJack_damage_03
+  - first:
+      213: 21300006
+    second: zombie_LumberJack_damage_08
+  - first:
+      213: 21300008
+    second: zombie_LumberJack_damage_05
+  - first:
+      213: 21300010
+    second: zombie_LumberJack_damage_07
+  - first:
+      213: 21300012
+    second: zombie_LumberJack_walk_01
+  - first:
+      213: 21300014
+    second: zombie_LumberJack_walk_02
+  - first:
+      213: 21300016
+    second: zombie_LumberJack_walk_05
+  - first:
+      213: 21300018
+    second: zombie_LumberJack_walk_06
+  - first:
+      213: 21300020
+    second: zombie_LumberJack_damage_04
+  - first:
+      213: 21300022
+    second: zombie_LumberJack_damage_02
+  - first:
+      213: 21300024
+    second: zombie_LumberJack_damage_01
+  - first:
+      213: 21300026
+    second: zombie_LumberJack_damage_06
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_LumberJack_walk_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.07612038
+        width: 217.9239
+        height: 210.8477
+      alignment: 9
+      pivot: {x: 0.617188, y: 0.6588824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.96194, y: -105.5}
+        - {x: -108.9619, y: -35.5}
+        - {x: -108.9619, y: 65.5}
+        - {x: -72.96194, y: 105.5}
+        - {x: -34.96194, y: 105.5}
+        - {x: 27.03806, y: 87.5}
+        - {x: 46.03806, y: 63.5}
+        - {x: 86.03806, y: -4.5}
+        - {x: 109.0381, y: -35.5}
+        - {x: 109.0381, y: -80.5}
+        - {x: -1.961937, y: -105.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df7e89e0f899f46a827a922dd6be6b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_walk_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213.0267
+        width: 219.9239
+        height: 217.8971
+      alignment: 9
+      pivot: {x: 0.6115752, y: 0.6377929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.9619, y: -38.97531}
+        - {x: -109.9619, y: -24.97531}
+        - {x: -109.9619, y: 85.02469}
+        - {x: -68.96194, y: 109.0247}
+        - {x: -19.96194, y: 109.0247}
+        - {x: 49.03806, y: 88.02469}
+        - {x: 71.03806, y: -13.97531}
+        - {x: 110.0381, y: -53.97531}
+        - {x: 110.0381, y: -87.9753}
+        - {x: -3.961937, y: -108.9753}
+        - {x: -57.96194, y: -108.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bdfe19366fb1943bc3714a64006ae0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_damage_03
+      rect:
+        serializedVersion: 2
+        x: 220.0477
+        y: 0.07612038
+        width: 191.901
+        height: 172.8477
+      alignment: 9
+      pivot: {x: 0.4452937, y: 0.7979501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.99819, y: -86.5}
+        - {x: -95.99819, y: -38.5}
+        - {x: -95.99819, y: 50.5}
+        - {x: -87.99819, y: 86.5}
+        - {x: 38.00181, y: 86.5}
+        - {x: 96.00182, y: -8.500004}
+        - {x: 96.00182, y: -86.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075468cf763eb03458c20f5d45f03eee
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_damage_08
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 175.0267
+        width: 233.9239
+        height: 257.8971
+      alignment: 9
+      pivot: {x: 0.5749734, y: 0.5039732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.96194, y: -45.97531}
+        - {x: -116.9619, y: -5.975311}
+        - {x: -116.9619, y: 105.0247}
+        - {x: -89.96194, y: 125.0247}
+        - {x: -78.96194, y: 129.0247}
+        - {x: -5.961937, y: 129.0247}
+        - {x: 35.03806, y: 104.0247}
+        - {x: 84.03806, y: -5.975311}
+        - {x: 117.0381, y: -46.97531}
+        - {x: 117.0381, y: -81.97531}
+        - {x: 105.0381, y: -82.97531}
+        - {x: -26.96194, y: -118.9753}
+        - {x: -38.96194, y: -128.9753}
+        - {x: -57.96194, y: -128.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8bfb0cdc7d08c4191efd1523069244
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_damage_05
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0.05131721
+        width: 263.9436
+        height: 270.9487
+      alignment: 9
+      pivot: {x: 0.5095785, y: 0.4574619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.02817, y: -119.5257}
+        - {x: -43.97183, y: -129.5256}
+        - {x: -52.97183, y: -135.5257}
+        - {x: -75.97183, y: -135.5257}
+        - {x: -126.9718, y: -20.52565}
+        - {x: -131.9718, y: 30.47435}
+        - {x: -131.9718, y: 130.4743}
+        - {x: -122.9718, y: 135.4743}
+        - {x: 20.02817, y: 135.4743}
+        - {x: 32.02817, y: 120.4743}
+        - {x: 43.02817, y: 73.47435}
+        - {x: 4.028168, y: 29.47435}
+        - {x: 120.0282, y: 23.47435}
+        - {x: 132.0282, y: 21.47435}
+        - {x: 132.0282, y: 5.47435}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a761dc6197614fe40b851153197589ab
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_damage_07
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0.04290771
+        width: 247.9239
+        height: 274.9571
+      alignment: 9
+      pivot: {x: 0.5425053, y: 0.4653711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.96194, y: -137.5215}
+        - {x: -123.9619, y: -34.52145}
+        - {x: -123.9619, y: 127.4785}
+        - {x: -109.9619, y: 137.4785}
+        - {x: 6.038063, y: 137.4785}
+        - {x: 39.03806, y: 104.4785}
+        - {x: 37.03806, y: 31.47855}
+        - {x: 115.0381, y: -33.52145}
+        - {x: 121.0381, y: -35.52145}
+        - {x: 124.0381, y: -38.52145}
+        - {x: 124.0381, y: -53.52145}
+        - {x: 1.038063, y: -124.5215}
+        - {x: -35.96194, y: -129.5215}
+        - {x: -39.96194, y: -137.5215}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1f433a3e36a340b5bb67375b4609e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_walk_01
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 273.0513
+        width: 223.9239
+        height: 231.8726
+      alignment: 9
+      pivot: {x: 0.6006505, y: 0.5647442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.96194, y: -112.9876}
+        - {x: -111.9619, y: -16.98759}
+        - {x: -111.9619, y: 89.01241}
+        - {x: -74.96194, y: 116.0124}
+        - {x: -3.961935, y: 116.0124}
+        - {x: 42.03806, y: 93.01241}
+        - {x: 111.0381, y: -63.98759}
+        - {x: 112.0381, y: -66.98759}
+        - {x: 112.0381, y: -79.98759}
+        - {x: 104.0381, y: -96.98759}
+        - {x: -5.961937, y: -87.98759}
+        - {x: -24.96194, y: -115.9876}
+        - {x: -47.96194, y: -115.9876}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3bfcbb29e6ae840828aea217bf905f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_walk_02
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 507.0513
+        width: 221.9239
+        height: 224.9219
+      alignment: 9
+      pivot: {x: 0.6060637, y: 0.5999801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.96194, y: -111.5123}
+        - {x: -110.9619, y: -20.51228}
+        - {x: -110.9619, y: 84.48772}
+        - {x: -67.96194, y: 112.4877}
+        - {x: 24.03806, y: 112.4877}
+        - {x: 71.03806, y: 43.48772}
+        - {x: 111.0381, y: -63.51228}
+        - {x: 111.0381, y: -82.51228}
+        - {x: 78.03806, y: -93.51228}
+        - {x: -21.96194, y: -106.5123}
+        - {x: -31.96194, y: -112.5123}
+        - {x: -40.96194, y: -112.5123}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a537e846a99bc441b16216f84419362
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_walk_05
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 715.0761
+        width: 215.9239
+        height: 207.8477
+      alignment: 9
+      pivot: {x: 0.6229047, y: 0.6539589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.96194, y: -104}
+        - {x: -107.9619, y: -38}
+        - {x: -107.9619, y: 68}
+        - {x: -63.96194, y: 104}
+        - {x: -22.96194, y: 104}
+        - {x: 8.038063, y: 93}
+        - {x: 43.03806, y: 68}
+        - {x: 106.0381, y: -54}
+        - {x: 108.0381, y: -58}
+        - {x: 108.0381, y: -71}
+        - {x: 99.03806, y: -83}
+        - {x: 44.03806, y: -104}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74a13289ea5164b93ee727a9be7736
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_walk_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682.0267
+        width: 216.9239
+        height: 207.8971
+      alignment: 9
+      pivot: {x: 0.6200332, y: 0.6299907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.46194, y: -103.9753}
+        - {x: -108.4619, y: -28.97531}
+        - {x: -108.4619, y: 78.02469}
+        - {x: -68.46194, y: 104.0247}
+        - {x: 1.538063, y: 104.0247}
+        - {x: 27.53806, y: 94.02469}
+        - {x: 61.53806, y: 38.02469}
+        - {x: 71.53806, y: -20.97531}
+        - {x: 108.5381, y: -59.97531}
+        - {x: 108.5381, y: -83.97531}
+        - {x: 92.53806, y: -98.97531}
+        - {x: 23.53806, y: -103.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c7565ce2ae32d4699066fda9b3e429
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_damage_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435.0268
+        width: 257.9239
+        height: 244.9303
+      alignment: 9
+      pivot: {x: 0.5214717, y: 0.5347368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.96194, y: -32.49192}
+        - {x: -128.9619, y: 13.50808}
+        - {x: -128.9619, y: 93.50808}
+        - {x: -96.96194, y: 122.5081}
+        - {x: -18.96194, y: 122.5081}
+        - {x: 14.03806, y: 118.5081}
+        - {x: 51.03806, y: 66.50808}
+        - {x: 71.03806, y: 1.50808}
+        - {x: 129.0381, y: -29.49192}
+        - {x: 129.0381, y: -89.49192}
+        - {x: 37.03806, y: -122.4919}
+        - {x: -72.96194, y: -122.4919}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9133ac46674abba409cb48d1bd5c5574
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_damage_02
+      rect:
+        serializedVersion: 2
+        x: 484.0761
+        y: 507.0429
+        width: 221.8477
+        height: 205.8907
+      alignment: 9
+      pivot: {x: 0.5518374, y: 0.6554793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.99999, y: -98.98827}
+        - {x: -111, y: -50.98827}
+        - {x: -111, y: 88.01173}
+        - {x: -63.99999, y: 103.0117}
+        - {x: 39.00001, y: 103.0117}
+        - {x: 111, y: -34.98827}
+        - {x: 111, y: -88.98827}
+        - {x: 92.00001, y: -90.98827}
+        - {x: -32.99999, y: -102.9883}
+        - {x: -49.99999, y: -102.9883}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d127903edef345be88d795f342bad
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_damage_01
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 277.0513
+        width: 223.9239
+        height: 231.8726
+      alignment: 9
+      pivot: {x: 0.6006505, y: 0.5647442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.96194, y: -112.9876}
+        - {x: -111.9619, y: -16.98759}
+        - {x: -111.9619, y: 89.01241}
+        - {x: -74.96194, y: 116.0124}
+        - {x: -3.961935, y: 116.0124}
+        - {x: 42.03806, y: 93.01241}
+        - {x: 111.0381, y: -63.98759}
+        - {x: 112.0381, y: -66.98759}
+        - {x: 112.0381, y: -79.98759}
+        - {x: 104.0381, y: -96.98759}
+        - {x: -5.961937, y: -87.98759}
+        - {x: -24.96194, y: -115.9876}
+        - {x: -47.96194, y: -115.9876}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44408d034df891b47bb4c5ab51eebee1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_LumberJack_damage_06
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 511.0761
+        width: 259.9239
+        height: 272.9239
+      alignment: 9
+      pivot: {x: 0.5174592, y: 0.4613883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.96194, y: -38.53806}
+        - {x: -129.9619, y: -8.538063}
+        - {x: -129.9619, y: 136.4619}
+        - {x: 22.03806, y: 136.4619}
+        - {x: 38.03806, y: 119.4619}
+        - {x: 33.03806, y: 52.46194}
+        - {x: 130.0381, y: 11.46194}
+        - {x: 130.0381, y: -13.53806}
+        - {x: 115.0381, y: -29.53806}
+        - {x: 11.03806, y: -130.5381}
+        - {x: -42.96194, y: -129.5381}
+        - {x: -49.96194, y: -136.5381}
+        - {x: -61.96194, y: -136.5381}
+        - {x: -71.96194, y: -133.5381}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21e1e5e422e364ababcaca0ac3e2bc
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zombie_LumberJack_damage_01: 21300024
+      zombie_LumberJack_damage_02: 21300022
+      zombie_LumberJack_damage_03: 21300004
+      zombie_LumberJack_damage_04: 21300020
+      zombie_LumberJack_damage_05: 21300008
+      zombie_LumberJack_damage_06: 21300026
+      zombie_LumberJack_damage_07: 21300010
+      zombie_LumberJack_damage_08: 21300006
+      zombie_LumberJack_walk_01: 21300012
+      zombie_LumberJack_walk_02: 21300014
+      zombie_LumberJack_walk_03: 21300002
+      zombie_LumberJack_walk_04: 21300000
+      zombie_LumberJack_walk_05: 21300016
+      zombie_LumberJack_walk_06: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

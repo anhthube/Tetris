@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 2b715c4458057b646989ab6597206cb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: button_awaken_02
+  - first:
+      213: 21300002
+    second: bg_IMPLANT_01
+  - first:
+      213: 21300004
+    second: button_pullist_01
+  - first:
+      213: 21300006
+    second: button_levelup_01
+  - first:
+      213: 21300008
+    second: button_levelup_02
+  - first:
+      213: 21300010
+    second: bg_IMPLANT_03
+  - first:
+      213: 21300012
+    second: button_pullist_02
+  - first:
+      213: 21300014
+    second: button_awaken_01
+  - first:
+      213: 21300016
+    second: button_levelup_sell
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button_awaken_02
+      rect:
+        serializedVersion: 2
+        x: 554.0429
+        y: 343.0268
+        width: 338.881
+        height: 185.8971
+      alignment: 9
+      pivot: {x: 0.5029999, y: 0.5028225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169.5166, y: -73.97531}
+        - {x: 168.5166, y: -74.97531}
+        - {x: 168.5166, y: -80.97531}
+        - {x: 167.5166, y: -81.97531}
+        - {x: 167.5166, y: -85.97531}
+        - {x: 166.5166, y: -88.97531}
+        - {x: 162.5166, y: -92.97531}
+        - {x: -164.4834, y: -92.97531}
+        - {x: -167.4834, y: -91.97531}
+        - {x: -169.4834, y: -87.97531}
+        - {x: -169.4834, y: 78.02469}
+        - {x: -168.4834, y: 79.02469}
+        - {x: -168.4834, y: 82.02469}
+        - {x: -167.4834, y: 83.02469}
+        - {x: -166.4834, y: 89.02469}
+        - {x: -162.4834, y: 93.02469}
+        - {x: -159.4834, y: 93.02469}
+        - {x: -158.4834, y: 92.02469}
+        - {x: 160.5166, y: 92.02469}
+        - {x: 161.5166, y: 93.02469}
+        - {x: 164.5166, y: 93.02469}
+        - {x: 168.5166, y: 89.02469}
+        - {x: 168.5166, y: 87.02469}
+        - {x: 169.5166, y: 86.02469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20132822d7360c4f843797539767622
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_IMPLANT_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 583.7071
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5002509, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 292.1464, y: -76.5}
+        - {x: -291.8536, y: -76.5}
+        - {x: -291.8536, y: 76.5}
+        - {x: 292.1464, y: 76.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b36b6181e949e84a80500a9ecff384a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_pullist_01
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 155.0513
+        width: 551.881
+        height: 131.9219
+      alignment: 9
+      pivot: {x: 0.5008759, y: 0.503697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -274.0166, y: -63.01228}
+        - {x: -275.0166, y: -60.01228}
+        - {x: -275.0166, y: -57.01228}
+        - {x: -276.0166, y: -56.01228}
+        - {x: -276.0166, y: 61.98772}
+        - {x: -272.0166, y: 65.98772}
+        - {x: 270.9834, y: 65.98772}
+        - {x: 273.9834, y: 64.98772}
+        - {x: 275.9834, y: 60.98772}
+        - {x: 275.9834, y: -54.01228}
+        - {x: 274.9834, y: -57.01228}
+        - {x: 273.9834, y: -58.01228}
+        - {x: 272.9834, y: -63.01228}
+        - {x: 267.9834, y: -66.01228}
+        - {x: -270.0166, y: -66.01228}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32984eae80bbde045a61d68d9fbf46ae
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_levelup_01
+      rect:
+        serializedVersion: 2
+        x: 333.0761
+        y: 531.0761
+        width: 330.8478
+        height: 185.8477
+      alignment: 9
+      pivot: {x: 0.5030225, y: 0.5053808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161.5, y: -92.99999}
+        - {x: -165.5, y: -88.99999}
+        - {x: -165.5, y: 81.00001}
+        - {x: -164.5, y: 82.00001}
+        - {x: -164.5, y: 86.00001}
+        - {x: -163.5, y: 87.00001}
+        - {x: -163.5, y: 89.00001}
+        - {x: -159.5, y: 93.00001}
+        - {x: 161.5, y: 93.00001}
+        - {x: 165.5, y: 89.00001}
+        - {x: 165.5, y: -79.99999}
+        - {x: 164.5, y: -80.99999}
+        - {x: 164.5, y: -85.99999}
+        - {x: 163.5, y: -88.99999}
+        - {x: 159.5, y: -92.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4162eadc58b0f49a124238ddcd20ef
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_levelup_02
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 611.0761
+        width: 330.8478
+        height: 185.8477
+      alignment: 9
+      pivot: {x: 0.5030225, y: 0.5053808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161.5, y: -92.99999}
+        - {x: -165.5, y: -88.99999}
+        - {x: -165.5, y: 81.00001}
+        - {x: -164.5, y: 82.00001}
+        - {x: -164.5, y: 86.00001}
+        - {x: -163.5, y: 87.00001}
+        - {x: -163.5, y: 89.00001}
+        - {x: -159.5, y: 93.00001}
+        - {x: 161.5, y: 93.00001}
+        - {x: 165.5, y: 89.00001}
+        - {x: 165.5, y: -79.99999}
+        - {x: 164.5, y: -80.99999}
+        - {x: 164.5, y: -85.99999}
+        - {x: 163.5, y: -88.99999}
+        - {x: 159.5, y: -92.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a563d770fdaf4fbb7fcd0705c0e53
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_IMPLANT_03
+      rect:
+        serializedVersion: 2
+        x: 333.0761
+        y: 719.0761
+        width: 554.8478
+        height: 109.8478
+      alignment: 9
+      pivot: {x: 0.4990988, y: 0.4908965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 277.5, y: -55}
+        - {x: -277.5, y: -55}
+        - {x: -277.5, y: 53}
+        - {x: -275.5, y: 55}
+        - {x: 275.5, y: 55}
+        - {x: 277.5, y: 53}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d771f080136e248bd1467716907607
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_pullist_02
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 289.0513
+        width: 551.881
+        height: 131.9219
+      alignment: 9
+      pivot: {x: 0.5008759, y: 0.503697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -274.0166, y: -63.01228}
+        - {x: -275.0166, y: -60.01228}
+        - {x: -275.0166, y: -57.01228}
+        - {x: -276.0166, y: -56.01228}
+        - {x: -276.0166, y: 61.98772}
+        - {x: -272.0166, y: 65.98772}
+        - {x: 270.9834, y: 65.98772}
+        - {x: 273.9834, y: 64.98772}
+        - {x: 275.9834, y: 60.98772}
+        - {x: 275.9834, y: -54.01228}
+        - {x: 274.9834, y: -57.01228}
+        - {x: 273.9834, y: -58.01228}
+        - {x: 272.9834, y: -63.01228}
+        - {x: 267.9834, y: -66.01228}
+        - {x: -270.0166, y: -66.01228}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c1c54e8df90644da8669182e0afdd6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_awaken_01
+      rect:
+        serializedVersion: 2
+        x: 554.0429
+        y: 155.0267
+        width: 338.881
+        height: 185.8971
+      alignment: 9
+      pivot: {x: 0.5029999, y: 0.5028225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169.5166, y: -73.97531}
+        - {x: 168.5166, y: -74.97531}
+        - {x: 168.5166, y: -80.97531}
+        - {x: 167.5166, y: -81.97531}
+        - {x: 167.5166, y: -85.97531}
+        - {x: 166.5166, y: -88.97531}
+        - {x: 162.5166, y: -92.97531}
+        - {x: -164.4834, y: -92.97531}
+        - {x: -167.4834, y: -91.97531}
+        - {x: -169.4834, y: -87.97531}
+        - {x: -169.4834, y: 78.02469}
+        - {x: -168.4834, y: 79.02469}
+        - {x: -168.4834, y: 82.02469}
+        - {x: -167.4834, y: 83.02469}
+        - {x: -166.4834, y: 89.02469}
+        - {x: -162.4834, y: 93.02469}
+        - {x: -159.4834, y: 93.02469}
+        - {x: -158.4834, y: 92.02469}
+        - {x: 160.5166, y: 92.02469}
+        - {x: 161.5166, y: 93.02469}
+        - {x: 164.5166, y: 93.02469}
+        - {x: 168.5166, y: 89.02469}
+        - {x: 168.5166, y: 87.02469}
+        - {x: 169.5166, y: 86.02469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2107568c350bb404e8ddf65a1e2a6baf
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_levelup_sell
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 423.0761
+        width: 330.8478
+        height: 185.8477
+      alignment: 9
+      pivot: {x: 0.5030225, y: 0.5053808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161.5, y: -92.99999}
+        - {x: -165.5, y: -88.99999}
+        - {x: -165.5, y: 81.00001}
+        - {x: -164.5, y: 82.00001}
+        - {x: -164.5, y: 86.00001}
+        - {x: -163.5, y: 87.00001}
+        - {x: -163.5, y: 89.00001}
+        - {x: -159.5, y: 93.00001}
+        - {x: 161.5, y: 93.00001}
+        - {x: 165.5, y: 89.00001}
+        - {x: 165.5, y: -79.99999}
+        - {x: 164.5, y: -80.99999}
+        - {x: 164.5, y: -85.99999}
+        - {x: 163.5, y: -88.99999}
+        - {x: 159.5, y: -92.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18441cd20f9fa4ea0682d9d4c5b7df
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bg_IMPLANT_01: 21300002
+      bg_IMPLANT_03: 21300010
+      button_awaken_01: 21300014
+      button_awaken_02: 21300000
+      button_levelup_01: 21300006
+      button_levelup_02: 21300008
+      button_levelup_sell: 21300016
+      button_pullist_01: 21300004
+      button_pullist_02: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

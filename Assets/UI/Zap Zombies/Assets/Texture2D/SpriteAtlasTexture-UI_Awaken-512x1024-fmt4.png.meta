@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 3f7ad7030f255f7419e5d5aceac69a62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: button_awaken_bonus
+  - first:
+      213: 21300002
+    second: button_awaken_free
+  - first:
+      213: 21300004
+    second: button_awaken_bonus_02
+  - first:
+      213: 21300006
+    second: icon_biochip
+  - first:
+      213: 21300008
+    second: awaken_bonus_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button_awaken_bonus
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 421
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 205.5, y: -127.5}
+        - {x: -210.5, y: -127.5}
+        - {x: -210.5, y: 127.5}
+        - {x: 210.5, y: 127.5}
+        - {x: 210.5, y: -122.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f234c22023aa5bb43912623812820c26
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_awaken_free
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 421
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206.5, y: -127.5}
+        - {x: -210.5, y: -127.5}
+        - {x: -210.5, y: 127.5}
+        - {x: 210.5, y: 127.5}
+        - {x: 210.5, y: -122.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c54ac789a3bf01449d2062542af7a2a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_awaken_bonus_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 421
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 205.5, y: -127.5}
+        - {x: -210.5, y: -127.5}
+        - {x: -210.5, y: 127.5}
+        - {x: 210.5, y: 127.5}
+        - {x: 210.5, y: -122.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cbf7ba0836e954787f88272e92afb3
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_biochip
+      rect:
+        serializedVersion: 2
+        x: 299.0761
+        y: 771
+        width: 100.8478
+        height: 94.94868
+      alignment: 9
+      pivot: {x: 0.5049579, y: 0.5160682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -47.47434}
+        - {x: -50.5, y: -26.47434}
+        - {x: -50.5, y: 22.52566}
+        - {x: -8.500004, y: 47.52566}
+        - {x: 43.5, y: 47.52566}
+        - {x: 50.5, y: 37.52566}
+        - {x: 50.5, y: -12.47434}
+        - {x: 8.499996, y: -47.47434}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3015baab5e6434f8757d3d0e2dd908
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awaken_bonus_100
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 771.0129
+        width: 296.8971
+        height: 94.93578
+      alignment: 9
+      pivot: {x: 0.4982328, y: 0.4949355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.5247, y: -47.4808}
+        - {x: -148.5247, y: -42.4808}
+        - {x: -148.5247, y: 11.5192}
+        - {x: -109.5247, y: 47.5192}
+        - {x: 4.475311, y: 47.5192}
+        - {x: 128.4753, y: 39.5192}
+        - {x: 148.4753, y: 22.5192}
+        - {x: 148.4753, y: -4.480801}
+        - {x: 71.47531, y: -44.4808}
+        - {x: 50.47531, y: -47.4808}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07bd0bcee2860346b01a7082515f40d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      awaken_bonus_100: 21300008
+      button_awaken_bonus: 21300000
+      button_awaken_bonus_02: 21300004
+      button_awaken_free: 21300002
+      icon_biochip: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

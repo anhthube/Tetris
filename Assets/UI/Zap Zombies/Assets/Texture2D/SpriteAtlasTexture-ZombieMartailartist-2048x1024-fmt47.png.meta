@@ -1,0 +1,881 @@
+fileFormatVersion: 2
+guid: bf62187467b7394439abc9af6e33c711
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_Martailartist_walk_08
+  - first:
+      213: 21300002
+    second: Zombie_Martailartist_damage_04
+  - first:
+      213: 21300004
+    second: Zombie_Martailartist_walk_10
+  - first:
+      213: 21300006
+    second: Zombie_Martailartist_walk_04
+  - first:
+      213: 21300008
+    second: Zombie_Martailartist_walk_07
+  - first:
+      213: 21300010
+    second: Zombie_Martailartist_walk_05
+  - first:
+      213: 21300012
+    second: Zombie_Martailartist_damage_01
+  - first:
+      213: 21300014
+    second: Zombie_Martailartist_damage_02
+  - first:
+      213: 21300016
+    second: Zombie_Martailartist_damage_03
+  - first:
+      213: 21300018
+    second: Zombie_Martailartist_damage_05
+  - first:
+      213: 21300020
+    second: Zombie_Martailartist_damage_06
+  - first:
+      213: 21300022
+    second: Zombie_Martailartist_damage_07
+  - first:
+      213: 21300024
+    second: Zombie_Martailartist_damage_08
+  - first:
+      213: 21300026
+    second: Zombie_Martailartist_walk_12
+  - first:
+      213: 21300028
+    second: Zombie_Martailartist_walk_06
+  - first:
+      213: 21300030
+    second: Zombie_Martailartist_walk_09
+  - first:
+      213: 21300032
+    second: Zombie_Martailartist_walk_11
+  - first:
+      213: 21300034
+    second: Zombie_Martailartist_walk_03
+  - first:
+      213: 21300036
+    second: Zombie_Martailartist_walk_01
+  - first:
+      213: 21300038
+    second: Zombie_Martailartist_walk_02
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_08
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.05637169
+        width: 177.9239
+        height: 209.8873
+      alignment: 9
+      pivot: {x: 0.423911, y: 0.5643202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.03806, y: -94.00002}
+        - {x: -89.03806, y: -58.00001}
+        - {x: -89.03806, y: 22.99999}
+        - {x: -88.03806, y: 34.99999}
+        - {x: -89.03806, y: 38.99999}
+        - {x: -89.03806, y: 89.99999}
+        - {x: -39.03806, y: 105}
+        - {x: 64.96194, y: 105}
+        - {x: 79.96194, y: 60.99999}
+        - {x: 88.96194, y: 51.99999}
+        - {x: 88.96194, y: -52.00001}
+        - {x: 21.96194, y: -105}
+        - {x: -13.03806, y: -105}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883a428c2eeff974a85ef964b173b0f3
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_damage_04
+      rect:
+        serializedVersion: 2
+        x: 180.0429
+        y: 0.04290771
+        width: 187.9571
+        height: 255.881
+      alignment: 9
+      pivot: {x: 0.4546628, y: 0.4863867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.02145, y: -90.9834}
+        - {x: -12.02145, y: -110.9834}
+        - {x: -20.02145, y: -126.9834}
+        - {x: -20.02145, y: -127.9834}
+        - {x: -64.02145, y: -127.9834}
+        - {x: -94.02145, y: -54.9834}
+        - {x: -94.02145, y: 61.0166}
+        - {x: -82.02145, y: 87.0166}
+        - {x: -35.02145, y: 128.0166}
+        - {x: 49.97854, y: 128.0166}
+        - {x: 93.97855, y: 91.0166}
+        - {x: 93.97855, y: -58.9834}
+        - {x: 59.97855, y: -83.9834}
+        - {x: 7.978546, y: -97.9834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6309a3c9643e0184a907d5e02cd6d035
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_10
+      rect:
+        serializedVersion: 2
+        x: 0.05131721
+        y: 212.0363
+        width: 174.9487
+        height: 223.904
+      alignment: 9
+      pivot: {x: 0.4141139, y: 0.5603461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.47434, y: -111.9883}
+        - {x: -13.52566, y: -111.9883}
+        - {x: -87.52566, y: -47.98827}
+        - {x: -87.52566, y: 87.01173}
+        - {x: -30.52566, y: 112.0117}
+        - {x: 35.47434, y: 112.0117}
+        - {x: 75.47434, y: 83.01173}
+        - {x: 87.47434, y: 61.01173}
+        - {x: 87.47434, y: -27.98827}
+        - {x: 22.47434, y: -98.98827}
+        - {x: 18.47434, y: -97.98827}
+        - {x: 22.47434, y: -100.9883}
+        - {x: 22.47434, y: -109.9883}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e735e635d08f24d87fa6da8b1845f3
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_04
+      rect:
+        serializedVersion: 2
+        x: 177.0761
+        y: 258.0268
+        width: 185.9239
+        height: 202.8971
+      alignment: 9
+      pivot: {x: 0.4486991, y: 0.6036224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.03806, y: -101.4753}
+        - {x: -93.03806, y: -64.4753}
+        - {x: -93.03806, y: -14.4753}
+        - {x: -75.03806, y: 46.5247}
+        - {x: -34.03806, y: 101.5247}
+        - {x: 57.96194, y: 101.5247}
+        - {x: 92.96194, y: 49.5247}
+        - {x: 92.96194, y: -51.4753}
+        - {x: 54.96194, y: -99.47531}
+        - {x: 43.96195, y: -101.4753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cef4c379afb45847a0ea65e4eb920db
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_07
+      rect:
+        serializedVersion: 2
+        x: 370.0268
+        y: 0.07612038
+        width: 179.9733
+        height: 201.894
+      alignment: 9
+      pivot: {x: 0.4304709, y: 0.5717053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.01337, y: -59.02312}
+        - {x: -90.01337, y: -46.02312}
+        - {x: -90.01337, y: -13.02312}
+        - {x: -72.01338, y: 52.97688}
+        - {x: -20.01337, y: 100.9769}
+        - {x: 15.98663, y: 100.9769}
+        - {x: 40.98663, y: 95.97688}
+        - {x: 89.98663, y: 44.97688}
+        - {x: 89.98663, y: -44.02312}
+        - {x: 36.98663, y: -101.0231}
+        - {x: -37.01337, y: -101.0231}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ff07c715cddb45b51936abf6f26c8
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_05
+      rect:
+        serializedVersion: 2
+        x: 370.0761
+        y: 204.0267
+        width: 182.9239
+        height: 197.8971
+      alignment: 9
+      pivot: {x: 0.4396577, y: 0.5986608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.53806, y: -54.9753}
+        - {x: -91.53806, y: -46.9753}
+        - {x: -91.53806, y: -15.9753}
+        - {x: -66.53806, y: 56.0247}
+        - {x: -32.53806, y: 99.0247}
+        - {x: 37.46194, y: 99.0247}
+        - {x: 91.46194, y: 65.0247}
+        - {x: 91.46194, y: -57.9753}
+        - {x: 90.46194, y: -61.9753}
+        - {x: 30.46194, y: -98.9753}
+        - {x: 20.46194, y: -98.9753}
+        - {x: -13.53806, y: -89.9753}
+        - {x: -14.53806, y: -94.9753}
+        - {x: -29.53806, y: -98.9753}
+        - {x: -37.53806, y: -98.9753}
+        - {x: -42.53806, y: -93.9753}
+        - {x: -61.53806, y: -49.9753}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f32056965dd4943b94dbf625cf610e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_damage_01
+      rect:
+        serializedVersion: 2
+        x: 559.0761
+        y: 482.0429
+        width: 190.9239
+        height: 232.9303
+      alignment: 9
+      pivot: {x: 0.4631369, y: 0.5600691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.53806, y: -116.5081}
+        - {x: -95.53806, y: -72.50808}
+        - {x: -95.53806, y: -19.50808}
+        - {x: -77.53806, y: 80.49192}
+        - {x: -12.53806, y: 116.4919}
+        - {x: 28.46194, y: 116.4919}
+        - {x: 95.46194, y: 82.49192}
+        - {x: 95.46194, y: -44.50808}
+        - {x: 53.46194, y: -95.50808}
+        - {x: -6.538055, y: -98.50808}
+        - {x: -13.53806, y: -115.5081}
+        - {x: -14.53806, y: -116.5081}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96a0de592bca548ae72d316abbe69d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_damage_02
+      rect:
+        serializedVersion: 2
+        x: 752.0761
+        y: 482.0429
+        width: 179.9239
+        height: 218.9303
+      alignment: 9
+      pivot: {x: 0.4303147, y: 0.595884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.03806, y: -58.50808}
+        - {x: -90.03806, y: -53.50808}
+        - {x: -90.03806, y: -5.508078}
+        - {x: -32.03806, y: 109.4919}
+        - {x: 56.96194, y: 109.4919}
+        - {x: 89.96194, y: 63.49192}
+        - {x: 89.96194, y: -46.50808}
+        - {x: 51.96194, y: -92.50808}
+        - {x: -4.038055, y: -109.5081}
+        - {x: -48.03806, y: -109.5081}
+        - {x: -63.03806, y: -68.50808}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb9b71706aff340b69bccd2a48510e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_damage_03
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 661.0429
+        width: 173.9733
+        height: 193.9142
+      alignment: 9
+      pivot: {x: 0.410829, y: 0.6727569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.01337, y: -97}
+        - {x: -87.01337, y: -64}
+        - {x: -87.01337, y: 19}
+        - {x: -25.01337, y: 97}
+        - {x: 32.98663, y: 97}
+        - {x: 86.98663, y: 67}
+        - {x: 86.98663, y: -64}
+        - {x: 55.98663, y: -88}
+        - {x: 3.986626, y: -97}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c34b279f54b02345aa8b33715acf6ef
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_damage_05
+      rect:
+        serializedVersion: 2
+        x: 176.0761
+        y: 669.0761
+        width: 199.9239
+        height: 257.9239
+      alignment: 9
+      pivot: {x: 0.4873049, y: 0.4630198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.03806, y: 0.961937}
+        - {x: -100.0381, y: 36.96194}
+        - {x: -100.0381, y: 81.96194}
+        - {x: -84.03806, y: 128.9619}
+        - {x: 99.96194, y: 128.9619}
+        - {x: 99.96194, y: -61.03806}
+        - {x: 21.96194, y: -120.0381}
+        - {x: -16.03806, y: -129.0381}
+        - {x: -41.03806, y: -129.0381}
+        - {x: -47.03806, y: -123.0381}
+        - {x: -49.03806, y: -84.03806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b646b23a61e8170409db401af2d1e15e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_damage_06
+      rect:
+        serializedVersion: 2
+        x: 750.0761
+        y: 221.1351
+        width: 195.9239
+        height: 258.8649
+      alignment: 9
+      pivot: {x: 0.4768377, y: 0.4649719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.03806, y: -129.5675}
+        - {x: -50.03806, y: -126.5675}
+        - {x: -50.03806, y: -19.56754}
+        - {x: -87.03806, y: 28.43246}
+        - {x: -98.03806, y: 47.43246}
+        - {x: -98.03806, y: 61.43246}
+        - {x: -69.03806, y: 129.4325}
+        - {x: 87.96194, y: 129.4325}
+        - {x: 97.96194, y: 117.4325}
+        - {x: 97.96194, y: -4.567535}
+        - {x: 96.96194, y: -20.56754}
+        - {x: 24.96194, y: -73.56754}
+        - {x: 24.96194, y: -98.56754}
+        - {x: -11.03806, y: -129.5675}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2728f1caf1b3104d9deb75ed1a894be
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_damage_07
+      rect:
+        serializedVersion: 2
+        x: 365.0761
+        y: 404.0429
+        width: 191.9239
+        height: 262.9571
+      alignment: 9
+      pivot: {x: 0.4659341, y: 0.4732981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.96194, y: -131.5215}
+        - {x: -47.03806, y: -131.5215}
+        - {x: -47.03806, y: -126.5215}
+        - {x: -41.03806, y: -91.52145}
+        - {x: -88.03806, y: -4.521454}
+        - {x: -96.03806, y: 12.47855}
+        - {x: -96.03806, y: 68.47855}
+        - {x: -81.03806, y: 123.4785}
+        - {x: -50.03806, y: 131.4785}
+        - {x: 77.96194, y: 131.4785}
+        - {x: 94.96194, y: 115.4785}
+        - {x: 95.96194, y: 106.4785}
+        - {x: 95.96194, y: -17.52145}
+        - {x: 71.96194, y: -36.52145}
+        - {x: 55.96194, y: -113.5215}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bb970f6a7cd05439969663a6ab6748
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_damage_08
+      rect:
+        serializedVersion: 2
+        x: 555.0429
+        y: 0.07612038
+        width: 192.9571
+        height: 244.8477
+      alignment: 9
+      pivot: {x: 0.4687938, y: 0.524505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.52145, y: -122.5}
+        - {x: -96.52145, y: -44.5}
+        - {x: -96.52145, y: 11.5}
+        - {x: -59.52146, y: 98.5}
+        - {x: -18.52145, y: 122.5}
+        - {x: 18.47855, y: 122.5}
+        - {x: 58.47855, y: 114.5}
+        - {x: 89.47855, y: 93.5}
+        - {x: 96.47855, y: 94.5}
+        - {x: 96.47855, y: -71.5}
+        - {x: 85.47855, y: -122.5}
+        - {x: 59.47855, y: -122.5}
+        - {x: 12.47855, y: -112.5}
+        - {x: -17.52145, y: -122.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d1addcffabbfe4e890748026e73010
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_12
+      rect:
+        serializedVersion: 2
+        x: 750.0761
+        y: 0.04290771
+        width: 172.9239
+        height: 218.881
+      alignment: 9
+      pivot: {x: 0.4072536, y: 0.5686063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.46194, y: -106.4834}
+        - {x: 16.46194, y: -109.4834}
+        - {x: -38.53806, y: -109.4834}
+        - {x: -86.53806, y: -68.4834}
+        - {x: -86.53806, y: 56.5166}
+        - {x: -51.53806, y: 109.5166}
+        - {x: 36.46193, y: 109.5166}
+        - {x: 86.46194, y: 66.5166}
+        - {x: 86.46194, y: -30.4834}
+        - {x: 34.46194, y: -90.48339}
+        - {x: 23.46194, y: -97.4834}
+        - {x: 18.46194, y: -96.4834}
+        - {x: 16.46194, y: -94.4834}
+        - {x: 20.46194, y: -100.4834}
+        - {x: 20.46194, y: -102.4834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13da69249f78584b97b849b679a25c3
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_06
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 463.0429
+        width: 179.9239
+        height: 195.9567
+      alignment: 9
+      pivot: {x: 0.4303147, y: 0.5789906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.03806, y: -98.02126}
+        - {x: -90.03806, y: -53.02126}
+        - {x: -90.03806, y: -19.02126}
+        - {x: -78.03806, y: 38.97874}
+        - {x: -31.03806, y: 95.97874}
+        - {x: -17.03806, y: 97.97874}
+        - {x: 37.96194, y: 97.97874}
+        - {x: 89.96194, y: 41.97874}
+        - {x: 89.96194, y: -49.02126}
+        - {x: 48.96194, y: -98.02126}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1dd524f259da64bb0254a4750b75fc
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_09
+      rect:
+        serializedVersion: 2
+        x: 378.0761
+        y: 669.0761
+        width: 176.9239
+        height: 216.8477
+      alignment: 9
+      pivot: {x: 0.4206548, y: 0.5599499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.53806, y: -97.49999}
+        - {x: -88.53806, y: -51.49999}
+        - {x: -88.53806, y: 18.50001}
+        - {x: -85.53806, y: 43.50001}
+        - {x: -77.53806, y: 64.50001}
+        - {x: -33.53806, y: 108.5}
+        - {x: 21.46194, y: 108.5}
+        - {x: 88.46194, y: 68.50001}
+        - {x: 88.46194, y: -39.49999}
+        - {x: 31.46194, y: -108.5}
+        - {x: -7.538055, y: -108.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d0c1c2349175c40a09adcf87850920
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_11
+      rect:
+        serializedVersion: 2
+        x: 752.0761
+        y: 703.0761
+        width: 173.9239
+        height: 224.8716
+      alignment: 9
+      pivot: {x: 0.4106618, y: 0.5577578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.03806, y: -49.51191}
+        - {x: -87.03806, y: -48.51191}
+        - {x: -87.03806, y: 61.48809}
+        - {x: -39.03806, y: 112.4881}
+        - {x: 46.96194, y: 112.4881}
+        - {x: 86.96194, y: 80.48809}
+        - {x: 86.96194, y: -34.51191}
+        - {x: 28.96194, y: -112.5119}
+        - {x: -4.038055, y: -112.5119}
+        - {x: -36.03806, y: -86.51191}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72bf43691b4c9459aa51ac83225108
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_03
+      rect:
+        serializedVersion: 2
+        x: 925.0761
+        y: 0.07612038
+        width: 188.9239
+        height: 214.9044
+      alignment: 9
+      pivot: {x: 0.4574535, y: 0.5836263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.53806, y: -54.52834}
+        - {x: -94.53806, y: -46.52834}
+        - {x: -94.53806, y: -27.52834}
+        - {x: -67.53806, y: 42.47166}
+        - {x: -27.53806, y: 107.4717}
+        - {x: 82.46194, y: 107.4717}
+        - {x: 94.46194, y: 71.47166}
+        - {x: 94.46194, y: -86.52834}
+        - {x: 69.46194, y: -107.5283}
+        - {x: -56.53806, y: -107.5283}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf89dc024ee2b546833768676e7a175
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_01
+      rect:
+        serializedVersion: 2
+        x: 948.0761
+        y: 230.0429
+        width: 190.9239
+        height: 232.9303
+      alignment: 9
+      pivot: {x: 0.4631369, y: 0.5600691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.53806, y: -116.5081}
+        - {x: -95.53806, y: -72.50808}
+        - {x: -95.53806, y: -19.50808}
+        - {x: -77.53806, y: 80.49192}
+        - {x: -12.53806, y: 116.4919}
+        - {x: 28.46194, y: 116.4919}
+        - {x: 95.46194, y: 82.49192}
+        - {x: 95.46194, y: -44.50808}
+        - {x: 53.46194, y: -95.50808}
+        - {x: -6.538055, y: -98.50808}
+        - {x: -13.53806, y: -115.5081}
+        - {x: -14.53806, y: -116.5081}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6f434c4b84b0e4bafee35146b907e4
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Martailartist_walk_02
+      rect:
+        serializedVersion: 2
+        x: 1116.076
+        y: 0.07612038
+        width: 190.9239
+        height: 227.8971
+      alignment: 9
+      pivot: {x: 0.4631369, y: 0.5635169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.46194, y: -82.02469}
+        - {x: 21.46194, y: -73.02469}
+        - {x: 21.46194, y: -74.02469}
+        - {x: 19.46194, y: -78.02469}
+        - {x: -8.538055, y: -114.0247}
+        - {x: -49.53806, y: -114.0247}
+        - {x: -77.53806, y: -65.02469}
+        - {x: -93.53806, y: -46.02469}
+        - {x: -95.53806, y: -37.02469}
+        - {x: -95.53806, y: -28.02469}
+        - {x: -64.53806, y: 39.97531}
+        - {x: -61.53806, y: 51.97531}
+        - {x: -52.53806, y: 75.97531}
+        - {x: -6.538055, y: 113.9753}
+        - {x: 21.46194, y: 113.9753}
+        - {x: 51.46194, y: 103.9753}
+        - {x: 95.46194, y: 70.97531}
+        - {x: 95.46194, y: -42.02469}
+        - {x: 52.46195, y: -87.02469}
+        - {x: 38.46194, y: -95.02469}
+        - {x: 34.46194, y: -94.02469}
+        - {x: 27.46194, y: -87.02469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa34595bac0e8a943b8d4eedac471c1f
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_Martailartist_damage_01: 21300012
+      Zombie_Martailartist_damage_02: 21300014
+      Zombie_Martailartist_damage_03: 21300016
+      Zombie_Martailartist_damage_04: 21300002
+      Zombie_Martailartist_damage_05: 21300018
+      Zombie_Martailartist_damage_06: 21300020
+      Zombie_Martailartist_damage_07: 21300022
+      Zombie_Martailartist_damage_08: 21300024
+      Zombie_Martailartist_walk_01: 21300036
+      Zombie_Martailartist_walk_02: 21300038
+      Zombie_Martailartist_walk_03: 21300034
+      Zombie_Martailartist_walk_04: 21300006
+      Zombie_Martailartist_walk_05: 21300010
+      Zombie_Martailartist_walk_06: 21300028
+      Zombie_Martailartist_walk_07: 21300008
+      Zombie_Martailartist_walk_08: 21300000
+      Zombie_Martailartist_walk_09: 21300030
+      Zombie_Martailartist_walk_10: 21300004
+      Zombie_Martailartist_walk_11: 21300032
+      Zombie_Martailartist_walk_12: 21300026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
